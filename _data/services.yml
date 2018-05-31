@@ -1,17 +1,17 @@
-- menu_name: "Services"
+- menu_name: "Tjenester"
 
-- name: "Contact"
-  url: "/contact/"
-  title: "Contact"
+- name: "Kontakt"
+  url: "/kontakt/"
+  title: "Kontaktdetaljer"
 
 - name: "RSS"
   url: "/feed.xml"
-  title: "Subscribe to RSS Feed"
+  title: "Hold deg oppdatert med RSS"
 
 - name: "Atom"
   url: "/atom.xml"
-  title: "Subscribe to Atom Feed"
+  title: "Hold deg oppdatert med Atom-feed"
 
-- name: "sitemap.xml"
-  url: "/sitemap.xml"
-  title: "Sitemap for Google Webmaster Tools"
+#- name: "Sidekart"
+#  url: "/sitemap.xml"
+#  title: "Sidekart for siden"
