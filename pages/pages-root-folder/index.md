@@ -11,17 +11,17 @@ header:
 info:
   title: "Hva er Fordelingsutvalget"
   url: '/info/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Hva%20er%20Fordelingsutvalget'
+  image: 'https://dummyimage.com/302x183/334d5c/efc94c.png&text=Hva%20er%20egentlig%20Fordelingsutvalget%3F'
   text: ''
 apply:
   title: "Hvordan søke midler"
   url: '/apply/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Hvordan%20søke%20midler'
+  image: 'https://dummyimage.com/302x183/334d5c/efc94c.png&text=Hvordan%20søker%20vi%20om%20midler%3F'
   text: ''
 documents:
   title: "Dokumenter"
   url: '/archive/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Dokumenter'
+  image: 'https://dummyimage.com/302x183/334d5c/efc94c.png&text=Dokumenter'
   text: ''
 #
 # Use the call for action to show a button on the frontpage
