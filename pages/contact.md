@@ -1,15 +1,16 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact Us"
+title: "Kontakt"
+meta_title: "Kontaktinformasjon"
 subheadline: ""
 teaser: ""
-permalink: "/contact/"
+permalink: "/kontakt/"
 ---
 
-- [Wufoo][1]
-- [Google Forms][2]
+*Kontaktinformasjon følger: inntil videre kan [koordinator kontaktes på
+e-post][koordinator].*
 
 
- [1]: http://www.wufoo.com/
- [2]: https://www.google.com/intl/de_de/forms/about/
+[koordinator]: fu-koordinator@ifi.uio.no
+
+
