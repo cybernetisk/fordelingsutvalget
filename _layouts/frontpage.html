@@ -60,27 +60,6 @@ format: blog-index
 {% endcomment %}
 
 {% unless site.posts == empty %}
-<!--    <div class="row t30 b20 homepage">
-        <div class="small-12 columns">
-            {% for post in site.posts limit:1 %}
-            {% if post.image.homepage %}
-            <p>
-                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title | escape_once }}"><img width="970" src="{{ site.urlimg }}{{ post.image.homepage }}" alt="{{ page.title | escape_once }}"></a>
-            </p>
-
-            {% if post.image.caption_url and post.image.caption %}
-            <p class="text-right caption">
-                <a href="{{ post.image.caption_url }}">{{ post.image.caption }}</a>
-            </p>
-            {% endif %}
-            {% else post.image.homepage == NULL %}
-            <h2>{{ site.data.language.new_blog_entries }}</h2>
-            {% endif %}
-            {% endfor %}
-        </div>&lt;!&ndash; /.small-12.columns &ndash;&gt;
-    </div>&lt;!&ndash; /.row &ndash;&gt;-->
-
-
     <div class="row">
         <div class="medium-6 columns">
             {% assign sortedPosts = site.posts %}
@@ -92,14 +71,14 @@ format: blog-index
                 <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
             </p>
             {% endfor %}
-        </div><!-- /.medium-5.columns -->
+        </div>
 
 
         <div class="medium-6 columns">
             <p><strong>{{ site.data.language.more_articles }}</strong></p>
             {% include list-posts entries='4' offset='1' %}
-        </div><!-- /.medium-7.columns -->
-    </div><!-- /.row -->
+        </div>
+    </div>
 {% endunless %}
 
 
@@ -108,7 +87,8 @@ format: blog-index
 * Finally, if there is content, spit it out.
 *
 {% endcomment %}
-
+{% if content %}
 <div class="row">
     {{ content }}
 </div><!-- /.row -->
+{% endif %}
