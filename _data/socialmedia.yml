@@ -1,17 +1,17 @@
 - name: GitHub
-  url: http://github.com/
+  url: https://github.com/cybernetisk/fordelingsutvalget
   class: icon-github
-  title: ""
+  title: "Nettsiden"
 
-- name: YouTube
-  url: http://www.youtube.com/
-  class: icon-youtube
-  title: ""
-
-- name: Twitter
-  url: http://twitter.com/
-  class: icon-twitter
-  title: ""
+# - name: YouTube
+#   url: http://www.youtube.com/
+#   class: icon-youtube
+#   title: ""
+# 
+# - name: Twitter
+#   url: http://twitter.com/
+#   class: icon-twitter
+#   title: ""
 
 # - name: Mixcloud
 #   url: http://www.mixcloud.com/
