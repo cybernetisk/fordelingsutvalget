@@ -170,10 +170,10 @@ msapplication_tilecolor:                "#fabb00"
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
 # og_image:                         ""
-# og_locale:                        "en_EN"
-# og_type:                          "website"
-# og_title:                         ""
-# og_description:                   ""
+og_locale:                        "nb_NO"
+og_type:                          "website"
+og_title:                         "Fordelingsutvalget"
+og_description:                   "Fordelingsutvalget ved Institutt for informatikk støtter studentlivet og -miljøet ved Institutt for informatikk"
 # og_url:                           ""
 # og_site_name:                     ""
 
