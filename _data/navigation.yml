@@ -23,7 +23,7 @@
 #
 #   Navigation to the right › side: right
 #
-- title: "Om FU"
+- title: "Om utvalget"
   url: "/info/"
   side: right
 
@@ -32,5 +32,5 @@
   side: right
 
 - title: "Kontakt oss"
-  url: "/contact/"
+  url: "/kontakt/"
   side: right
