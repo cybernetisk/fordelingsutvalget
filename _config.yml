@@ -16,7 +16,9 @@ slogan: "Fordelingsutvalget ved Institutt for informatikk støtter studentlivet"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes."
+description: |
+  Takket være studentforeningene deler Fordelingsutvalget ut penger for å bedre studentmiljøet på Institutt for informatikk, 
+  med penger fra studentenes arbeid, til studentenes gode.
 
 # Main author of the website
 # See > authors.yml
