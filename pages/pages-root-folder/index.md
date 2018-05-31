@@ -6,16 +6,17 @@
 #
 layout: frontpage
 header:
+  title: Fordelingsutvalget
   image_fullwidth: ojd.jpg
 info:
   title: "Hva er Fordelingsutvalget"
   url: '/info/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Hva_er_Fordelingsutvalget'
+  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Hva%20er%20Fordelingsutvalget'
   text: ''
 apply:
   title: "Hvordan søke midler"
   url: '/apply/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Hvordan_soke_midler'
+  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Hvordan%20søke%20midler'
   text: ''
 documents:
   title: "Dokumenter"
