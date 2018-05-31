@@ -1,0 +1,36 @@
+#
+#   Navigation to the left › side: left
+#
+- title: Fordelingsutvalget
+  url: "/"
+  side: left
+
+#- title: "Dropdown Menu"
+#  url: "#"
+#  side: left
+#  dropdown:
+#  - title: "Dropdown Menu 1"
+#    url: "#"
+#  - title: "Dropdown Menu 2"
+#    url: "#"
+#  - title: "Dropdown Menu 3"
+#    url: "#"
+
+- title: Møtearkiv
+  url: "/archive/"
+  side: left
+
+#
+#   Navigation to the right › side: right
+#
+- title: "Om FU"
+  url: "/info/"
+  side: right
+
+- title: "Søk"
+  url: "/search/"
+  side: right
+
+- title: "Kontakt oss"
+  url: "/contact/"
+  side: right
