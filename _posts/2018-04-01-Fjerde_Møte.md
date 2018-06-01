@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: meeting
 title: "Fjerde møte Vår 2018"
 subheadline: "Møte i Fordelingsutvalget"
 date: 2018-05-16 16:15:00
