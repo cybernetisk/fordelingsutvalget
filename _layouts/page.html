@@ -32,7 +32,7 @@ format: post
 
 			{% if page.teaser %}
 			<p class="teaser" itemprop="description">
-				{{ page.teaser }}
+				{{ page.teaser | markdownify }}
 			</p>
 			{% endif %}
 
