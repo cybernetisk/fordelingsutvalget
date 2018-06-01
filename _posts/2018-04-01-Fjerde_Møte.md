@@ -10,7 +10,13 @@ tags:
 
 ---
 
-1. Mai 2018, kl. 16:15 på Awk    
+Agenda:
+
+* ting
+* tang
+* annet
+
+<!--more-->
 
 **Tilstede:**    
 **Stemmeberettigede**    
