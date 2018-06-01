@@ -8,6 +8,11 @@ categories:
   - Møtereferat
 tags:
   - Møtereferat
+teaser: |
+  Ting og tang.
+  Ting og tang.
+
+  Jeg liker ting og tang.
 ---
 
 
