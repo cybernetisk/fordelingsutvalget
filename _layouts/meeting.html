@@ -25,17 +25,22 @@ format: post
 
 				<span itemprop="name">
 					<p class="subheadline">
-					{% if page.subheadline -%}
-					{{ page.subheadline }}
-					{%- else -%}Møte i Fordelingsutvalget
-					{% endif -%}
+						{% if page.subheadline -%}
+						{{ page.subheadline }}
+						{%- else -%}Møte i Fordelingsutvalget
+						{% endif -%}
 					</p>
-					{% if page.date %}
+						{% if page.date %}
 					<p class="subheadline">
-					{{ page.date | date: "%d. %B %Y" }}
+						{{ page.date | date: "%d. %B %Y" }}
 					</p>
-					{% endif %}
+						{% endif %}
 					<h1>{{ page.title }}</h1>
+					<p>
+						{% if page.referent -%}
+						Referent: {{ page.referent }}
+						{% endif -%}
+					</p>
 				</span>
 			</header>
 
