@@ -1,15 +1,17 @@
 ---
-layout: page
-#
-# Content
-#
+layout: mote
 title: "Første Møte 2016"
 categories:
-  - Møtereferat
+  - Motereferat
 tags:
-  - Møtereferat
+  - Motereferat
+ 
+soknader:
+  - CYB 
+  - FUI
+  - Fadderuka
+ 
 ---
-
 
 
  [1]: #
