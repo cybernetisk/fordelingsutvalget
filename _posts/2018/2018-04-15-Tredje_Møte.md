@@ -1,6 +1,6 @@
 ---
 layout: mote
-title: "Første Møte 2016"
+title: "[TEST] Første Møte 2016"
 categories:
   - Motereferat
 tags:
@@ -13,6 +13,17 @@ soknader:
  
 ---
 
+
+
+Dette er en test
+
+
+# Heading
+Headingtext
+
+
+* Innkalling
+* Søknader
 
  [1]: #
  [2]: #

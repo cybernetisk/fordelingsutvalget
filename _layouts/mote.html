@@ -48,12 +48,13 @@ format: post
 			{% include _comments.html %}
 			{% endif %}
 
+            <h3>Vedlegg:</h3>
 			<ol type="1">
 				{% assign date_str = page.date | date: "%Y-%m-%d"  %}
 				{% for vedlegg in site.static_files %}
 					{% if vedlegg.path contains "assets/vedlegg/" and vedlegg.path contains date_str %}
 						{% assign file_link = vedlegg.path | absolute_url %}
-						<li><a href="{{ file_link }}"> {{vedlegg.name}} </a></li>
+						<li><a href="{{ file_link }}" target="_blank"> {{vedlegg.name}} </a></li>
 					{% endif %}
 				{% endfor %}
 			</ol>
