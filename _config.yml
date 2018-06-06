@@ -46,7 +46,11 @@ urlimg: 'https://fordelingsutvalget.org/images/'
 # Logo size is 600x80 pixels
 logo: "logo.png"
 
-
+plugins:
+  - jekyll-paginate
+  - classifier-reborn
+  - jekyll/tagging
+  - jekyll-tagging-related_posts
 # Paginates all X entries
 paginate: 5
 
@@ -54,7 +58,7 @@ paginate: 5
 future: true
 
 # Pagination path › Important for blog page in /blog/ to work
-paginate_path: "blog/page:num"
+# paginate_path: "blog/page:num"
 
 # Use breadcrumbs
 breadcrumb: true
@@ -64,7 +68,7 @@ breadcrumb: true
 markdown: kramdown
 permalink: /:categories/:title/
 highlight: rouge
-plugins: [jekyll-paginate]
+plugins_dir: ["jekyll-paginate", "classifier-reborn"]
 excerpt_separator: "<!--more-->"
 include: ['.htaccess']
 # Exclude these files from your production _site
@@ -102,8 +106,11 @@ compress_html:
 # Default Settings
 
 defaults:
-  -
-    scope:
+  - scope:
+      path: "/assets/vedlegg"
+    values:
+      vedlegg: true
+  - scope:
       path: "" 				# an empty string here means all files in the project
       type: "sider"
     values:
@@ -111,8 +118,7 @@ defaults:
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
       author: Koordinator     # Default author for pages
-  -
-    scope:
+  - scope:
       path: ""
       type: "nyheter"
     values:
@@ -121,7 +127,8 @@ defaults:
       comments: false
       author: Koordinator     # Default author for posts
 
-
+collections:
+  - vedlegg
 
 #       _   __            _             __  _
 #      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____

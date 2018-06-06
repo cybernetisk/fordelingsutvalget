@@ -7,10 +7,7 @@ teaser: ""
 permalink: "/kontakt/"
 ---
 
-*Kontaktinformasjon følger: inntil videre kan [koordinator kontaktes på
-e-post][koordinator].*
+*Kontaktinformasjon følger: inntil videre kan <a href="mailto:fu-koordinator@ifi.uio.no">koordinator kontaktes på e-post</a>
 
-
-[koordinator]: fu-koordinator@ifi.uio.no
 
 
