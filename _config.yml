@@ -128,7 +128,7 @@ defaults:
       author: Koordinator     # Default author for posts
 
 collections:
-  - vedlegg
+  - meetings
 
 #       _   __            _             __  _
 #      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____
