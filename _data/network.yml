@@ -13,7 +13,7 @@
   title: "Designforeningen ved Institutt for informatikk"
 
 - name: "FUI"
-  url: "http://defi.no"
+  url: "https://ififui.no/"
   title: "Fagutvalget ved Institutt for informatikk"
 
 - name: "MAPS"
@@ -21,7 +21,7 @@
   title: "Matematikk, algoritmer og programmering for studenter"
 
 - name: "Mikro"
-  url: "http://foreninger.uio.no/maps/"
+  url: "https://www.facebook.com/pages/Studentforeningen-Mikro/151779014851965"
   title: "Linjeforeningen ved Informatikk: robotikk og intelligente systemer"
 
 - name: "navet"
@@ -35,4 +35,3 @@
 - name: "ProgSys"
   url: "http://foreninger.uio.no/prognett/"
   title: "Linjeforeningen ved Informatikk: programmering og systemarkitektur"
-
