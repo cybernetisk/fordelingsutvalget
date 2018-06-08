@@ -8,29 +8,10 @@ categories:
 tags:
   - Møtereferat
 referent: "Andreas Nyborg Hansen"
-
 ---
 
-## Agenda
-
-1. [Godkjenning av innkalling]({{ page.url | append: "#innkalling" }})
-2. [Godkjenning av agenda]({{ page.url | append: "#agenda" }})
-3. [Godkjenning av referat]({{ page.url | append: "#referat" }})
-4. [Behandling av søknader]({{ page.url | append: "#soknader" }})
-    1. [CYB Prosjektstøtte Rigg]({{ page.url | append: "#soknad-1" }})
-    2. [CYB Bytte av eiendeler]({{ page.url | append: "#soknad-2" }})
-    3. [Homebrew](({{ page.url | append: "#soknad-3" }}))
-    4. [List]({{ page.url | append: "#soknad-4" }})
-    5. [Mikro](({{ page.url | append: "#soknad-5" }}))
-    6. [Spillutvikling](({{ page.url | append: "#soknad-6" }}))
-    7. [DEFI](({{ page.url | append: "#soknad-7" }}))
-    8. [ProgSys](({{ page.url | append: "#soknad-8" }}))
-    9. [Digitus Minigolf](({{ page.url | append: "#soknad-9" }}))
-    10. [Digitus Hyttetur](({{ page.url | append: "#soknad-10" }}))
-5. [Forslag for forhold foreninger skal ha til bedrifter for å få støtte fra FU](({{ page.url | append: "#sak-5" }}))
-6. [Eventuelt](({{ page.url | append: "#evt" }}))
-
-<!--more-->
+* TOC
+{:toc}
 
 ## Tilstede
 ### Stemmeberettigede    
@@ -88,7 +69,7 @@ Referat fra forrige møte ble godkjent.
 
 **Godkjenning enstemmig med merknader - 110 153,65 kr**  
 
-### 4.2 - CYB-Bytte av eiendeler {#soknad-2}
+### 4.2 - CYB-Bytte av eiendeler
 - Diskusjon
   - Bytte av fast utstyr burde være instituttet sitt ansvar, da det er deres lokaler.
   - Utstyret er originalt ifi sitt, og de har støttet dette tidligere. Det er synd om instituttet overlater vedlikehold av teknisk utstyr til studentene.
@@ -175,7 +156,7 @@ Referat fra forrige møte ble godkjent.
 
 **Godkjenning enstemmig med merknader - 3555 kr av 5805 kr**    
 
-## 5 Forslag for forhold foreninger skal ha til bedrifter for å få støtte fra FU {#sak-5}
+## Sak 5 Forslag for forhold foreninger skal ha til bedrifter for å få støtte fra FU {#sak-5}
  Vi stiller oss positive til at foreninger skal få støtte fra bedrifter, ettersom dette kan føre til mer penger til foreningslivet på IFI. Hvis en forening velger å få støtte fra en eller flere bedrifter for diverse tjenester, vil vi at de skal følge disse kravene for å fortsatt kunne søke om støtte fra FU.
 
 1. Hvis foreninger får støtte fra en eller flere bedrifter skal overskuddet til foreningen gå til FU
@@ -184,7 +165,7 @@ Referat fra forrige møte ble godkjent.
 
 **Det blir diskutert men ingen vedtak. Refererer ikke da nytt forslag vil komme til neste møte.**
 
-## 6 Eventuelt {#evt}   
+## Sak 6 Eventuelt {#evt}   
 
 ### 6.1 Søknader til fadderuka
 Stytet får makten til å behandle små søknader om fadderuka 2018 på egenhånd.    
