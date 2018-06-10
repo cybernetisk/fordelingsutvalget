@@ -9,23 +9,28 @@ permalink: "/archive/"
 		<h1>{{ page.title }}</h1>
 		{% if page.teaser %}<p class="teaser">{{ page.teaser }}</p>{% endif %}
 
+
 		<dl class="accordion" data-accordion>
 			{% assign counter = 1 %}
 			{% assign meetings = site.meetings | sort: 'date' %}
-			{% for meeting in meetings reversed limit:1000 %}
+            {% assign meetings_by_date = site.meetings | group_by_exp:"meeting", "meeting.date | date: '%Y'" %}
+            {% for meetings_in_year in meetings_by_date reversed limit:1000 %}
+            <h2>{{ meetings_in_year.name }}</h2>
+                {% for meeting in meetings_in_year.items reversed limit:1000 %}
                 {% assign meeting_url = meeting.url | absolute_path %}
-
                 <dd class="accordion-navigation">
-                <a href="#panel{{ counter }}">
-                    <span class="iconfont"></span><strong>{{ meeting.title }}</strong>  -- {{ meeting.date | date: "%d. %B %Y" }}
-                </a>
-                <div id="panel{{ counter }}" class="content">
-                     {% include toc.html html=meeting.content baseurl=meeting_url %}
-                    <a href="{{meeting_url}}" title="Read {{ meeting.title | escape_once }}"> <strong>{{ site.data.language.read_more }}</strong></a><br><br>
-                </div>
+                    <a href="#panel{{ counter }}">
+                        <span class="iconfont"></span><strong>{{ meeting.title }}</strong>  -- {{ meeting.date | date: "%d. %B %Y" }}
+                    </a>
+                    <div id="panel{{ counter }}" class="content">
+                        {% include toc.html html=meeting.content baseurl=meeting_url %}
+                        <a href="{{meeting_url}}" title="Read {{ meeting.title | escape_once }}"> <strong>{{ site.data.language.read_more }}</strong></a><br><br>
+                    </div>
                 </dd>
                 {% assign counter=counter | plus:1 %}
-			{% endfor %}
+                {% endfor %}
+            {% endfor %}
+
 		</dl>
 	</div><!-- /.small-12.columns -->
 </div><!-- /.row -->
