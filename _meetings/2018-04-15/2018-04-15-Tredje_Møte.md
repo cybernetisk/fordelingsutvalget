@@ -1,18 +1,11 @@
----
+--- 
 layout: mote
-title: "[TEST] Første Møte 2016"
+title: "[TEST][EXP] Første Møte 2016"
 categories:
   - Motereferat
 tags:
   - Motereferat
- 
-soknader:
-  - CYB 
-  - FUI
-  - Fadderuka
- 
----
-
+--- 
 
 
 Dette er en test
@@ -21,6 +14,8 @@ Dette er en test
 # Heading
 Headingtext
 
+
+## Subheading
 
 * Innkalling
 * Søknader

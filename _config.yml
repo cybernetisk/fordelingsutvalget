@@ -80,6 +80,9 @@ exclude:
     - README.md
     - INSTALL.md
 
+kramdown:
+  parse_block_html: true
+
 
 # The language setting is used in /includes/header.html for html-settings
 language: "nb"
@@ -107,10 +110,6 @@ compress_html:
 
 defaults:
   - scope:
-      path: "/assets/vedlegg"
-    values:
-      vedlegg: true
-  - scope:
       path: "" 				# an empty string here means all files in the project
       type: "sider"
     values:
@@ -128,7 +127,9 @@ defaults:
       author: Koordinator     # Default author for posts
 
 collections:
-  - vedlegg
+  meetings:
+    output: true
+
 
 #       _   __            _             __  _
 #      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____
