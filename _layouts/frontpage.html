@@ -59,17 +59,17 @@ format: blog-index
 *
 {% endcomment %}
 
-{% unless site.posts == empty %}
+{% unless site.meetings == empty %}
     <div class="row">
         <div class="medium-6 columns">
-            {% assign sortedPosts = site.posts %}
+            {% assign sortedPosts = site.meetings | sort: 'date' | reverse %}
             {% for post in sortedPosts limit:1 %}
-            {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
-            <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-            <p>
-                {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% else post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
-                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
-            </p>
+                {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
+                <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+                <p>
+                    {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% else post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
+                    <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
+                </p>
             {% endfor %}
         </div>
 
