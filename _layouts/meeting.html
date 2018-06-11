@@ -51,8 +51,20 @@ format: post
 			</p>
 			{% endif %}
 
+			<h2>Deltagere:</h2>
+
+
+			<span itemprop="">
+				<ul>
+				{% for attendee in page.attending %}
+					<li>{{ site.data.associations[attendee].name }}</li>
+				{% endfor %}
+				</ul>
+			</span>
+
+			<h2>Referat:</h2>
 			<span itemprop="articleSection">
-			{{ content }}
+				{{ content }}
 			</span>
 
 			<h2>Vedlegg:</h2>

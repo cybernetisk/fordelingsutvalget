@@ -129,7 +129,6 @@ defaults:
 collections:
   meetings:
     output: false
-    permalink: :collection/:name
 
 
 #       _   __            _             __  _

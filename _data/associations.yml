@@ -1,0 +1,14 @@
+# This is a list with shorthand mappings for all the associations
+
+
+CYB:
+  name: Cybernetisk Selskab
+  real: Cybernetisk Selskab
+
+dagen:
+  name: dagen@ifi
+  real: ifi-dagen
+
+navet:
+  name: navet
+  real: ifi-navet
