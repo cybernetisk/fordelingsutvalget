@@ -55,6 +55,17 @@ format: post
 			{{ content }}
 			</span>
 
+			<h2>Vedlegg:</h2>
+			<ol type="1">
+				{% assign date_str = page.date | date: "%Y-%m-%d"  %}
+				{% for files in site.static_files %}
+					{% if files.path contains date_str %}
+						{% assign file_link = files.path | absolute_url %}
+						<li><a href="{{ file_link }}" target="_blank"> {{ files.name }} </a></li>
+					{% endif %}
+				{% endfor %}
+			</ol>
+
 			{% if page.show_meta == true %}
 			{% include _meta_information.html %}
 			{% endif %}
