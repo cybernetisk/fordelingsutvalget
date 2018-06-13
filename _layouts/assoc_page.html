@@ -1,0 +1,20 @@
+---
+layout: default
+format: post
+---
+
+<div>
+    <h1>Foreningen: {{page.title}} </h1>
+
+    {% assign sort_code = page.title | downcase %}
+    {% assign assoc_data = site.data.associations[sort_code] %}
+
+    {% if assoc_data %}
+        YAY
+        {{assoc_data}}
+    {% else %}
+        FUCK
+    {% endif %}
+
+</div>
+

@@ -127,8 +127,8 @@ defaults:
       author: Koordinator     # Default author for posts
 
 collections:
-  meetings:
-    output: false
+  associations:
+    output: true
 
 
 #       _   __            _             __  _
