@@ -62,7 +62,7 @@ format: blog-index
 {% unless site.meetings == empty %}
     <div class="row">
         <div class="medium-6 columns">
-            {% assign sortedPosts = site.meetings | sort: 'date' | reverse %}
+            {% assign sortedPosts = site.posts | sort: 'date' | reverse %}
             {% for post in sortedPosts limit:1 %}
                 {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
                 <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
