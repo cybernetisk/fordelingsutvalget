@@ -1,23 +1,37 @@
 # This is a list with shorthand mappings for all the associations
 
+
+# assoc_tag:
+#     name:   "Assoc_name"
+#     real:   "The full name of the associations"
+#     url:    "associations.hacky.software"
+#     tagline:"The bestest association og the associations"
+#     former:
+#       - assoc_last_tag
+
 # Linjeforeningene
 ProgSys:
   name:     "ProgSys"
   real:     "Linjeforeningen for studiet Informatikk: programmering og systemarkitektur"
   url:      "http://foreninger.uio.no/prognett/"
   tagline:  "Linjeforeningen for studiet Informatikk: "
+  former_tag:
+    - prognett
 
 list:
   name:     "LI:ST"
   real:     "Linjeforeningen ved Informatikk: språkteknologi"
   url:      "https://www.facebook.com/LISTIFI"
   tagline:  "Linjeforeningen for studiet Informatikk: språkteknologi"
+  former_tag:
+    - pisk
 
 defi:
   name:     "Defi"
   real:     "Designforeningen ved Institutt for Informatikk"
   url:      "http://defi.no/"
   tagline:  "Linjeforeningen for studiet Informatikk: design, bruk og interaksjon"
+
 
 digitus:
   name:     "Digitus"
@@ -59,6 +73,10 @@ homebrew:
 fadderstyret:
   name: "Fadderstyret"
 
+
+verdande:
+  name: "Verdande"
+
 # Sport og idrett
 sjakk:
   name:     "IFI Sjakk"
@@ -68,6 +86,9 @@ sjakk:
 
 fifi:
   name:     "FIFI"
+  real:     "Fotball ved Institutt for Informatikk"
+  url:      "http://diw07.uio.no/"
+  tagline:  "En sosial og sportslig forening ved instituttet"
 
 # Programmering
 svett:
@@ -89,7 +110,7 @@ maps:
   tagline:  ""
 
 # Trifektaen
-CYB:
+cyb:
   name:     "Cybernetisk Selskab"
   real:     "Cybernetisk Selskab"
   url:      "http://cyb.no"
@@ -125,3 +146,9 @@ upf:
   real: "UiO Paintball"
   url:  "http://foreninger.uio.no/upf/"
   tagline: "Vi jobber for å skape et godt miljø rundt paintball for studenter, både sosialt og treningsmessig"
+
+teknat:
+  name: "TekNat"
+  real: "Tekniske og Naturvitenskapelige anvendelser"
+  url: "http://www.teknat.no/"
+  tagline: "TekNat er en studentforening for deg som liker realfag og matematikk, og som ønsker å bidra til et faglig og sosialt miljø for disse studentene."
