@@ -11,7 +11,6 @@ attending:
         - navet
     - observers:
         - digitus
-    -other:
 ---
 
 * TOC
