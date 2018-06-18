@@ -3,18 +3,51 @@ layout: default
 format: post
 ---
 
-<div>
-    <h1>Foreningen: {{page.title}} </h1>
+<div class="row t30">
+    <div class="medium-8 columns{% if page.sidebar == NULL %} medium-offset-2 end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}">
 
-    {% assign sort_code = page.title | downcase %}
-    {% assign assoc_data = site.data.associations[sort_code] %}
+    {% assign short_code = page.title | downcase %}
+    {% assign assoc_data = site.data.associations[short_code] %}
+    {{assoc_data}}
+
+    <h1>{{assoc_data.real}} </h1>
+    {{assoc_data.tagline}}
 
     {% if assoc_data %}
-        YAY
-        {{assoc_data}}
-    {% else %}
-        FUCK
-    {% endif %}
+        <div>
+            {{post.content}}
 
+            <h2>Søknader:</h2>
+
+            {% assign meeting_files = site.static_files | where_exp: "file","file.path contains 'meetings'" %}
+            {% assign meeting_files = meeting_files | where_exp: "file","file.path contains short_code" | reverse%}
+
+            {% assign first_file = meeting_files | first%}
+            {% assign tmp_year = first_file.path | split:"/"%}
+            {% assign tmp_year = tmp_year[2]%}
+            {% assign cur_year = tmp_year[2]%}
+
+            <dl class="accordion" data-accordion data-multi-expand="true">
+                {% for file in meeting_files %}
+                    {% assign tmp_year = file.path | split:"/"%}
+                    {% assign tmp_year = tmp_year[2]%}
+                    {% if cur_year != tmp_year %}
+                        <h2> Year {{tmp_year}} </h2>
+                        {% assign cur_year = tmp_year%}
+                    {% endif%}
+
+                    {% if cur_year == tmp_year %}
+                        <li>{{ file.path }}</li>
+                    {% endif%}
+
+                {% endfor %}
+            </dl>
+        </div>
+    {% else %}
+        <div>
+            UNABLE TO FIND ANY DATA ON THIS ASSOCIATION
+        </div>
+    {% endif %}
+    </div>
 </div>
 

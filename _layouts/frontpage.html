@@ -59,7 +59,7 @@ format: blog-index
 *
 {% endcomment %}
 
-{% unless site.meetings == empty %}
+{% unless site.posts == empty %}
     <div class="row">
         <div class="medium-6 columns">
             {% assign sortedPosts = site.posts | sort: 'date' | reverse %}
