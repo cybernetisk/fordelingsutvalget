@@ -1,0 +1,154 @@
+# This is a list with shorthand mappings for all the associations
+
+
+# assoc_tag:
+#     name:   "Assoc_name"
+#     real:   "The full name of the associations"
+#     url:    "associations.hacky.software"
+#     tagline:"The bestest association og the associations"
+#     former:
+#       - assoc_last_tag
+
+# Linjeforeningene
+ProgSys:
+  name:     "ProgSys"
+  real:     "Linjeforeningen for studiet Informatikk: programmering og systemarkitektur"
+  url:      "http://foreninger.uio.no/prognett/"
+  tagline:  "Linjeforeningen for studiet Informatikk: "
+  former_tag:
+    - prognett
+
+list:
+  name:     "LI:ST"
+  real:     "Linjeforeningen ved Informatikk: språkteknologi"
+  url:      "https://www.facebook.com/LISTIFI"
+  tagline:  "Linjeforeningen for studiet Informatikk: språkteknologi"
+  former_tag:
+    - pisk
+
+defi:
+  name:     "Defi"
+  real:     "Designforeningen ved Institutt for Informatikk"
+  url:      "http://defi.no/"
+  tagline:  "Linjeforeningen for studiet Informatikk: design, bruk og interaksjon"
+
+
+digitus:
+  name:     "Digitus"
+  real:     "Digitus"
+  url:      "http://www.digitusuio.no/"
+  tagline:  "Linjeforeningen for studiet Informatikk: Digital Økonomi og Ledelse ved Universitetet i Oslo"
+
+mikro:
+  name:     "Mikro"
+  url:      "https://www.facebook.com/pages/Studentforeningen-Mikro/151779014851965"
+  real:     "Nanoelektronikk, Robotikk og Digital Signalbehandling "
+  tagline:  "Linjeforeningen for studiet Informatikk: robotikk og intelligente systemer"
+
+# Annet
+applitude:
+  name:     "Applitude"
+  real:     "Applitude"
+  url:      "http://www.applitude.no"
+  tagline:  "Applitude er en studentforening for alle som er interesserte i apputvikling"
+
+fui:
+  name:     "FUI"
+  real:     "Fagutvalget ved Institutt for informatikk"
+  url:      "https://ififui.no/"
+  tagline:  ""
+
+studentavis:
+  name:     "index"
+  real:     "ifi-avis"
+  url:      "http://ifiavis.no/"
+  tagline:  "Output er studentavisen ved Institutt for Informatikk ved UiO. Vi lager informative og underholdende artikler og gir ut avisen to ganger i året."
+
+homebrew:
+  name:     "Homebrew"
+  real:     "Homebrew"
+  url:      "http://diw02.uio.no/blogg"
+  tagline:  "Homebrew skal fremme kunnskap og interesse om brygging av øl og vin blant studenter ved Institutt for Informatikk"
+
+fadderstyret:
+  name: "Fadderstyret"
+
+
+verdande:
+  name: "Verdande"
+
+# Sport og idrett
+sjakk:
+  name:     "IFI Sjakk"
+  real:     "IFI Sjakk"
+  url:      "https://www.facebook.com/ifisjakk/"
+  tagline:  "Sjakkforening ved Institutt for Informatikk på UiO."
+
+fifi:
+  name:     "FIFI"
+  real:     "Fotball ved Institutt for Informatikk"
+  url:      "http://diw07.uio.no/"
+  tagline:  "En sosial og sportslig forening ved instituttet"
+
+# Programmering
+svett:
+  name: "Svett"
+  real: "Svett"
+  url:  "https://www.facebook.com/svettifi/"
+  tagline: ""
+
+spillutvikling:
+  name:     "IFI-spillutvikling"
+  real:     "IFI-spillutvikling"
+  url:      "http://www.mn.uio.no/ifi/livet-rundt-studiene/organisasjoner/ifi-spillutvikling.html"
+  tagline:  ""
+
+maps:
+  name:     "MAPS"
+  real:     "Matematikk, algoritmer og programmering for studenter"
+  url:      "http://foreninger.uio.no/maps/"
+  tagline:  ""
+
+# Trifektaen
+cyb:
+  name:     "Cybernetisk Selskab"
+  real:     "Cybernetisk Selskab"
+  url:      "http://cyb.no"
+  tagline:  ""
+
+dagen:
+  name:     "dagen@ifi"
+  real:     "ifi-dagen"
+  url:      "https://dagenatifi.no"
+  tagline:  "Karrieredagene på Institutt for informatikk"
+
+navet:
+  name:     "Navet"
+  real:     "ifi-navet"
+  url:      "http://ifinavet.no"
+  tagline:  "Bedriftskontakten ved Institutt for informatikk"
+
+# Utgåtte foreninger. RIP <3
+
+ping:
+  name:     "PING"
+  real:     "Program-, Informasjons- og Nettverksteknologisk Gruppe"
+  url:      "http://www.ping.uio.no/"
+
+makers:
+  name:     "IFI makers"
+  real:     "IFI makers"
+  url:      "http://sonen.ifi.uio.no/"
+  tagline:   ""
+
+upf:
+  name: "UPF"
+  real: "UiO Paintball"
+  url:  "http://foreninger.uio.no/upf/"
+  tagline: "Vi jobber for å skape et godt miljø rundt paintball for studenter, både sosialt og treningsmessig"
+
+teknat:
+  name: "TekNat"
+  real: "Tekniske og Naturvitenskapelige anvendelser"
+  url: "http://www.teknat.no/"
+  tagline: "TekNat er en studentforening for deg som liker realfag og matematikk, og som ønsker å bidra til et faglig og sosialt miljø for disse studentene."

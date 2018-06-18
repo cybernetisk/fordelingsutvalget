@@ -12,8 +12,8 @@ permalink: "/archive/"
 
 		<dl class="accordion" data-accordion>
 			{% assign counter = 1 %}
-			{% assign meetings = site.meetings | sort: 'date' %}
-            {% assign meetings_by_date = site.meetings | group_by_exp:"meeting", "meeting.date | date: '%Y'" %}
+			{% assign meetings = site.posts | sort: 'date' %}
+            {% assign meetings_by_date = site.posts | group_by_exp:"posts", "posts.date | date: '%Y'" %}
             {% for meetings_in_year in meetings_by_date reversed limit:1000 %}
             <h2>{{ meetings_in_year.name }}</h2>
                 {% for meeting in meetings_in_year.items reversed limit:1000 %}
