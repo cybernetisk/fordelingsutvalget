@@ -27,21 +27,54 @@ format: post
             {% assign tmp_year = tmp_year[2]%}
             {% assign cur_year = tmp_year[2]%}
 
-            <dl class="accordion" data-accordion data-multi-expand="true">
-                {% for file in meeting_files %}
-                    {% assign tmp_year = file.path | split:"/"%}
-                    {% assign tmp_year = tmp_year[2]%}
-                    {% if cur_year != tmp_year %}
-                        <h2> Year {{tmp_year}} </h2>
-                        {% assign cur_year = tmp_year%}
-                    {% endif%}
+            {% for file in meeting_files %}
+                {% assign tmp_year = file.path | split:"/"%}
+                {% assign tmp_year = tmp_year[2]%}
+                {% if cur_year != tmp_year %}
+                    {% if forloop.first == false %}
+                        </tbody>
+                        </table>
+                    {% endif %}
+                    <h2> Year {{tmp_year}} </h2>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Dato</th>
+                                <th>Lenke til møte</th>
+                                <th>Lenke til søknad</th>
+                            </tr>
+                        </thead>
+                    <tbody>
 
-                    {% if cur_year == tmp_year %}
-                        <li>{{ file.path }}</li>
-                    {% endif%}
+                    {% assign cur_year = tmp_year%}
+                {% endif%}
 
-                {% endfor %}
-            </dl>
+                {% if cur_year == tmp_year %}
+                    {% assign file_url = file.path | absolute_path | split: "/"%}
+                    {% assign date_str = file_url[3] %}
+                    {% assign meeting_path = site.posts | where_exp: "posts","posts.url contains date_str" %}
+                    {% assign meeting = meeting_path[0]%}
+                    {% assign file_url = file.path | absolute_path %}
+
+                    <tr>
+                        <td>
+                            {{ date_str }}
+                        </td>
+                        <td>
+                            {% if meeting.url %}
+                                <a href="{{ meeting.url | absolute_path }}"> {{meeting.title}} </a>
+                            {% else %}
+                                <strong>Ingen møte funnet, legg det til!</strong>
+                            {% endif %}
+                        </td>
+                        <td>
+                            <a href="{{file_url}}" title="Read {{ file_url }}"> {{file.name}} </a>
+                        </td>
+                    </tr>
+                {% endif%}
+            {% endfor %}
+            </tbody>
+            </table>
         </div>
     {% else %}
         <div>

@@ -127,6 +127,8 @@ defaults:
       author: Koordinator     # Default author for posts
 
 collections:
+  posts:
+    permalink: /:collection/:path/
   associations:
     output: true
 
