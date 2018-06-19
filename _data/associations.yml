@@ -79,6 +79,11 @@ toast:
   url:      "https://www.facebook.com/toastjaern/"
   tagline:  "Vi har arrangementer der vi lager toast og deler det ut til medlemmene våre."
 
+ordenen:
+  name: "Ifi-ordenen"
+  real: "Ifi-ordenen"
+  url:  "http://ordenen.ifi.uio.no/"
+  tagline: "Ordenen tildeles som belønning for utmerkede fortjenester for studentmiljøet ved Ifi."
 
 verdande:
   name: "Verdande"
