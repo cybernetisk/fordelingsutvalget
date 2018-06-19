@@ -1,0 +1,3 @@
+---
+layout: person_page
+---

@@ -1,16 +1,11 @@
 ---
 layout: meeting
-title: Møte template
+title: Tredje møte
 time: 16:15:00
 referent: "Andreas Nyborg Hansen"
 
 attending:
-    - Voters:
-        - CYB
-        - dagen
-        - navet
-    - observers:
-        - digitus
+
 ---
 
 * TOC
