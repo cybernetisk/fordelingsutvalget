@@ -51,6 +51,7 @@ format: post
 			</p>
 			{% endif %}
 
+			{% if page.attending %}
 			<h2>Deltagere med stemmerett:</h2>
 			<ul>
 			{% for attend_line in page.attending %}
@@ -78,6 +79,8 @@ format: post
 				{% endif %}
 			{% endfor %}
 			</ul>
+
+			{% endif %}
 
 			{% if page.not_attending %}
 			<h2>Savnede:</h2>
