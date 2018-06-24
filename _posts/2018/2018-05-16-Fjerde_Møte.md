@@ -3,42 +3,36 @@ layout: meeting
 title: "Fjerde møte Vår 2018"
 time: 16:15:00
 referent: "Andreas Nyborg Hansen"
+
+
+attending:
+    - cyb, Thor Høgås
+    - dagen, Henrik Lilleengen
+    - fui, Peter Norsein
+    - navet, Svein Manum
+    - maps, Andreas Valen
+    - mikro, Jesper Andersson
+    - progsys, Sivert Olsen
+    - list, Øystein Handvik
+    - studentavis, Katrine Grunufsen
+    - defi, Tonje Røyeng
+    - digitus, Julie Eldøi,-
+
+other_attending:
+    - koordinator, Nikolas Papaioannou
+    - okonomians, Andreas Nyborg Hansen
+    - maps, Vegard Stikbakke
+    - defi, Kari Eldfrid Stamnes
+    - homebrew, Svein Manum
+    - digitus, Morten Øsigård
+    - digitus, Cecilie
+    - toast, Eirk
+    - toast, Hilmar
+    - Annet, Kristoffer Solheim
 ---
 
 * TOC
 {:toc}
-
-## Tilstede
-### Stemmeberettigede    
-Thor Høgås, CYB    
-Henrik Lilleengen, dagen@ifi    
-Peter Norsein, FUI    
-Svein Manum, Navet (+ Homebrew )    
-Andreas Valen, MAPS    
-Jesper Andersson, Mikro    
-Sivert Olsen, ProgSys    
-Øystein Handvik, LI:SP    
-Katrine Grunufsen, Ifi-avis    
-Tonje Røyeng, Defi    
-
-### Observatører tilstede
-Julie Eldøi, Digitus    
-
-
-### Stemmeberettigede og observatører som ikke var tilstede
-
-
-### Andre
-Nikolas Papaioannou, Koordinator    
-Andreas Nyborg Hansen, Økonomiansvalig     
-Vegard Stikbakke, MAPS     
-Kari Eldfrid Stamnes, Defi    
-Svein Manum, Homebrew     
-Morten Øsigård , digitus    
-Cecilie, digitus    
-Eirk , TOAST    
-Hilmar, TOAST    
-Kristoffer Solheim, annet    
 
 ## Sak 1 Godkjenning av innkalling {#innkalling}
 Innkalling ble godkjent. Trøbbel med innkalling. Uvist hvorfor.     

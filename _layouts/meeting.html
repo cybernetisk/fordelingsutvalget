@@ -32,7 +32,7 @@ format: post
 					</p>
 						{% if page.date %}
 					<p class="subheadline">
-						{{ page.date | date: "%d. %B %Y" }}
+						{{ page.date | date: "%Y-%m-%d" }}
 					</p>
 						{% endif %}
 					<h1>{{ page.title }}</h1>
@@ -51,16 +51,78 @@ format: post
 			</p>
 			{% endif %}
 
-			<h2>Deltagere:</h2>
+			{% if page.attending %}
+			<h2>Deltagere med stemmerett:</h2>
+			<ul>
+			{% for attend_line in page.attending %}
+				{% assign attendee = attend_line | split:","%}
 
+				{% assign assoc_code = attendee[0] | downcase %}
+				{% assign name = attendee[1] %}
+				{% assign status = attendee[2] %}
 
-			<span itemprop="">
+				{% if status == "+" %}
+					{% assign status = "(Stemmerett)" %}
+				{% elsif status == "-" %}
+					{% assign status = "(Observatør)" %}
+				{% else %}
+					{% assign status = ""%}
+				{% endif %}
+
+				{% assign assoc_obj = site.data.associations[assoc_code] %}
+				{% assign assoc_tmp = site.associations | where_exp: "e","e.url contains assoc_code" %}
+
+				{% if assoc_obj.name %}
+					<li><a href="{{ assoc_tmp[0].url | absolute_path }}"> {{ assoc_obj.name }}</a>{%if name%}, {{name}} {%endif%} {%if status%}{{status}}{%endif%} </li>
+				{% else %}
+					<li>INVALID code: "{{attendee}}"</li>
+				{% endif %}
+			{% endfor %}
+			</ul>
+
+			{% endif %}
+
+			{% if page.not_attending %}
+			<h2>Savnede:</h2>
 				<ul>
-				{% for attendee in page.attending %}
-					<li>{{ site.data.associations[attendee].name }}</li>
+				{% for attendee in page.not_attending %}
+					{% assign assoc_code = attendee | downcase %}
+
+					{% assign assoc_obj = site.data.associations[assoc_code] %}
+					{% assign assoc_tmp = site.associations | where_exp: "e","e.url contains assoc_code" %}
+
+					{% if assoc_obj.name %}
+						<li><a href="{{ assoc_tmp[0].url | absolute_path }}"> {{ assoc_obj.name }}</a></li>
+					{% else %}
+						<li>INVALID code: "{{attendee}}"</li>
+					{% endif %}
 				{% endfor %}
 				</ul>
-			</span>
+			{% endif %}
+
+
+			{% if page.other_attending %}
+				<h2>Andre:</h2>
+				<ul>
+				{% for attend_line in page.other_attending %}
+					{% assign attendee = attend_line | split:","%}
+
+					{% assign assoc_code = attendee[0] | downcase %}
+					{% assign name = attendee[1] %}
+
+					{% assign assoc_obj = site.data.associations[assoc_code] %}
+					{% assign assoc_tmp = site.associations | where_exp: "e","e.url contains assoc_code" %}
+
+					{% if assoc_obj.name %}
+						<li><a href="{{ assoc_tmp[0].url | absolute_path }}"> {{ assoc_obj.name }}</a>{%if name%}, {{name}} {%endif%}</li>
+					{% else %}
+						<li>{{ assoc_code | capitalize }}{%if name%}, {{name}} {%endif%}</li>
+					{% endif %}
+				{% endfor %}
+				</ul>
+			{% endif %}
+
+
 
 			<h2>Referat:</h2>
 			<span itemprop="articleSection">

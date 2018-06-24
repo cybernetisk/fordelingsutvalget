@@ -10,7 +10,7 @@
 #       - assoc_last_tag
 
 # Linjeforeningene
-ProgSys:
+progsys:
   name:     "ProgSys"
   real:     "Linjeforeningen for studiet Informatikk: programmering og systemarkitektur"
   url:      "http://foreninger.uio.no/prognett/"
@@ -73,6 +73,17 @@ homebrew:
 fadderstyret:
   name: "Fadderstyret"
 
+toast:
+  name:     "Toastjern"
+  real:     "Toastens Organisasjon for Alle Studenter Til Jernets Ære og Riket Norge"
+  url:      "https://www.facebook.com/toastjaern/"
+  tagline:  "Vi har arrangementer der vi lager toast og deler det ut til medlemmene våre."
+
+ordenen:
+  name: "Ifi-ordenen"
+  real: "Ifi-ordenen"
+  url:  "http://ordenen.ifi.uio.no/"
+  tagline: "Ordenen tildeles som belønning for utmerkede fortjenester for studentmiljøet ved Ifi."
 
 verdande:
   name: "Verdande"
@@ -127,6 +138,22 @@ navet:
   real:     "ifi-navet"
   url:      "http://ifinavet.no"
   tagline:  "Bedriftskontakten ved Institutt for informatikk"
+
+# Meta forening for FU
+
+koordinator:
+  name: "Koordinator"
+  real: "Nikolas Papaioannou"
+  url: "hacky.software"
+  tagline: "lol taglines"
+
+okonomians:
+  name: "Økonomiansvarlig"
+  real: "Andreas Nyborg Hansen"
+  url: ""
+  tagline: "lol taglines"
+
+
 
 # Utgåtte foreninger. RIP <3
 
