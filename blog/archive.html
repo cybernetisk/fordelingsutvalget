@@ -20,7 +20,7 @@ permalink: "/archive/"
                 {% assign meeting_url = meeting.url | absolute_path %}
                 <dd class="accordion-navigation">
                     <a href="#panel{{ counter }}">
-                        <span class="iconfont"></span><strong>{{ meeting.title }}</strong>  -- {{ meeting.date | date: "%d. %B %Y" }}
+                        <span class="iconfont"></span><strong>{{ meeting.title | capitalize }}</strong>  -- {{ meeting.date | date: "%d. %B %Y" }}
                     </a>
                     <div id="panel{{ counter }}" class="content">
                         {% include toc.html html=meeting.content baseurl=meeting_url %}
