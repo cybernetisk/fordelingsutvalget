@@ -1,3 +1,3 @@
 ---
-   layout: assoc_page
-   ---
+layout: assoc_page
+---
