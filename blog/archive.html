@@ -14,13 +14,13 @@ permalink: "/archive/"
 			{% assign counter = 1 %}
 			{% assign meetings = site.posts | sort: 'date' %}
             {% assign meetings_by_date = site.posts | group_by_exp:"posts", "posts.date | date: '%Y'" %}
-            {% for meetings_in_year in meetings_by_date reversed limit:1000 %}
+            {% for meetings_in_year in meetings_by_date limit:1000 %}
             <h2>{{ meetings_in_year.name }}</h2>
-                {% for meeting in meetings_in_year.items reversed limit:1000 %}
+                {% for meeting in meetings_in_year.items limit:1000 %}
                 {% assign meeting_url = meeting.url | absolute_path %}
                 <dd class="accordion-navigation">
                     <a href="#panel{{ counter }}">
-                        <span class="iconfont"></span><strong>{{ meeting.title }}</strong>  -- {{ meeting.date | date: "%d. %B %Y" }}
+                        <span class="iconfont"></span><strong>{{ meeting.title | capitalize }}</strong>  -- {{ meeting.date | date: "%d. %B %Y" }}
                     </a>
                     <div id="panel{{ counter }}" class="content">
                         {% include toc.html html=meeting.content baseurl=meeting_url %}
