@@ -14,8 +14,10 @@ Utvalget har som hovedmål gi dette overskuddet tilbake til studentene gjennom �
 - Kveldsaktiviteter under fadderuken
 - Hyttetur med helstekt gris
 - Og mye mye mer
+
 ## Hvor kommer pengene fra?
-Alle midlene som blir blir det ut kommer fra overskuddet til navet og dagen@ifi. Flere av medlemsforeningene og søkerforeninger har vedtektsfestet at også de skal gi sitt overskudd til fordelingsutvalget, men hittil har ingen andre hatt økonomien til å gjennomføre dette. Fordelingsutvalget mottar ingen midler fra UiO, SiO eller andre lignende organisasjoner, og er derfor 100% finansiert av foreninger tilknyttet institutt for informatikk.     
+Alle midlene som blir blir det ut kommer fra overskuddet til navet og dagen@ifi. Flere av medlemsforeningene og søkerforeninger har vedtektsfestet at også de skal gi sitt overskudd til fordelingsutvalget, men hittil har ingen andre hatt økonomien til å gjennomføre dette. Fordelingsutvalget mottar ingen midler fra UiO, SiO eller andre lignende organisasjoner, og er derfor 100% finansiert av foreninger tilknyttet institutt for informatikk.    
+
 ## Hvem sitter i utvalget?
 Det sitter i 10 foreninger med stemmerett i utvalget. Disse er:    
 - [Cybernetisk Selskab](http://cyb.no/)
@@ -29,6 +31,7 @@ Det sitter i 10 foreninger med stemmerett i utvalget. Disse er:
 - [ProgSys](http://foreninger.uio.no/prognett/)
 - [Ifi-Avis](http://ifiavis.no/)
   
-I tillegg har utvalget et styre, bestående av en koordinator og en økonomiansvarlig. Styret utfører de administrative oppgavene til utvalget samt veileder medlemmene om tidligere praksis av utdeling av midler, og informere om gjeldende retningslinjer. Styret har ingen stemmerett.     
+I tillegg har utvalget et styre, bestående av en koordinator og en økonomiansvarlig. Styret utfører de administrative oppgavene til utvalget samt veileder medlemmene om tidligere praksis av utdeling av midler, og informere om gjeldende retningslinjer. Styret har ingen stemmerett.   
+
 ## Hvem kan søke om stødnad? 
 Alle foreninger tilknyttet institutt for informatikk kan søke om midler. For mer info, se [her](https://fordelingsutvalget.org/apply/). 
