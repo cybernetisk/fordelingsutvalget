@@ -21,7 +21,7 @@ attending:
 not_attending
   - fui
   
-Andre:
+other_attending:
   - fadderstyret
   
 ---
