@@ -17,18 +17,6 @@ attending:
     - list
     - studentavis
     - defi
-
-other_attending:
-    - koordinator, Nikolas Papaioannou
-    - okonomians, Andreas Nyborg Hansen
-    - maps, Vegard Stikbakke
-    - defi, Kari Eldfrid Stamnes
-    - homebrew, Svein Manum
-    - digitus, Morten Øsigård
-    - digitus, Cecilie
-    - toast, Eirk
-    - toast, Hilmar
-    - Annet, Kristoffer Solheim
     
 not_attending
   - fui
