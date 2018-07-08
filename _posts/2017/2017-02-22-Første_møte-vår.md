@@ -28,7 +28,8 @@ other_attending:
     - svett, Nicolai Skogheim
     - Verdande, Mahasty Assi
     - ordenen, Arne Hassel
-    - "",Nikolas Papaioannou
+    - Nikolas Papaioannou
+
 ---
 
 

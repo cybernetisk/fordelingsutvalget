@@ -14,8 +14,7 @@ attending:
     - mikro, Jesper Anderson
     - ProgNett, Hans Christian Tranøy Jenvild
     - list, Katarzyna Korsak
-    - studentavis
-
+    - studentavis,  Nina Bakås
     - fui, Eskil Schjølberg
 
 not_attending:
@@ -29,8 +28,8 @@ other_attending:
     - Fadderstyret, Kangeyan Illavalagan
     - Verdande, Lilly Helmersen
     - sjakk, Kim
-    - ifiavis, Nina Bakås
     - sjakk, Kjetil
+
 ---
 
 ## Sak 1 - Godkjenning av innkalling: {#innkalling}
