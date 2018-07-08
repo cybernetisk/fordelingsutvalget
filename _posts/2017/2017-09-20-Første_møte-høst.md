@@ -19,10 +19,12 @@ attending:
     - defi
 
 not_attending:
-  - fui
+    - fui
 
 other_attending:
-  - fadderstyret
+    - koordinator, Nikolas Papaioannou
+    - okonomians, Andreas Nyborg Hansen
+    - fadderstyret
 
 ---
 
