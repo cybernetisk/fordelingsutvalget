@@ -23,7 +23,6 @@ other_attending:
     - koordinator, Nikolas Papaioannou
     - okonomians, Andreas Nyborg Hans
     - Annet, Joshi
-    - digitus
 
 ---
 
