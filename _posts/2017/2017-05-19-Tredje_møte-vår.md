@@ -32,6 +32,9 @@ other_attending:
 
 ---
 
+* TOC
+{:toc}
+
 ## Sak 1 - Godkjenning av innkalling: {#innkalling}
 Innkalling godkjent
 

@@ -24,6 +24,8 @@ other_attending:
     - fui, Suhas Govind Joshi
 
 ---
+* TOC
+{:toc}
 
 ## 1. Godkjenning av innkalling {#innkalling}
 Innkallingen ble godkjent.
