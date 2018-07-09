@@ -13,7 +13,6 @@ attending:
     - mikro, Anders Rokkones
     - prognett, Aulon Mujaj
     - pisk, Kaisa Korsak
-    - studentavis
     - fui, Johan Håvik
 
 not_attending:
