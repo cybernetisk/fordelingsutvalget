@@ -8,23 +8,20 @@ referent: "Andreas Lind-Johansen"
 
 attending:
     - cyb, Jan Furulund
-    - dagen
     - navet, Kristin Brænden
     - maps, Tore Norderud
     - mikro, Anders Rokkones
     - prognett, Aulon Mujaj
     - pisk, Kaisa Korsak
     - studentavis
-    - defi
     - fui, Johan Håvik
 
 not_attending:
-    - ping,+
-    - navet,+
+    - ping
+    - dagen
 
 other_attending:
     - koordinator, Andreas Lind-Johansen
-    - okonomians,
     - studentavis, Hans Petter Taugbøl Kragset,-
     - defi, Magnus Søyland
     - sjakk, Joakim Lindquister
