@@ -11,11 +11,7 @@ attending:
     - dagen, Magnus Thorstensen
     - navet, Kristin Brænden
     - maps, Tore Norderud
-    - mikro
-    - progsys
     - pisk, Axel Rosen
-    - studentavis
-    - defi
     - fui, Johan Håvik
 
 not_attending:
