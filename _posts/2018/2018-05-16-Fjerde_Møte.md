@@ -18,7 +18,7 @@ attending:
     - list, Øystein Handvik
     - studentavis, Katrine Grunufsen
     - defi, Tonje Røyeng
-    - digitus, Julie Eldøi,-
+
 
 other_attending:
     - koordinator, Nikolas Papaioannou
@@ -26,6 +26,7 @@ other_attending:
     - maps, Vegard Stikbakke
     - defi, Kari Eldfrid Stamnes
     - homebrew, Svein Manum
+    - digitus, Julie Eldøi,-
     - digitus, Morten Øsigård
     - digitus, Cecilie
     - toast, Eirk
