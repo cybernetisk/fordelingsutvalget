@@ -29,7 +29,6 @@ other_attending:
     - foreningsfesten, Suhas Govind Joshi
     - Andre, Andreas Lind­ Johansen
 
-
 ---
 * TOC
 {:toc}
