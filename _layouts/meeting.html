@@ -109,12 +109,19 @@ format: post
 
 					{% assign assoc_code = attendee[0] | downcase %}
 					{% assign name = attendee[1] %}
+					{% assign status = attendee[2] %}
+
+					{% if status == "-" %}
+						{% assign status = "(Observatør)" %}
+					{% else %}
+						{% assign status = ""%}
+					{% endif %}
 
 					{% assign assoc_obj = site.data.associations[assoc_code] %}
 					{% assign assoc_tmp = site.associations | where_exp: "e","e.url contains assoc_code" %}
 
 					{% if assoc_obj.name %}
-						<li><a href="{{ assoc_tmp[0].url | absolute_path }}"> {{ assoc_obj.name }}</a>{%if name%}, {{name}} {%endif%}</li>
+						<li><a href="{{ assoc_tmp[0].url | absolute_path }}"> {{ assoc_obj.name }}</a>{%if name%}, {{name}} {%endif%} {%if status%}{{status}}{%endif%} </li>
 					{% else %}
 						<li>{{ assoc_code | capitalize }}{%if name%}, {{name}} {%endif%}</li>
 					{% endif %}
