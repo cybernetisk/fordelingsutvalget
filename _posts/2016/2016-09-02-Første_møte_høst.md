@@ -1,42 +1,36 @@
-**TODO**
-- meta
+---
+layout: meeting
+title: "Første møte høst 2016"
+subheadline: "Møte i Fordelingsutvalget"
 
-Møte i Fordelingsutvalget
-2. September 2016, kl. 16:15 på Awk
+time: 16:15:00
+referent: "Kristin Brænden"
 
-Tilstede:
+attending:
+    - cyb, Silje Merethe Dahl
+    - dagen, Magnus Thorstensen
+    - navet, Espen Wøien Olsen
+    - prognett, Kristoffer Mjelva 
+    - pisk, Adrian Erikse
+    - maps, Tore Norderud
 
-Fra FU:
-Andreas Lind-Johansen
+not_attending:
+    - fui
+    - mikro
 
-Stemmeberettigede
-Magnus Thorstensen, dagen@IFI
-Silje Merethe Dahl, CYB 
-Adrian Eriksen, PISK
-Tore Norderud, MAPS
-Kristoffer Mjelva, ProgNett 
-Espen Wøien Olsen, Navet 
+other_attending:
+    - koordinator, Andreas Lind-Johansen
+    - studentavis, ,-
+    - cyb, Mathias Johan Poyti Stang
+    - defi, Ole Emil Øygarden
+    - defi, Magnus Søyland
+    - ordenen, Arne Hassel
+    - applitude, Roy Olav Purser
+    - sjakk, Kjetil Justnes
+    - sjakk, Kim Bjørneset
+    - , Kristin Brænden
 
-Stemmeberettigede som ikke var tilstede:
-FUI
-Mikro
-
-Observatør:
-IFI-avisen 
-
-Andre:
-Mathias Johan Poyti Stang, CYB
-Ole Emil Øygarden, DEFI
-Magnus Søyland, DEFI 
-Arne Hassel, IFI-ordenen
-Roy Olav Purser, Applitude
-Kjetil Justnes, IFI-sjakk
-Kim Bjørneset, IFI-sjakk
-Kristin Brænden
-
-Referent: Kristin Brænden
-------------
-
+---
 
 ## Sak 1 Godkjenning av innkalling {#innkalling}
 *Innkallingen ble godkjent*
