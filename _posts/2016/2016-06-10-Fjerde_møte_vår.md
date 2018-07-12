@@ -1,31 +1,33 @@
-** TODO**
-  -meta
-  
-Møte i Fordelingsutvalget
-10. Juni 2016, kl. 10:15 på Awk
+---
+layout: meeting
+title: "Fjerde møte vår 2016"
+subheadline: "Møte i Fordelingsutvalget"
 
-Tilstede:
-Stemmeberettigede
-Odd-Tørres Lunde, CYB
-Nicolas Harlem Eide, dagen@ifi
-Sikander Farrouq, Navet
-Tore Norderud, MAPS
-Isak Eriksen Bjørn, Mikro
-Marisu Bernklev, PING
-Kristin Sunde, ProgNett
+time: 16:15:00
+referent: "Andreas Lind-Johansen"
 
-Stemmeberettigede og observatører som ikke var tilstede:
-FUI, PI:SK, IFI-Avis 
+attending:
+    - cyb, Odd-Tørres Lunde
+    - dagen, Nicolas Harlem Eide
+    - navet, Sikander Farrouq
+    - mikro, Isak Eriksen Bjørn
+    - maps, Tore Norderud
+    - ping, Marisu Bernklev 
+    - prognett, Kristin Sunde 
 
-Andre:
-Andreas Lind-Johansen, Koordinator
-Jesper Anderson, Mikro
-Ellen, Fadderstyret
-Larry Parker, Fadderstyret
+not_attending:
+    - FUI
+    - pisk
+    - studentavis
 
-Referent: Andreas Lind-Johansen
+other_attending:
+    - koordinator, Andreas Lind-Johansen
+    - mikro, Jesper Anderson
+    - fadderstyret, Ellen
+    - fadderstyret, Larry Parker
+    
+---
 
-----------
 * TOC
 {:toc}
 
