@@ -1,38 +1,35 @@
-**TODO**
-- Meta
+---
+layout: meeting
+title: Andre møte høst 2018
+subheadline: "Møte i Fordelingsutvalget"
 
-Møte i Fordelingsutvalget
-7. Oktober 2016, kl. 16:15 på Awk
+time: 16:15:00
+referent: "Kristin Brænden"
 
-Tilstede:
+attending:
+    - cyb, Odd-Tørres Lunde
+    - dagen, Nicolas Harlem Eide
+    - navet, Espen Wøien Olsen
+    - fui, Johan Haavik
+    - mikro, Ole Edvin Skjeltorp
+    - maps, Tore Sund Norderud
+    - studentavisa, Hans Petter Taugbøl Kraget
+     
 
-Fra FU:
-Andreas Lind-Johansen, koordinator
-Kristin Brænden, økonomiansvarlig
+not_attending:
+   - pisk
+   - prognett
 
-Stemmeberettigede:
-Nicolas Harlem Eide, dagen@IFI
-Odd-Tørres Lunde, CYB 
-Johan Haavik, FUI
-Ole Edvin Skjeltorp, Mikro
-Tore Sund Norderud, MAPS
-Espen Wøien Olsen, Navet 
+other_attending:
+    - koordinator, Andreas Lind-Johansen
+    - okonomians, Kristin Brænden
+    - defi, Magnus Søyland
+    - defi, Kari Stamnes
+    - mikro, Isak Eriksen Bjørn
+    
+---
 
-Stemmeberettigede fra sak 5.4:
-Hans Petter Taugbøl Kraget, IFI-avisen
-
-Stemmeberettigede som ikke var tilstede:
-PISK
-ProgNett 
-
-Andre:
-Magnus Søyland, DEFI 
-Kari Stamnes, DEFI 
-Isak Eriksen Bjørn, Mikro
-
-Referent: Kristin Brænden
-
------------
+NOTE: Hans Petter Taugbøl Kraget fra IFI-avis ankom til sak 5.4 
 
 ## Sak 1 Godkjenning av innkalling {#innkalling}
 Innkallingen ble godkjent 
