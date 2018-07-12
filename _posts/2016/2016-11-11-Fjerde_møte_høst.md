@@ -1,40 +1,38 @@
-**TODO**
--meta
+---
+layout: meeting
+title: "Fjerde møte høst 2016"
+subheadline: "Møte i Fordelingsutvalget"
 
-Møte i Fordelingsutvalget
-11. November 2016, kl. 16:15 på Awk, møtet ble hevet 17:42 
+time: 16:15:00
+referent: "Kristin Brænden"
 
-Tilstede:
+attending: 
+    - dagen, Magnus Thorstensen
+    - navet, Sikander Farooq
+    - mikro, Jesper Andersson
+    - prognett, Halvor Mangseth
+    - fui, Johan Haavik
+    - maps, Tore Norderud
+    - studentavis, Hans Petter Taugbøl Kragset
+    - pisk, Øystein Folvik
 
-Fra FU:
-Andreas Lind-Johansen, koordinator
-Kristin Brænden, økonomiansvarlig
+not_attending:
+    - cyb
 
-Stemmeberettigede:
-Johan Haavik, FUI
-Jesper Andersson, Mikro
-Tore Norderud, MAPS
-Sikander Farooq, Navet 
-Hans Petter Taugbøl Kragset, IFI-avisen
-Øystein Folvik, PISK
-Halvor Mangseth,ProgNett 
+other_attending:
+    - koordinator, Andreas Lind-Johansen
+    - okonomians, Kristin Brænden
+    - pisk, Kaisa Korsak 
+    - foreningsfesten, Suhas Govind Joshi 
+    - svett, Nicolai Skogheim 
+    - defi, Kari Stamnes
 
-Stemmeberettigede fra sak 4.4: 
-Magnus Thorstensen, dagen@IFI
+---
 
-Stemmeberettigede foreninger som ikke var tilstede:
-CYB 
-
-Andre:
-Kaisa Korsak, PISK (gikk før sak 5)
-Suhas Govind Joshi, på vegne av Foreningsfesten
-Nicolai Skogheim, Svett
-Kari Stamnes, DEFI 
-
-Referent: Kristin Brænden
-------------
 * TOC
 {:toc}
+
+NOTE: Magnus Thorstensen fra dagen@ifi ankom til sak 4.4
 
 ## Sak 1 Godkjenning av innkalling {#innkalling}
 **Innkallingen ble godkjent**
