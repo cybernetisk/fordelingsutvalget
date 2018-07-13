@@ -28,7 +28,7 @@ other_attending:
     - applitude, Roy Olav Purser
     - sjakk, Kjetil Justnes
     - sjakk, Kim Bjørneset
-    - , Kristin Brænden
+    - Kristin Brænden
 
 ---
 
