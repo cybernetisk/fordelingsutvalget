@@ -38,7 +38,7 @@ NOTE: Magnus Thorstensen fra dagen@ifi ankom til sak 4.4
 **Innkallingen ble godkjent**
 
 ## Sak 2 Godkjenning av agenda {#agenda}
-**Agenda ble godkjent **
+**Agenda ble godkjent**
 
 ## Sak 3 Godkjenning av referat {#referat}
 **Referatet ble godkjent** 
@@ -72,7 +72,7 @@ NOTE: Magnus Thorstensen fra dagen@ifi ankom til sak 4.4
 - **Merknad**
   - *Posten styremiddag blir kuttet med 500 kr. Fra 3000 kr til 2500 kr*
 
-**Godkjennes enstemmig med merknad - 6300 kr av 6800 kr*
+**Godkjennes enstemmig med merknad - 6300 kr av 6800 kr**
 
 ### 4.4 - Foreningsfestens søknad om etterstøtte {#soknad-4}
 - Diskusjon
