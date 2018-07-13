@@ -4,7 +4,7 @@ title: "Andre møte vår 2016"
 subheadline: "Møte i Fordelingsutvalget"
 
 time: 16:15:00
-referent: "Andreas Lind­ Johansen"
+referent: "Andreas Lind Johansen"
 
 attending:
     - cyb, Jan Furulund
@@ -23,7 +23,7 @@ not_attending:
 other_attending:
     - koordinator, Mathias Johan Johansen
     - foreningsfesten, Suhas Govind Joshi
-    - Andre, Andreas Lind­ Johansen
+    - Andre, Andreas Lind Johansen
 
 ---
 * TOC
@@ -39,11 +39,11 @@ Agenda ble godkjent
 Referat fra forrige møte ble godkjent
 
 ## Sak 4 Valg av koordinator {#valg}
-Andreas Lind­Johansen stiller til koordinator
+Andreas Lind Johansen stiller til koordinator
 Andreas ble valgt.
 
 ## Sak 5 Behandling av søknader {#soknader}
-### 5.1 ­ Foreningsfesten {#soknad-1}
+### 5.1 Foreningsfesten {#soknad-1}
 - Diskusjon
     - Debatt rundt hvem som skal bli invitert til festen. Enighet om at festen burde favne bredt og inkludere alle foreninger
 - Merknader:
@@ -60,14 +60,14 @@ Andreas ble valgt.
     - Spørsmål rundt styremiddag, dårlig stil å ikke ha noe aktivitet forrige semester og så søke om styremiddag.
     - Diskusjon rundt støtte til generalforsamling. Foreslår å kutte den ned til 200kr.
 
-**- Merknader:**
+- **Merknader:**
     - Styremiddagen strykes fra denne søknaden. Vi oppfordrer til å vurdere å søke om dette senere ettersom de gjennomfører mer aktivitet.
     - Semestersluttgrilling mangler antall deltakere, og blir derfor strøket. Ønsker også mer informasjon om dette arrangementet
     - FU ønsker en presisering av hva som menes med medlemmer i foreningen.
     - CYB påpeker at de ikke låner ut kaffekanner så lenge kaféen er åpen, derfor strykes posten Torsdags­lunsj.
     - Post om Generalforsamling reduseres til 200 kr, foreningen får sjølv prioritere hvordan disse pengene fordeles på de tre underpostene kake, snacks og drikke.
 
-**Godkjennes med merknader ­ 12.820 kr av 17.720 kr**
+**Godkjennes med merknader 12.820 kr av 17.720 kr**
 
 ### 5.3 Svett {#soknad-3}
 - Diskusjon:
@@ -78,7 +78,7 @@ Andreas ble valgt.
 
 **Godkjennes enstemmig**
 
-### 5.4 Ifi­ordenen {#soknad-4}
+### 5.4 Ifi ordenen {#soknad-4}
 - Diskusjon:
     - Joshi og Mathias presenterer søknaden
 
@@ -94,20 +94,20 @@ Andreas ble valgt.
     - Reduserer posten om pensum til fortran ned til å bare støtte innkjøp av Linux Voice.
     - Stryker posten om støtte til avgift til foreningsfesten.
 
-**Godkjennes med merknader ­ 905 kr av 4852 kr**
+**Godkjennes med merknader  905 kr av 4852 kr**
 
 ### 5.6 FUI {#soknad-6}
 -  Diskusjon
     - Johan presenterer søknaden
     - Utvalget lurer på om forkurs, inf1000­seminar og kursevalueringskveld kunne vært dekket av instituttet, det påpekes at dette er unaturlig for FU å dekke.
-    - Påpekes at inf1000­seminaret også sponses delvis av Studielabben.
+    - Påpekes at inf1000-seminaret også sponses delvis av Studielabben.
 
 - Merknader
-    - Posten om ny duk til roll­up justeres ned til 1761 kr, basert på regnskapstall
+    - Posten om ny duk til rollup justeres ned til 1761 kr, basert på regnskapstall
     - Stryker postene om forkurs og kursevaluering.
     - Søknaden mangler budsjett og regnskap
 
-**Godkjennes med merknader ­ 3141 kr av 3928 kr**
+**Godkjennes med merknader  3141 kr av 3928 kr**
 
 ## Sak 6 Eventuelt {#sak-6}
 ### 6.1 Tilstedevær {#sak-6-1}
