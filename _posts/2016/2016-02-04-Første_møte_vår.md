@@ -18,8 +18,8 @@ not_attending:
 
 other_attending:
     - koordinator, Joakim Lindquister
-    - psik, Kaisa Korsak
-    - psik, Øystein Follvik
+    - pisk, Kaisa Korsak
+    - pisk, Øystein Follvik
     - studentavis, Kjetil Bugge Kristoffersen
     - fui, Suhas Govind Joshi
 
