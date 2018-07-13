@@ -65,7 +65,7 @@ other_attending:
   - *Forutsetter at posten premier frå Studielabben blir omdisponert til andre aktiviteter.*
   - *Kutter posten gensere frå 6000 til 2000 kr, fortrinnsvis ynskjer utvalget at det brukast til.*
 
-**Godkjennes med merknader - 9.610 kr av 13.610 kr **
+**Godkjennes med merknader - 9.610 kr av 13.610 kr**
 
 ### 4.4 - Fadderstyret - prosjekt {#soknad-4}
 - Diskusjon
@@ -80,5 +80,6 @@ other_attending:
 
 ## Sak 5 Endre tittel på økonomiansvarlig {#sak-5}
 Diskuterer forslaga: Sekretær, Nestleder, Koordinator.
+
 **Ingen vedtak ble gjort i saken**
 
