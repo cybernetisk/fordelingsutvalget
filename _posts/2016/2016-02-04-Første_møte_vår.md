@@ -78,7 +78,7 @@ får et likviditetsproblem hvis de ikke får støtten.
 Forslaget er godkjent, forbeholdt at IFI-avisa skal tilbakebetale det de kan med
 annonseinntektene ila. V16.
 
-###4.5 IFI-avisas søknad om representant i FU {#soknad-5}
+### 4.5 IFI-avisas søknad om representant i FU {#soknad-5}
 Til nye foreninger, så har det tidligere blitt gitt observasjonsstatus I ett semester,
 også kan man bli med etter en vurdering. oppmøte ila. Denne perioden er da
 obligatorisk.
