@@ -13,7 +13,7 @@ attending:
     - fui, Johan Haavik
     - mikro, Ole Edvin Skjeltorp
     - maps, Tore Sund Norderud
-    - studentavisa, Hans Petter Taugbøl Kraget
+    - studentavis, Hans Petter Taugbøl Kraget
      
 
 not_attending:
@@ -40,7 +40,8 @@ Agenda ble godkjent
 ## Sak 3 Godkjenning av referat {#referat}
 Godkjennes med merknad: Mangler navn på representant fra IFI-Avisen (Hans Petter Taugbøl Kragset)
 
-Sak 4 Godkjenning av retningslinjer {#sak-4}
+
+## Sak 4 Godkjenning av retningslinjer {#sak-4}
 Retningslinjene ble godkjent
 
 ## Sak 5 Behandling av søknader {#soknader}
