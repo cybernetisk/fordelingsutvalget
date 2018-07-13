@@ -1,17 +1,27 @@
-Møte i Fordelingsutvalget
-30. januar 2015
-Til stede:
-Bendik Kvamstad, FU-koordinator
-Thorvald H. Munch-Møller, observatør (FUI)
-Espen Wøien Olsen, Navet
-Jan Furulund, CYB
-Mathias Johan Johansen, ProgNett
-Marius Berntsen, PING
-Anders Rokkones, FUI
-Ole Kristian Rosvold, dagen@ifi
-André Kramer Orten, Mikro
-Referent: Joshi
+---
+layout: meeting
+title: Første møte Vår 2015
+subheadline: "Møte i Fordelingsutvalget"
 
+referent: "Joshi"
+
+attending:
+    - cyb, Jan Furulund
+    - dagen, Ole Kristian Rosvold
+    - navet, Espen Wøien Olsen
+    - mikro, André Kramer Orten
+    - prognett, Mathias Johan Johansen 
+    - ping, Marius Berntsen
+
+not_attending:
+
+other_attending:
+    - koordinator, Bendik Kvamstad
+    - okonomians, 
+    - fui, Thorvald H. Munch-Møller,-
+    - fui, Anders Rokkones,-
+
+---
 
 * TOC
 {:toc}
@@ -133,4 +143,6 @@ Det har ikke skjedd noe med nettsidene siden sist.
 
 ### 5.4 Foreningskveld
 CYB foreslår å gjenta foreningskvelden fra sist arrangement. FU er positive til det.
-Møtet hevet kl. 13.57.
+
+
+**Møtet hevet kl. 13.57.**
