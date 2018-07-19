@@ -31,3 +31,38 @@ Vi ønsker da svar på følgene punkter separat:
 ## Annet
 
 **Husk å levere rapporter fra tidligere søknader!** Vi kommer ikke til å behandle nye søknader før de gamle har blitt gjort rede for.
+
+
+
+## Oppdatert 2018-07-19 Oppdatering med status fra sirkulering
+
+
+## Sak 1 Digitus
+### For
+ProgSys
+MAPS
+Defi
+Mikro
+Navet
+Dagen
+
+### Mot
+Ingen
+
+
+## Sak 2 Mikro
+### For
+ProgSys
+MAPS
+Defi
+Mikro
+Navet
+Dagen
+
+### Mot
+Ingen
+
+### Bemekelser
+Dagen:
+>Når det gjelder Mikro sin søknad er vi positive til det meste, med unntak av at vi mener at kun 50% av vinen skal dekkes av FU og at man kan dekke innkjøp av grisen ved å øke egenandelen med 25,–. Vinen er grunnet punkt 3. under "Vanlige søknadspunkter" i retningslinjene. Vi er åpne for diskusjon!
+
