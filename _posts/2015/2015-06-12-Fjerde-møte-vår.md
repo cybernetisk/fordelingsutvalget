@@ -19,8 +19,8 @@ Tore Norderud, MAPS
 
 Referent: Joakim Lindquister
 
-*TOC
-{toc}
+* TOC
+{:toc}
 
 ## 1. Godkjenning av innkalling {#innkalling}
 Innkalling ble godkjent uten merknader. 
