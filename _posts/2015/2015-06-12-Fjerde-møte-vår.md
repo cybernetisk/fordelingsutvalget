@@ -1,23 +1,31 @@
-Møte i Fordelingsutvalget
-12. juni 2015
+---
+layout: meeting_old
+title: Fjerde møte Vår 2015
+subheadline: "Møte i Fordelingsutvalget"
 
-Til stede:
-Mathias Johan Johansen, FU-koordinator
-Jan Furulund, CYB
-Suhas Joshi
-Marius Bernklev, Ping
-Henning Lund-Hanssen, ProgNett
-Andreas Lind Johansen, dagen@ifi
-Kristina Vottestad, 
-Elsie Mestl, Micro
-Joakim Lindquister, FU-økonomiansvarlig,
-Andre Kramer Orten, Fui
-Martine Rolid Leonardsen, Navet
-Ole Kristian Rosvold
-Tore Norderud, MAPS
+referent: "Joakim Lindquister"
 
+attending:
+    - cyb, Jan Furulund
+    - dagen, Andreas Lind Johansen
+    - navet, Martine Rolid Leonardsen
+    - prognett, Henning Lund Hanssen
+    - ping, Marius Berntsen
+    - maps, Tore Norderud
+    - ping, Marius Berntsen
+    - koordinator, Mathias Johan Johansen
+    - okonomians, Joakim Lindquister
+    - mikro, Elsie Mestl
+    - fui, Andre Kramer Orten
+    - Suhas Joshi
+    - Kristina Vottestad
+    - Ole Kristian Rosvold
+       
+---
 
-Referent: Joakim Lindquister
+```
+NOTE: Grunnet annen referatstil i 2015 enn i 2018 er det ikke spessifisert hvem som har stemmerett i dette referatet.
+``` 
 
 * TOC
 {:toc}
