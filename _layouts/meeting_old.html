@@ -66,7 +66,7 @@ format: post
 				{% elsif status == "-" %}
 					{% assign status = "(Observatør)" %}
 				{% elsif status != "" or status != nil %}
-					<!-- denne er her bare for at en skal kunne gi custom statuser-->
+					{% assign status = status %} <!-- denne er her bare for at en skal kunne gi custom statuser-->
 				{% else %}
 					{% assign status = ""%}
 				{% endif %}
