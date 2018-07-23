@@ -1,5 +1,5 @@
 ---
-layout: meeting
+layout: meeting_old
 title: Første møte Vår 2015
 subheadline: "Møte i Fordelingsutvalget"
 
@@ -12,16 +12,19 @@ attending:
     - mikro, André Kramer Orten
     - prognett, Mathias Johan Johansen 
     - ping, Marius Berntsen
-
-not_attending:
-
-other_attending:
     - koordinator, Bendik Kvamstad
     - okonomians, 
     - fui, Thorvald H. Munch-Møller,-
     - fui, Anders Rokkones,-
 
+not_attending:
+
+
 ---
+
+```
+NOTE: Grunnet annen referatstil i 2015 enn i 2018 er det ikke spessifisert hvem som har stemmerett i dette referatet.
+``` 
 
 * TOC
 {:toc}
