@@ -1,27 +1,34 @@
-Møte i Fordelingsutvalget
-27. november 2015 kl 12:15
+---
+layout: meeting
+title: Tredje møte høst 2015
+subheadline: "Møte i Fordelingsutvalget"
 
+time: 12:15:00
+referent: "Joakim Lindquister"
 
-Til stede
+attending:
+    - cyb, Jan Furulund
+    - dagen, Andreas Lind-Johansen
+    - fui, Nicolai Hagen
+    - ping, Marius
+    - navet, Kristin Brænden
+    - mikro, Anders Rokkones
+    - maps, Carl Martin Rosenberg
 
-Stemmeberettigede
-Kristin Brænden, Navet
-Carl Martin Rosenberg, MAPS
-Andreas Lind-Johansen, Dagen
-Jan Furulund, CYB
-Anders Rokkones, Mikro
-Marius, Ping
-Nicolai Hagen, FUI
+not_attending:
+    - maps
 
-
-Andre
-Ole Kristian Rosvold
-Mathias Johan Johansen, FU-koordinator
-Joakim Lindquister, Økonomiansvarlig FU
-Torgeir, Aksel, Celina, Fadderstyret
-Johan Haavik, FUI  
-
-Referent: Joakim Lindquister
+other_attending:
+    - koordinator, Mathias Johan Johanse
+    - okonomians, Joakim Lindquister
+    - Ole Kristian Rosvold
+    - fadderstyret, Torgeir
+    - fadderstyret, Celina
+    - fadderstyret, Aksel
+    - fui, Johan Haavik
+    
+    
+---
 
 *TOC
 {:toc}
