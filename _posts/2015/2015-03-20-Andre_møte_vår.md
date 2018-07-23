@@ -5,7 +5,7 @@ subheadline: "Møte i Fordelingsutvalget"
 
 referent: "Joakim Lindquister"
 
-  attending:
+attending:
     - cyb, Jan Furulund
     - dagen, Andreas Lind Johansen
     - navet, Espen Wøien Olsen
