@@ -1,23 +1,29 @@
-Møte i Fordelingsutvalget
-28. augst 2015
+---
+layout: meeting_old
+title: Første møte høst 2015
+subheadline: "Møte i Fordelingsutvalget"
 
-Til stede:
-Mathias Johan Johansen, FU-koordinator
-Hans Rusten, MAPS
-Jan Furulund, CYB
-Johan Haavik, FUI
-Marius Bernklev, Ping
-Steffen Lien, ProgNett
-Anna Bukalska, dagen@ifi
-Anders Rokkones, Micro
-Espen W. Olsen, Navet
-Joakim Lindquister, FU-økonomiansvarlig,
-Magnus Olden, FUI
-Axel Parosen, PI:SK
+referent: "Joakim Lindquister"
 
+attending:
+    - koordinator, Mathias Johan Johansen
+    - okonomians, Joakim Lindquister
+    - cyb, Jan Furulund
+    - dagen, Anna Bukalska
+    - navet, Espen W. Olsen
+    - prognett, Steffen Lien
+    - maps, Hans Rusten
+    - ping, Marius Bernklev
+    - mikro, Anders Rokkones
+    - fui, Johan Haavik
+    - fui, Magnus Olden
+    - pisk, Axel Parosen
+       
+---
 
-
-Referent: Joakim Lindquister
+```
+NOTE: Grunnet annen referatstil i 2015 enn i 2018 er det ikke spessifisert hvem som har stemmerett i dette referatet.
+``` 
 
 * TOC
 {:toc}
