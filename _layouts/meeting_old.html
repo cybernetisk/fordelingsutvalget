@@ -65,8 +65,6 @@ format: post
 					{% assign status = "(Stemmerett)" %}
 				{% elsif status == "-" %}
 					{% assign status = "(Observatør)" %}
-				{% elsif status != "" or status != nil %}
-					{% assign status = status %} <!-- denne er her bare for at en skal kunne gi custom statuser-->
 				{% else %}
 					{% assign status = ""%}
 				{% endif %}
