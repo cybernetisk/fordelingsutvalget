@@ -1,19 +1,30 @@
-Møte i Fordelingsutvalget
-8. mai 2015
-Til stede:
-Mathias Johan Johansen, FU-koordinator
-Jan Furulund, CYB
-Carl Martin Rosenberg, MAPS
-Andreas Lind Johansen, dagen@ifi
-Espen Wøien Olsen, Navet
-Joshi, Foreningsfesten
-Anders Rokkones, Mikro
-Joakim Lindquister, FU-økonomiansvarlig,
-Ole Kristan Rosvold, uavhengig,
-Magnus Olden, FUI,
-Kristina Vottestad, Fadderstyret
-Referent: Joakim Lindquister
+---
+layout: meeting_old
+title: Første møte Vår 2015
+subheadline: "Møte i Fordelingsutvalget"
 
+referent: "Joakim Lindquister"
+
+attending:
+    - cyb, Jan Furulund
+    - dagen, Andreas Lind Johansen
+    - navet, Espen Wøien Olsen
+    - mikro, Anders Rokkones 
+    - maps, Carl Martin Rosenberg
+    - fui, Magnus Olden
+    - koordinator, Mathias Johan Johansen
+    - okonomians, Joakim Lindquister
+    - Foreningsfesten, Joshi
+    - uavhengig, Ole Kristan Rosvold
+    - fadderstyret. Kristina Vottestad
+
+not_attending: 
+
+--- 
+
+```
+NOTE: Grunnet annen referatstil i 2015 enn i 2018 er det ikke spessifisert hvem som har stemmerett i dette referatet.
+``` 
 
 * TOC
 {:toc}
