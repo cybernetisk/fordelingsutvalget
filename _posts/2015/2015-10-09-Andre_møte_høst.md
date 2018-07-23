@@ -1,7 +1,7 @@
 ---
 layout: meeting_old
 title: Andre møte høst 2015
-time: 12:15
+time: 12:15:00
 subheadline: "Møte i Fordelingsutvalget"
 
 referent: "Joakim Lindquister"
@@ -21,9 +21,8 @@ attending:
     
 ---
 
-```
-NOTE: Grunnet annen referatstil i 2015 enn i 2018 er det ikke spessifisert hvem som har stemmerett i dette referatet.
-``` 
+*NOTE: Grunnet annen referatstil i 2015 enn i 2018 er det ikke spessifisert hvem som har stemmerett i dette referatet.*
+ 
 
 * TOC
 {:toc}
