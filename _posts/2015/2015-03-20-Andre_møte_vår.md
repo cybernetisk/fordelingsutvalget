@@ -1,11 +1,11 @@
 ---
-layout: meeting
+layout: meeting_old
 title: Andre møte Vår 2015
 subheadline: "Møte i Fordelingsutvalget"
 
 referent: "Joakim Lindquister"
 
-other_attending:
+  attending:
     - cyb, Jan Furulund
     - dagen, Andreas Lind Johansen
     - navet, Espen Wøien Olsen
