@@ -1,21 +1,29 @@
-Møte i Fordelingsutvalget
-9. oktober 2015 kl 12:15
+---
+layout: meeting_old
+title: Andre møte høst 2015
+time: 12:15
+subheadline: "Møte i Fordelingsutvalget"
 
-Til stede:
-Mathias Johan Johansen, FU-koordinator
-Joakim Lindquiester, Økonomiansvarlig FU
-Sjur Fredriksen, ProgNett
-Suhas Joshi, Foreningsfesten
-Anders Rokkones, Mikro
-Odd-Tørres Lunde, dagen@ifi
-Carl-Martin Rosenberg, MAPS
-Kristin Brænden, Navet
-Johan Haavik, FUI
-Axel Parosen, PI:SK
-Jan Furlund, CYB (Møtte fra ca 13.00)
+referent: "Joakim Lindquister"
 
+attending:
+    - cyb, Jan Furulund, (Fra og med 13:00)
+    - dagen, Odd-Tørres Lunde
+    - navet, Kristin Brænden
+    - prognett, Sjur Fredriksen
+    - maps, Carl-Martin Rosenberg
+    - koordinator, Mathias Johan Johansen
+    - okonomians, Joakim Lindquister
+    - mikro, Anders Rokkones
+    - fui, Johan Haavik
+    - Foreningsfesten, Suhas Joshi
+    - pisk, Axel Parosen
+    
+---
 
-Referent: Joakim Lindquister
+```
+NOTE: Grunnet annen referatstil i 2015 enn i 2018 er det ikke spessifisert hvem som har stemmerett i dette referatet.
+``` 
 
 * TOC
 {:toc}
