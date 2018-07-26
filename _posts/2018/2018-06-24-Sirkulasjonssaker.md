@@ -12,7 +12,7 @@ Vi ønsker helst svar innen uken er omme, så blir nok litt masing hvis man ikke
 
 ## Sak 1 Søknad Digitus
 
->Det kan være forvirrende å være en ny student på IFI. DigØk får flere faddergrupper og det er
+> Det kan være forvirrende å være en ny student på IFI. DigØk får flere faddergrupper og det er
  mange aktiviteter som fadderbarna skal delta på. I likhet med Mikro og Defi ønsker derfor Digitus
  støtte for å kjøpe pins til nye studenter og fadderne. På den måten blir det enklere for de nye
  studenter å kjenne igjen de andre på programmet sitt, og ikke bare dem i samme faddergruppe.
@@ -39,12 +39,12 @@ Vi ønsker da svar på følgene punkter separat:
 
 ## Sak 1 Digitus
 ### For
-ProgSys
-MAPS
-Defi
-Mikro
-Navet
-Dagen
+ - ProgSys
+ - MAPS
+ - Defi
+ - Mikro
+ - Navet
+ - Dagen
 
 ### Mot
 Ingen
@@ -52,17 +52,17 @@ Ingen
 
 ## Sak 2 Mikro
 ### For
-ProgSys
-MAPS
-Defi
-Mikro
-Navet
-Dagen
+ - ProgSys
+ - MAPS
+ - Defi
+ - Mikro
+ - Navet
+ - Dagen
 
 ### Mot
 Ingen
 
 ### Bemekelser
 Dagen:
->Når det gjelder Mikro sin søknad er vi positive til det meste, med unntak av at vi mener at kun 50% av vinen skal dekkes av FU og at man kan dekke innkjøp av grisen ved å øke egenandelen med 25,–. Vinen er grunnet punkt 3. under "Vanlige søknadspunkter" i retningslinjene. Vi er åpne for diskusjon!
+> Når det gjelder Mikro sin søknad er vi positive til det meste, med unntak av at vi mener at kun 50% av vinen skal dekkes av FU og at man kan dekke innkjøp av grisen ved å øke egenandelen med 25,–. Vinen er grunnet punkt 3. under "Vanlige søknadspunkter" i retningslinjene. Vi er åpne for diskusjon!
 
