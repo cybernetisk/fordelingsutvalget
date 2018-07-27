@@ -20,7 +20,7 @@ apply:
   text: ''
 documents:
   title: "Dokumenter"
-  url: '/archive/'
+  url: '/dokumenter/'
   image: 'https://dummyimage.com/302x183/334d5c/efc94c.png&text=Dokumenter'
   text: ''
 #
