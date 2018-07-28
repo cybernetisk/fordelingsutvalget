@@ -10,7 +10,7 @@ Ser du etter sakspapirer eller møtereferater kan det finnes i [møtearkivet](/a
 ## Vedtekter og rettningslinjer
 [Vedteker for Fordelingsutvalget.](/vedtekter/)
 
-[Rettningslinjer for tildeling av støtte.](/rettningslinjer/)
+[Rettningslinjer for tildeling av støtte.](/retningslinjer/)
 
 ## Maler og eksempler
 *I fremtiden vil det komme maler og eksempler til sønkader, rapporter osv. her*
