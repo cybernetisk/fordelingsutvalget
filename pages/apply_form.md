@@ -7,7 +7,7 @@ permalink: /apply/
 ---
 
 # Legg til skjema for FU søking her
-et skjema
+{% include _apply_form.html %}
 
 #### Nyttige  dokumenter
 - [Retningslinjer for søknader](/retningslinjer/)
