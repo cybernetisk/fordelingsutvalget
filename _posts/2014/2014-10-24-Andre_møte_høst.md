@@ -1,24 +1,28 @@
-Møte i Fordelingsutvalget
+---
+layout: meeting
+title: Andre møte høst 2014
+subheadline: "Møte i Fordelingsutvalget"
 
-24. oktober 2014
+referent: "Ole Kristian Rosvold"
 
-Tilstede:
-Bendik Kvamstad, Koordinator
-Joshi Suhas, FUI
-Magnus Olden, FUI
-Espen Wøien Olsen, Navet
-Jan Furulund, CYB
-Marius Bernklev, PING
-Ole Kristian Rosvold, dagen@ifi
-Fredrik Gjertsen, Prognett
-Anders Rokkones, Mikro
-Carl Martin Rosenberg, MAPS
-André Kramer Orten, observatør
-Referent: Ole Kristian Rosvold
+other_attending:
+    - koordinator, Bendik Kvamstad
+    - fui, Suhas Joshi
+    - fui, Magnus Olden
+    - cyb, Jan Furulund
+    - prognett, Fredrik Gjersten
+    - navet, Espen Wøien Olse
+    - dagen, Ole Kristian Rosvold
+    - ping, Marius Berntsen
+    - maps, Carl Martin Rosenberg
+    -  , André Kramer Orten, -
+    
+---
 
 {% include old_meeting_warning.html %}
 
-* TOC {:toc}
+* TOC
+{:toc}
 
 ## 1. Godkjenning av innkalling {#innkalling}
 Koordinator beklager sen agenda.
