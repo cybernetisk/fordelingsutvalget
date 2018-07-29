@@ -14,7 +14,7 @@ attending:
 ---
 
 
-{% include old_meeting_warning.htlm %}
+{% include old_meeting_warning.html %}
 
 ## Agenda: 
 ## 1. Godkjenning av innkalling {#innkalling}
