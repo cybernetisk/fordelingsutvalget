@@ -1,21 +1,29 @@
-Møte i Fordelingsutvalget 15.05.2014
-Til stede:
-Bendik Kvamstad: Koordinator
-Suhas Joshi: Foreningsfesten
-Thorvald Munch-Møller: FUI
-Marius Bernklev: PING
-Per W. Nore: FUI
-Lars Tveito: FUI
-Ole Kristian Rosvold: dagen@ifi
-André Orten: Mikro
-Alte Nordland: CYB
-Martine Leonardsen: Arbeidsgruppen for veldedighetsprosjekt
-Magnus Olden: Navet
-Mathias J. Johansen: ProgNett
-Referent: Mathias J. Johansen
+---
+layout: meeting
+title: Fjerde møte vår 2014
+subheadline: "Møte i Fordelingsutvalget"
 
+referent: "Mathias J. Johansen"
 
-----
+other_attending:
+    - koordinator, Bendik Kvamstad
+    - Foreningsfesten, Suhas Joshi
+    - cyb, Alte Nordland
+    - ping, Marius Bernklev
+    - dagen, Ole Kristian Rosvold
+    - navet, Magnus Olden
+    - mikro, André Orten
+    - fui, Thorvald Munch-Møller
+    - fui, Per W. Nore
+    - fui, Lars Tveito
+    - Arbeidsgruppen for veldedighetsprosjekt, Martine Leonardsen
+    - prognett, Mathias J. Johansen
+    
+---
+{% include old_meeting_warning.html %}
+
+* TOC
+{:toc}
 
 ## Godkjenning av innkalling {#innkalling}
 Det er ingen innvendinger. Inkallingen godkjentnes
