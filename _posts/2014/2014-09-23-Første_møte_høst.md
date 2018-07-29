@@ -1,6 +1,6 @@
 ---
 layout: meeting
-title: Møte template
+title: Første møte høst 2014
 subheadline: "Møte i Fordelingsutvalget"
 
 referent: "Ole Kristian Rosvold"
