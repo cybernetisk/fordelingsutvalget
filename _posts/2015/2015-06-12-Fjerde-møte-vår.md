@@ -1,5 +1,5 @@
 ---
-layout: meeting_old
+layout: meeting
 title: Fjerde møte Vår 2015
 subheadline: "Møte i Fordelingsutvalget"
 
@@ -23,9 +23,7 @@ attending:
        
 ---
 
-```
-NOTE: Grunnet annen referatstil i 2015 enn i 2018 er det ikke spessifisert hvem som har stemmerett i dette referatet.
-``` 
+{% include old_meeting_warning.html %} 
 
 * TOC
 {:toc}
