@@ -1,29 +1,24 @@
-Møte i fordelingsutvalget 13.06.14
-
-Til stede:
-Bendik Kvamstad: Koordinator
-Suhas Joshi: FUI
-Atle Norland: CYB
-Bendik Segrov Ibenholt: ProgNett
-Magnus Olden: Navet (på telefon)
-Ole Kristian Rosvold: dagen@ifi
-Referent: Ole Kristian Rosvold
-
-Agenda:
-1. Godkjenning av innkalling
-2. Godkjenning av agenda
-3. Godkjenning av referat
-4. Behandling av søknader
-4.1 Multikopterforeningens søknad om driftsmidler V14
-4.2. Fadderforeningens søknad om omfordeling av penger
-5. Avstemming over ny vedtekt
-6. Økonomi V2014
-7. Eventuelt
-
 ---
+layout: meeting
+title: Møte template
+subheadline: "Møte i Fordelingsutvalget"
+
+referent: "Ole Kristian Rosvold"
+
+other_attending:
+    - koordinator, Bendik Kvamstad
+    - fui, Suhas Joshi
+    - cyb, Atle Norland
+    - prognett, Bendik Segrov Ibenholt
+    - navet, Magnus Olden
+    - dagen, Ole Kristian Rosvold
+    
+---
+
 {% include old_meeting_warning.html %}
 
-* TOC {:toc}
+* TOC
+{:toc}
 
 ## Godkjenning av innkalling {#innkalling}
 Det var ingen innvendinger. Innkallingen ble godkjent.
