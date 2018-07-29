@@ -19,7 +19,7 @@ other_attending:
 
 
 ---
-{% include old_meeting_warning-html %}
+{% include old_meeting_warning.html %}
 
 * TOC
 {:toc}
