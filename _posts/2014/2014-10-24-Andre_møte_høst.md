@@ -15,7 +15,7 @@ other_attending:
     - dagen, Ole Kristian Rosvold
     - ping, Marius Berntsen
     - maps, Carl Martin Rosenberg
-    -  , André Kramer Orten, -
+    - uvist, André Kramer Orten, -
     
 ---
 
