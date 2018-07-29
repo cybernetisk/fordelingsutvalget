@@ -1,34 +1,29 @@
-Møte i Fordelingsutvalget 15.05.2014
-Til stede:
-Bendik Kvamstad: Koordinator
-Suhas Joshi: Foreningsfesten
-Marius Bernklev: PING
-Per W. Nore: FUI
-Ole Kristian Rosvold: dagen@ifi
-Dag Eng: dagen@ifi
-Andreas Lind Johansen: dagen@ifi
-André Orten: Mikro
-Alte Nordland: CYB
-Magnus Olden: Navet
-Mathias J. Johansen: ProgNett
-Martine R. Leonardsen: Arbeidsgruppen for veldedighetsprosjekt
-Referent: Mathias J. Johansen
+---
+layout: meeting
+title: Tredje møte vår 2014
+subheadline: "Møte i Fordelingsutvalget"
 
+referent: "Mathias J. Johansen"
 
-Agenda:
-1. Godkjenning av innkalling
-2. Godkjenning av agenda
-3. Godkjenning ac referat
-4. Avgjørelse angående forslag om veldedighetssøknader
-5. Behandling av søknader
-1. Fadderstyrets søknad om driftsmidler H14
-2. Fadderforeningens søknad om sponsing av t-skjorter
-3. CYBs søknad om prosjektstøtte til brettspill
-4. CYBs søknad om prosjektstøtte til teknisk utstyr
-5. FIFIs søknad om driftsmidler H14
-6. Eventuelt
-----
+other_attending:
+    - koordinator, Bendik Kvamstad
+    - Foreningsfesten, Suhas Joshi
+    - cyb, Alte Nordland
+    - ping, Marius Bernklev
+    - dagen, Ole Kristian Rosvold
+    - dagen, Andreas Lind Johansen
+    - dagen, Dag Eng
+    - navet, Magnus Olden
+    - mikro, André Orten
+    - fui, Per W. Nore
+    - prognett, Mathias J. Johansen
+    - Arbeidsgruppen for veldedighetsprosjekt, Martine R. Leonardsen
 
+---
+{% include old_meeting_warning.html %}
+
+* TOC
+{:toc}
 
 ## Godkjenning av innkalling {#innkalling}
 Det er ingen innvendinger. Inkallingen godkjentnes
