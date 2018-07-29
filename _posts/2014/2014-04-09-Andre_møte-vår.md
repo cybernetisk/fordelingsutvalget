@@ -1,14 +1,20 @@
-Onsdag 09.04 10:15-12:00 i AWK(3118)
-
-Oppmøte:
-Cyb - Atle Nordland
-Dagen - 
-Mikro - Andre
-Ping - Marius
-ProgNett - Mathias
-FUI - Per
-Navet - Magnus
 ---
+layout: meeting
+title: Andre møte vår 2014
+subheadline: "Møte i Fordelingsutvalget"
+time: 10:15:00
+
+attending:
+    - cyb, Atle Nordland
+    - navet, Magnus
+    - mikro, Andre
+    - prognett, Mathias 
+    - ping, Marius 
+    
+---
+
+
+{% include old_meeting_warning.htlm %}
 
 ## Agenda: 
 ## 1. Godkjenning av innkalling {#innkalling}
