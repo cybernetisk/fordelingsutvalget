@@ -1,41 +1,29 @@
-Referat fra Fordelingsutvalgmøte 12.02.2014
+---
+layout: meeting
+title: Første møte vår 2014
+subheadline: "Møte i Fordelingsutvalget"
 
-Tid: 10:15 – 12:00
-Sted: Scheme(1251) 
-Agenda
-Godkjenning av innkalling
-Godkjenning av agenda
-Godkjenning av referat fra forrige møte
-Kort økonomioppdatering
-Behandling av Søknader
-Cybs søknad om prosjektstøtte vår 2014
-TekNats søknad om driftsstøtte vår 2014
-FIFIs søknad om driftsmidler vår 2014
-FIFIs søknad om omfordeling av midler
-Signering av innvilgede søknader
-Eventuelt
-Tilstede:
-CYB
-Henrik Steen
-Sigurd Ljødal
-PING
-Marius Bernklev
-Dagen
-Johanne Håøy Horn
-Navet
-Magnus Olden
-Mikro
-Andre Kramer Orten
-FUI
-Suhas Joshi
-ProgNett
-Mathias Johan Johansen
-FU
-Bendik Kvamstad
+time: 10:15:00
+referent: ""
 
+other_attending:
+    - koordinator, Bendik Kvamstad
+    - cyb, Henrik Steen
+    - cyb, Sigurd Ljødal
+    - ping, Marius Bernklev
+    - dagen,Johanne Håøy Horn
+    - navet, Magnus Olden
+    - mikro, Andre Kramer Orten
+    - fui, Suhas Joshi
+    - prognett, Mathias Johan Johansen
+
+
+---
+{% include old_meeting_warning-html %}
 
 * TOC
 {:toc}
+
 
 ## 1 Godkjenning av innkalling {#innkalling}
 Godkjent
@@ -71,12 +59,3 @@ CYB legger fram regnskap fra IFI-skitur. FU har ingen innvendinger.
 Mathias, Simon og  Martine legger fram et forslag om at noe av FUs overskudd skal gis til et veldedig formål. FU er positive til forslaget og det foreslås å ta dette med i de nye vedtektene. Rammene rundt prosjektet vil bli nærmere diskutert når forslaget til nye vedtekter legges fram. 
 
 ## 8 Eventuelt {#sak-8}
-
-
-
-
-
-
-
-
-
