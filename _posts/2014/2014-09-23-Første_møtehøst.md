@@ -1,23 +1,29 @@
-Møte i Fordelingsutvalget
+---
+layout: meeting
+title: Møte template
+subheadline: "Møte i Fordelingsutvalget"
 
-26. september 2014
+referent: "Ole Kristian Rosvold"
 
-Tilstede:
-Bendik Kvamstad, Koordinator
-Joshi Suhas, FUI
-Espen Wøien Olsen, Navet
-Jan Furulund, CYB
-Mathias Johan Johansen, ProgNett
-Marius Berntsen, PING
-Ole Kristian Rosvold, dagen@ifi
-Carl Martin Rosenberg, MAPS
-Karl Thomas Hauglid, Studentenes Multikopterforening (SMF)
-Fredrik Gjersten, ProgNett
-Referent: Ole Kristian Rosvold
+other_attending:
+    - koordinator, Bendik Kvamstad
+    - fui, Suhas Joshi
+    - cyb, Jan Furulund
+    - prognett, Mathias Johan Johansen
+    - prognett, Fredrik Gjersten
+    - navet, Espen Wøien Olse
+    - dagen, Ole Kristian Rosvold
+    - ping, Marius Berntsen
+    - maps, Carl Martin Rosenberg
+    - Studentenes Multikopterforening, Karl Thomas Hauglid
+    
+---
 
 {% include old_meeting_warning.html %}
 
-* TOC {:toc}
+* TOC
+{:toc}
+
 
 ## 1. Godkjenning av innkalling {#innkalling}
 Nytt av denne innkallingen er det satt opp tre møter, siste fredag i månenden. Innkallingen ble sendt ut allerede 14 dager før møtet.
