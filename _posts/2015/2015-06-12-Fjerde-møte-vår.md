@@ -2,6 +2,7 @@
 layout: meeting
 title: Fjerde møte Vår 2015
 subheadline: "Møte i Fordelingsutvalget"
+inaccurate: true
 
 referent: "Joakim Lindquister"
 
@@ -20,16 +21,15 @@ attending:
     - Suhas Joshi
     - Kristina Vottestad
     - Ole Kristian Rosvold
-       
+
 ---
 
-{% include old_meeting_warning.html %} 
 
 * TOC
 {:toc}
 
 ## 1. Godkjenning av innkalling {#innkalling}
-Innkalling ble godkjent uten merknader. 
+Innkalling ble godkjent uten merknader.
 
 ##2. Godkjenning av agenda {#agenda}
 
@@ -50,14 +50,14 @@ Etter debattt vedtas forslaget til endring av retningslinjer.
 
 ### 5.1 Ifi-avisens søknad om semseterstøtte for høsten 2015 {#soknad-1}
 
-Den nyoppstartede foreningen søker om kr 16 200 til de to tenkte utgivelsene av avis for høsten 2015, samt milder til drift av foreningen. 
+Den nyoppstartede foreningen søker om kr 16 200 til de to tenkte utgivelsene av avis for høsten 2015, samt milder til drift av foreningen.
 
 FU bemerker at sponsing til styremiddager støttes med opptil 3 500 kr, mens mat til frivillige opp til 2 000 kr. Dette må justeres i søknaden.
 FU ønsker at det skal spesifiseres hvilke punkter dere søker om fra FU. I dagens søknad er det ikke klart hva FU skal støtte og hva kulturstyret skal støtte.
 
 FU bemerker at eventuell søknad om likviditetstøtte må spesifiserer i søknaden. FU dekker opp til kr 5 000 i likviditetstøtte.
 
-FU ber om Ifi-avisen sender inn en ny søknad og behandler så søknaden på sirkulasjon. 
+FU ber om Ifi-avisen sender inn en ny søknad og behandler så søknaden på sirkulasjon.
 
 ### 5.2 CYBs søknad om semesterstøtte våren 2015 {#soknad-3}
 
@@ -100,7 +100,7 @@ UiO Paintballforenings søker om kr 45 520 til å sette opp en paintball-bane i 
 
 Kristina redegjør for den innsendte søknaden.
 
-FU stiller spørsmål til hvordan man skal sjekke at studentene faktisk er IFI-studenter. 
+FU stiller spørsmål til hvordan man skal sjekke at studentene faktisk er IFI-studenter.
 FU bemerker at det søkes om en betydelig sum, rundt regnet circa 10 % av det FU deler ut iløpet av et år. Det stilles spørsmål hvorvidt en slik sum faktisk kommer IFI-studenter til gode.
 FU stiller spørsmål hvorvidt det er økonomisk forsvarlig og leie inn utstyr, heller enn å kjøpe den inn selv.
 
@@ -110,7 +110,7 @@ FU godkjenner ikke søknaden.
 
 ### 5.7 Multikopterforenings søknad om semesterstøtte høsten 2015 {#soknad-7}
 
-Multikopterforeningen søker om kr 14 260 til å dekke utgifter til innkjøp av diverse utstyr til bygging av multikoptere. 
+Multikopterforeningen søker om kr 14 260 til å dekke utgifter til innkjøp av diverse utstyr til bygging av multikoptere.
 
 Mathias redegjør for forslaget. Mathias kommenterer at søknaden er for lite detaljrik. Det må spesifiseres i mer detalj hva det skal brukes penger på.
 
@@ -121,7 +121,7 @@ FU godkjenner ikke søknaden.
 
 CYB søker om arrangementstøtte på kr 42 500 til arrangering av IFI-galla, en studentgalla arrangert på Institutt for Informatikk.
 
-Ole Kristian Rosvold redegjør for søknaden. 
+Ole Kristian Rosvold redegjør for søknaden.
 FU bemerker at de ikke ønsker å støtte deltakeravgift for Cosa Nostra deltakere.
 
 FU godkjenner søknaden med merknader.
