@@ -2,6 +2,7 @@
 layout: meeting
 title: Tredje møte Vår 2015
 subheadline: "Møte i Fordelingsutvalget"
+inaccurate: true
 
 referent: "Joakim Lindquister"
 
@@ -9,7 +10,7 @@ attending:
     - cyb, Jan Furulund
     - dagen, Andreas Lind Johansen
     - navet, Espen Wøien Olsen
-    - mikro, Anders Rokkones 
+    - mikro, Anders Rokkones
     - maps, Carl Martin Rosenberg
     - fui, Magnus Olden
     - koordinator, Mathias Johan Johansen
@@ -18,11 +19,10 @@ attending:
     - uavhengig, Ole Kristan Rosvold
     - fadderstyret. Kristina Vottestad
 
-not_attending: 
+not_attending:
 
---- 
+---
 
-{% include old_meeting_warning.html %}
 
 * TOC
 {:toc}
@@ -61,7 +61,7 @@ Mathias Johan Johansen redegjør for den innsendte søknaden.
 
 ### 5.4 Mikro omdisponering H2014 {#soknad-4}
 Anders redegjør for innsendte søknaden.
-Det bemerkes fra FU om at man ikke ønsker å dekke mer en 50 % når det gjelder støtte til innkjøp av alkohol. 
+Det bemerkes fra FU om at man ikke ønsker å dekke mer en 50 % når det gjelder støtte til innkjøp av alkohol.
 Jan retter kritikk mot Mikro for at søknaden kommer sent.
 **Mikros søknad om omdisponering H2014 godkjennes.**
 

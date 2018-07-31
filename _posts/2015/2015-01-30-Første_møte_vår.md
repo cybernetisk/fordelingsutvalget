@@ -2,6 +2,7 @@
 layout: meeting
 title: Første møte Vår 2015
 subheadline: "Møte i Fordelingsutvalget"
+inaccurate: true
 
 referent: "Joshi"
 
@@ -10,10 +11,10 @@ attending:
     - dagen, Ole Kristian Rosvold
     - navet, Espen Wøien Olsen
     - mikro, André Kramer Orten
-    - prognett, Mathias Johan Johansen 
+    - prognett, Mathias Johan Johansen
     - ping, Marius Berntsen
     - koordinator, Bendik Kvamstad
-    - okonomians, 
+    - okonomians,
     - fui, Thorvald H. Munch-Møller,-
     - fui, Anders Rokkones,-
 
@@ -21,8 +22,6 @@ not_attending:
 
 
 ---
-
-{% include old_meeting_warning.html %} 
 
 * TOC
 {:toc}
@@ -65,7 +64,7 @@ kroner for styremøter, men vi ser at dette ikke er tatt til etterretning.
 FU er ellers positive til søknaden og vil behandle søknaden på sirkulasjon så snart regnskapet
 fra foregående semester sendes inn.
 
-**Merknader**: 
+**Merknader**:
 - Maks 3500 kroner i støtte til styremiddag. Det trekkes fra 500 kroner.
 - Maks 1000 kroner i støtte til styremøtemat. Det trekkes fra 1000 kroner.
 
@@ -98,7 +97,7 @@ Studielaben.
 FU er ellers positive til søknaden og vil behandle søknaden på sirkulasjon så snart regnskapet
 fra foregående semester sendes inn.
 
-**Merknader:** 
+**Merknader:**
 - Maks 3500 kroner for leie av hytte. Det trekkes 2500 kroner.
 
 ### 4.5 FIFIs søknad om driftsstøtte V15 {#soknad-5}
@@ -116,7 +115,7 @@ at antall forventede deltagere for en avslutningsfest oppgis.
 FU er ellers positive til søknaden og vil behandle søknaden på sirkulasjon så snart regnskapet
 fra foregående semester sendes inn.
 
-**Merknader:** 
+**Merknader:**
 - Maks 80 kroner per person ved pizza. Det trekkes 1900 kroner.
 
 ### 4.6 MAPS søknad om representasjon i FU {#soknad-6}

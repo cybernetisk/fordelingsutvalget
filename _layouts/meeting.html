@@ -36,6 +36,9 @@ format: post
 					</p>
 						{% endif %}
 					<h1>{{ page.title }}</h1>
+					{% if page.inaccurate == true -%}
+						{% include _inaccurate_meeting_warning.html %}
+					{% endif -%}
 					<p>
 						{% if page.referent -%}
 						Referent: {{ page.referent }}
