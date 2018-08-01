@@ -2,6 +2,7 @@
 layout: meeting
 title: Andre møte Vår 2015
 subheadline: "Møte i Fordelingsutvalget"
+inaccurate: true
 
 referent: "Joakim Lindquister"
 
@@ -15,23 +16,22 @@ attending:
     - ping, Marius Berntsen
     - koordinator, Mathias Johan Johansen
     - studentavis, Hans Petter,-
-    - studentavis, Kjetil,- 
+    - studentavis, Kjetil,-
     - navet, Kristin Brenden
     - mikro, Mathias Ciarlo
     - navet, Johan Håvik
     - Joshi
     - Joakim Lindquister
-       
+
 ---
 
-{% include old_meeting_warning.html %}
 
 * TOC
 {:toc}
 
 
 ## 1. Godkjenning av innkalling
-Innkalling ble godkjent uten merknader. 
+Innkalling ble godkjent uten merknader.
 
 ## 2. Godkjenning av agenda
 FU-koordinator legger til et punkt: velge økonomiansvarlig som trer inn som pkt 5
@@ -65,14 +65,14 @@ FU-koordinator opplyser om at FU har godkjent tilsvarende støtte til FIFI aller
 TekNats søknad om prosjektstøtte til Holmenkollstafetten godkjennes.
 
 ### 6.4 Mikro – Søknad om driftsstøtte V 15
-Jan er skeptisk til å substituere øl med mer en halv pris. 
+Jan er skeptisk til å substituere øl med mer en halv pris.
 Det stilles kritiske spørsmål til regnskapet til Mikro, da FU anser flere av postene som uklare. Espen skal ta det opp med økonomiansvarlig i Mikro.
 
 Mikro anslår 25 deltakere på kommende pokerkveld. FU bemerker at de ønsker slik informasjon i søknaden.
 Kristin bemerker at det burde være et alkoholfritt alternativ.
 
 Mikro sin søknad om driftstøtte godkjennes delvis, gitt at det ryddes i regnskapet og nytt regnskap sendes inn. Sakens tas da på sirkulasjon.
-Merknader: Støtten til sommerølsmaking reduseres til 2300. 
+Merknader: Støtten til sommerølsmaking reduseres til 2300.
 
 ### 6.5 Foreningsfesten – Søknad om prosjektstøtte 2015
 Joshi redegjør for søknaden og arrangementet. Foreningsfesten ønsker å invitere flere foreninger, noe som innebærer økte utgifter.
@@ -94,7 +94,7 @@ Det godkjennes at det kan brukes opp til 5000kr (netto for «arbeidstaker») på
 
 ### 7. CYBs ønske om diskusjon ang. kravene til driftstøtte
 Jan argumenterer om hva som skal betraktes som driftsstøtte. Han mener at det inkluderes prosjekter i søknader om driftsstøtte, mens dette egentlig ikke burde vært sett som driftsstøtte.
-Bendik: Man burde kunne samle opp utgifter, slik at det saksbelastningen for FU ikke blir alt for høy. 
+Bendik: Man burde kunne samle opp utgifter, slik at det saksbelastningen for FU ikke blir alt for høy.
 
 Mathias skal utarbeide et forslag til vedtektsendringer som skal være grunnlag for videre diskusjon.
 
@@ -113,7 +113,7 @@ Det er konsensus i FU om at rene bedriftpresentasjoner burde forbeholdes Navet. 
 Johan, som nå representerer en ny-oppstartet UiO-paintball forening, ønsker å utrede muligheten for å søke penger til et arrangement rettet mot IFI-foreninger. FU stiller seg positive til å støtte paintball.
 
 ### 9.3 Mathias og sympa
-Det er dårlige rutiner hos foreningene med tanke på Sympa. De må innskjerpe rutinene så Mathias får sendt ut mailer. Minimum ønskes det at mathias er whitelistet hos alle foreningene. 
+Det er dårlige rutiner hos foreningene med tanke på Sympa. De må innskjerpe rutinene så Mathias får sendt ut mailer. Minimum ønskes det at mathias er whitelistet hos alle foreningene.
 
 
 Møtet hevet kl. 13.53

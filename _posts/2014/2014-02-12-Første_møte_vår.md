@@ -2,9 +2,10 @@
 layout: meeting
 title: Første møte vår 2014
 subheadline: "Møte i Fordelingsutvalget"
+inaccurate: true
 
 time: 10:15:00
-referent: ""
+referent: "???"
 
 other_attending:
     - koordinator, Bendik Kvamstad
@@ -19,7 +20,6 @@ other_attending:
 
 
 ---
-{% include old_meeting_warning.html %}
 
 * TOC
 {:toc}
@@ -56,6 +56,6 @@ FIFI søker om å få omdisponere posten førstehjelp over til innkjøp av ball 
 CYB legger fram regnskap fra IFI-skitur. FU har ingen innvendinger.
 
 ## 7 Veldedighetsprosjekt {#sak-7}
-Mathias, Simon og  Martine legger fram et forslag om at noe av FUs overskudd skal gis til et veldedig formål. FU er positive til forslaget og det foreslås å ta dette med i de nye vedtektene. Rammene rundt prosjektet vil bli nærmere diskutert når forslaget til nye vedtekter legges fram. 
+Mathias, Simon og  Martine legger fram et forslag om at noe av FUs overskudd skal gis til et veldedig formål. FU er positive til forslaget og det foreslås å ta dette med i de nye vedtektene. Rammene rundt prosjektet vil bli nærmere diskutert når forslaget til nye vedtekter legges fram.
 
 ## 8 Eventuelt {#sak-8}

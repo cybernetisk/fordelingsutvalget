@@ -2,6 +2,7 @@
 layout: meeting
 title: Fjerde møte vår 2014
 subheadline: "Møte i Fordelingsutvalget"
+inaccurate: true
 
 referent: "Mathias J. Johansen"
 
@@ -18,9 +19,8 @@ other_attending:
     - fui, Lars Tveito
     - Arbeidsgruppen for veldedighetsprosjekt, Martine Leonardsen
     - prognett, Mathias J. Johansen
-    
+
 ---
-{% include old_meeting_warning.html %}
 
 * TOC
 {:toc}

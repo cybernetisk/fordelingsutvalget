@@ -2,6 +2,7 @@
 layout: meeting
 title: Første møte høst 2014
 subheadline: "Møte i Fordelingsutvalget"
+inaccurate: true
 
 referent: "Ole Kristian Rosvold"
 
@@ -16,14 +17,11 @@ other_attending:
     - ping, Marius Berntsen
     - maps, Carl Martin Rosenberg
     - Studentenes Multikopterforening, Karl Thomas Hauglid
-    
----
 
-{% include old_meeting_warning.html %}
+---
 
 * TOC
 {:toc}
-
 
 ## 1. Godkjenning av innkalling {#innkalling}
 Nytt av denne innkallingen er det satt opp tre møter, siste fredag i månenden. Innkallingen ble sendt ut allerede 14 dager før møtet.
@@ -63,7 +61,7 @@ Søknaden godkjennes enstemmig med merknader.
 
 ### 4.4 Verdandes søknad om driftsstøtte H14 {#soknad-4}
 Når det søkes om støtte til engangsservise bør det spesifiseres hva det brukes til i fremtidige søknader.
-Merknader: 
+Merknader:
 - Det gis kun kr. 3500 i støtte til styremiddag kr. -1100,-
 - Det gis kun kr. 1000 i støtte til styremøtemat kr. -1000,-
 

@@ -19,6 +19,17 @@
 - title: Møtearkiv
   url: "/archive/"
   side: left
+  
+- title: "Dokumenter"
+  url: "/dokumenter/"
+  side: left
+  dropdown:
+    - title: "Vedtekter"
+      url: "/vedtekter/"
+    - title: "Retningslinjer"
+      url: "/retningslinjer/"
+    - title: "Veiledning for dokumentasjon"
+      url: "/veiledning_for_dokumentasjon/"
 
 #
 #   Navigation to the right › side: right

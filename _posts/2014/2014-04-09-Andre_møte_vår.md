@@ -3,20 +3,19 @@ layout: meeting
 title: Andre møte vår 2014
 subheadline: "Møte i Fordelingsutvalget"
 time: 10:15:00
+inaccurate: true
 
 attending:
     - cyb, Atle Nordland
     - navet, Magnus
     - mikro, Andre
-    - prognett, Mathias 
-    - ping, Marius 
-    
+    - prognett, Mathias
+    - ping, Marius
+
 ---
 
 
-{% include old_meeting_warning.html %}
-
-## Agenda: 
+## Agenda:
 ## 1. Godkjenning av innkalling {#innkalling}
 -godkjenne
 ## 2. Godkjenning av agenda {#agenda}
@@ -51,13 +50,10 @@ Foreningsfesten søker om 33.480.
 
 ### 4.6 Mikros søknad om driftsmidler V14  {#soknad-6}
 Mikro søker om 3950 i driftsmidler.¨
-Godkjent. 
+Godkjent.
 
 ## 5. Forslag til nye vedtekter  {#sak-5}
 Gjennomgå
 
 ## 6. Eventuelt  {#sak-6}
 - PI:SK ønsker å trekke seg
-
-
-

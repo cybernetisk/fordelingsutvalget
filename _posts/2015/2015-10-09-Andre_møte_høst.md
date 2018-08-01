@@ -3,6 +3,7 @@ layout: meeting
 title: Andre møte høst 2015
 time: 12:15:00
 subheadline: "Møte i Fordelingsutvalget"
+inaccurate: true
 
 referent: "Joakim Lindquister"
 
@@ -18,21 +19,20 @@ attending:
     - fui, Johan Haavik
     - Foreningsfesten, Suhas Joshi
     - pisk, Axel Parosen
-    
+
 ---
 
-{% include old_meeting_warning.html %}
- 
+
 
 * TOC
 {:toc}
 
 ## 1. Godkjenning av innkalling {#innkalling}
-Innkalling ble godkjent uten merknader. 
+Innkalling ble godkjent uten merknader.
 
 ## 2. Godkjenning av agenda {#innkalling}
 
-Agenda ble godkjent. 
+Agenda ble godkjent.
 
 Det ble opplyst om at alle Fus dokumenter ligger åpent tilgjengelig for søk på google. Dette blir diskutert under eventuelt.
 
@@ -66,9 +66,9 @@ Anders Rokkones redegjør for søknaden.
 
 Det blir kommentert at støtte til premie til stand på dagen@ifi er mye. Carl Martin foreslår at premier ikke støttes av FU, men at foreninger burde oppfordres til å søke støtte hos sponsorer isteden.
 
-dagen@ifi ønsker å redusere støtten til juleølsmaking da de ikke ønsker å sponse innkjøp av alkohol med 50 % av kjøpssummen. Etter en oppklaring i budsjett viser det seg at faktisk støtte til alkohol er mindre enn 50%. 
+dagen@ifi ønsker å redusere støtten til juleølsmaking da de ikke ønsker å sponse innkjøp av alkohol med 50 % av kjøpssummen. Etter en oppklaring i budsjett viser det seg at faktisk støtte til alkohol er mindre enn 50%.
 
-Det blir kommentert at Mikro har høye bankutgifter og de blir oppfordret og sjekke hvor mange disponenter de har i nettbanken. 
+Det blir kommentert at Mikro har høye bankutgifter og de blir oppfordret og sjekke hvor mange disponenter de har i nettbanken.
 
 Det blir kommentert at renhold på IFI burde kunne gi Mikro vaskeutstyr.
 
@@ -106,7 +106,7 @@ Den godkjente søknaden blir totalt på 3 600kr.
 
 IFI-avisen søkner om støtte til 15 150 til drift av foreningen og utgifter til halve av trykkingen av Index utgave nummer 2.
 
-Det stilles spørsmål om nødvendigheten av å kjøpe inn et eget speilreflekskamera. Det blir kommentert at eventuelle inntekter burde brukes til å dekke produksjonskostnader og at innkjøp av kamera søkes i en separat søknad. 
+Det stilles spørsmål om nødvendigheten av å kjøpe inn et eget speilreflekskamera. Det blir kommentert at eventuelle inntekter burde brukes til å dekke produksjonskostnader og at innkjøp av kamera søkes i en separat søknad.
 
 FU mener at inntekter fra annonser burde brukes til å dekke produksjonskostnader. Denne posten blir derfor redusert.
 
@@ -122,11 +122,11 @@ FIFI søker om støtte på 17 340 til gjennomføring av treninger og sosiale arr
 
 FU ønsker å vite hvor mye inntekter de har på medlemavgift, da dette ikke er spesifisert i søknaden.
 
-Søknaden om støtte til pizza på sosialkvelden er over normen på 80 kroner per hode. 
+Søknaden om støtte til pizza på sosialkvelden er over normen på 80 kroner per hode.
 
 FU ønsker å godkjenne søkaden med forbehold om at FU mottar en rapport som dokumenter følgende:
-Antall deltakere på trening. 
-Dokumentere hvor mange medlemmer som betaler medlemsavgift for 2015. 
+Antall deltakere på trening.
+Dokumentere hvor mange medlemmer som betaler medlemsavgift for 2015.
 
 
 
@@ -166,7 +166,7 @@ Søknaden godkjennes ikke.
 
 ## 5. Diskusjon om fadderstyrets rapport for høsten 2015 {#sak-5}
 
-Mathias redegjør for at faddderstyret brukte 7 500 kr på bonger under CTRL-ALT-DELETE festen. Dette var ikke budsjetert med i søknader mottatt av FU. Det viser seg at pengene stammer fra en utestående faktura på IFI-blekka 2014. Fakturaen er ikke mottatt enda, men at deler av pengene er blitt brukt opp på bonger. 
+Mathias redegjør for at faddderstyret brukte 7 500 kr på bonger under CTRL-ALT-DELETE festen. Dette var ikke budsjetert med i søknader mottatt av FU. Det viser seg at pengene stammer fra en utestående faktura på IFI-blekka 2014. Fakturaen er ikke mottatt enda, men at deler av pengene er blitt brukt opp på bonger.
 
 Videre opplyser han at fadderstyret ønsker å søke om omferdeling av midler for å dekke denne fakturaren. I denne omfordelingen dropper de å søke om styremiddag.
 
