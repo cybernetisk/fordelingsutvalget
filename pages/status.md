@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Status på søknader"
 permalink: /status/
 ---
