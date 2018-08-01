@@ -1,3 +1,7 @@
-<div class="row t30" align="center">
-<iframe width="86%" height="800" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTt00UHrsO_getOfCXkgglwYP1cj4BFVY59XeHQcS0b_xsUKwixvle4HsphSjoWLJPGIFF1rs7QES2l/pubhtml?gid=757457364&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-</div>
+{% if page.source_url %}
+  <div class="row t30" align="center">
+    <iframe width="86%" height="800" src={% page.source_url %}></iframe>
+  </div>
+{% else %}
+  {% include alert alert='Error: source url not found.'}
+{% endif %}
