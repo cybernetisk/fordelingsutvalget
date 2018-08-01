@@ -1,7 +1,3 @@
-{% if page.source_url %}
-  <div class="row t30" align="center">
-    <iframe width="86%" height="800" src={% page.source_url %}></iframe>
-  </div>
-{% else %}
-  {% include alert alert='Error: source url not found.'}
-{% endif %}
+<div class="row t30" align="center">
+   <iframe width="86%" height="800" src="{% {{ include.url }} %}"></iframe>
+</div>
