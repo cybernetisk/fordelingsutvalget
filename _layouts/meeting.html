@@ -86,7 +86,7 @@ format: post
 			{% endif %}
 
 			{% if page.not_attending %}
-			<h2>Savnede:</h2>
+			<h2>Representanter og observatører ikke til tilstede:</h2>
 				<ul>
 				{% for attendee in page.not_attending %}
 					{% assign assoc_code = attendee | downcase %}
