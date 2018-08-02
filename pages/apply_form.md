@@ -6,7 +6,7 @@ teaser: ""
 permalink: /apply/
 ---
 
-# Legg til skjema for FU søking her
+{% include alert alert='OBS: Ikke i bruk!' %}
 {% include _apply_form.html %}
 
 #### Nyttige  dokumenter
