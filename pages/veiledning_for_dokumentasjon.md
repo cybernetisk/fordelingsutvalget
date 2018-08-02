@@ -8,11 +8,11 @@ permalink: "/veiledning_for_dokumentasjon/"
 ## Rapport
 Det en ønsker med en god rapport et et skriv som kan supplementere regnskapet. Dette er slik at en i ettertid kan se hva som er god bruk av midler og ikke.
 Rapportene skal også fungere som erfaringsdeling der vi kan lære av hverander og unngå å gjøre like feil, samt gjenta sukses historier.
-En rapport burde inneholde:
-* Hva gikk bra?
-* Hva gikk dårlig?
+En rapport skal minimun inneholde:
+* Søknadsperiode og søknadsnummer. [(Kan finnes her.)](/status/)
+* Er det noe som gikk bra?
+* Er det noe som gikk dårlig?
 * Hva vil vi gjøre andeledes neste gang?
-* Hvor mange deltagere hadde vi?
 * Er det noe utvalget burde vite? (foreksempel ved avik fra søknad)
 
 ## Regnskap
