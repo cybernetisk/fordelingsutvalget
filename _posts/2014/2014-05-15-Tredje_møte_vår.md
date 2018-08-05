@@ -2,6 +2,7 @@
 layout: meeting
 title: Tredje møte vår 2014
 subheadline: "Møte i Fordelingsutvalget"
+inaccurate: true
 
 referent: "Mathias J. Johansen"
 
@@ -20,7 +21,6 @@ other_attending:
     - Arbeidsgruppen for veldedighetsprosjekt, Martine R. Leonardsen
 
 ---
-{% include old_meeting_warning.html %}
 
 * TOC
 {:toc}

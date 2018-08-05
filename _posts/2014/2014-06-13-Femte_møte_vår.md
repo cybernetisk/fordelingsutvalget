@@ -1,7 +1,8 @@
 ---
 layout: meeting
-title: Møte template
+title: Femte møte vår 2014
 subheadline: "Møte i Fordelingsutvalget"
+inaccurate: true
 
 referent: "Ole Kristian Rosvold"
 
@@ -12,10 +13,9 @@ other_attending:
     - prognett, Bendik Segrov Ibenholt
     - navet, Magnus Olden
     - dagen, Ole Kristian Rosvold
-    
+
 ---
 
-{% include old_meeting_warning.html %}
 
 * TOC
 {:toc}

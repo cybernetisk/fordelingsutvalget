@@ -2,6 +2,7 @@
 layout: meeting
 title: Andre møte høst 2014
 subheadline: "Møte i Fordelingsutvalget"
+inaccurate: true
 
 referent: "Ole Kristian Rosvold"
 
@@ -16,10 +17,8 @@ other_attending:
     - ping, Marius Berntsen
     - maps, Carl Martin Rosenberg
     - uvist, André Kramer Orten, -
-    
----
 
-{% include old_meeting_warning.html %}
+---
 
 * TOC
 {:toc}
@@ -43,7 +42,7 @@ Søknaden ble enstemmig godkjent uten merknader.
 
 ### 4.2 Mikros søknad om driftstøtte H14 {#soknad-2}
 Det ble orientert fra søker om at kaffe til møter skal strykes fra søknaden grunnet kaffeavtalen til FK. Nytt søknadsbeløp: NOK 7200,-
-Det ble kommentert at regnskapet i fjor burde blitt lagt ved fremfor budsjettet. 
+Det ble kommentert at regnskapet i fjor burde blitt lagt ved fremfor budsjettet.
 Det ble respondert av søker at det vil bli fremlagt regnskap etter hvert da økonomiansvarlig nettopp har overtatt ansvarsområdet.
 Søknaden ble enstemmig godkjent uten merknader.
 
@@ -53,7 +52,7 @@ Søknaden ble enstemmig godkjent uten merknader.
 
 ## 5. Eventuelt {#sak-5}
 ### 5.1 Nettsider for Fordelingsutvalget {#sak-5-1}
-Det er ønskelig å lage en enkel nettside for FU for informasjon om organet og mal for søknader. 
+Det er ønskelig å lage en enkel nettside for FU for informasjon om organet og mal for søknader.
 Vi kommer tilbake til en konkret «søknad» fra koordinator på vegne av FU til FU.
 
 ### 5.2 Prosjektstøtte V.S. driftsstøtte {#sak-5-2}

@@ -2,6 +2,7 @@
 layout: meeting
 title: Første møte høst 2015
 subheadline: "Møte i Fordelingsutvalget"
+inaccurate: true
 
 referent: "Joakim Lindquister"
 
@@ -18,16 +19,15 @@ attending:
     - fui, Johan Haavik
     - fui, Magnus Olden
     - pisk, Axel Parosen
-       
+
 ---
 
-{% include old_meeting_warning.html %}
 
 * TOC
 {:toc}
 
 ## 1. Godkjenning av innkalling {#innkalling}
-Innkalling ble godkjent uten merknader. 
+Innkalling ble godkjent uten merknader.
 
 ## 2. Godkjenning av agenda {#agenda}
 
@@ -43,7 +43,7 @@ Referat fra forrige møte godkjent uten merknader.
 
 Verande søker om støtte på 10 400 kr fordelt på postene arrangementskostnader, markedsføring, mat og drikke, bankgebyrer og andre utgifter.
 
-Jan Furulund bemerker at det er en ganske høy sum på postene for styregoder(styremiddag og mat til styremøter). Jan foreslår at mat til styret reduseres til 2 500 kr. 
+Jan Furulund bemerker at det er en ganske høy sum på postene for styregoder(styremiddag og mat til styremøter). Jan foreslår at mat til styret reduseres til 2 500 kr.
 Espen og Anders foreslår at posten til styremiddag blir stående, men at mat til styremøter reduseres.
 
 Verandes søknad godkjennes med følgende merknader:
@@ -75,7 +75,7 @@ PI:SK er en linjeforening på Institutt for Informatikk. PI:SK søker om støtte
 
 Jan Furulund bemerker at det er en ganske høy sum på postene for styregoder(styremiddag og mat til styremøter). Det foreslås å redusere postene med mat til styret til totalt 2 500 kr.
 
-Det foreslås og stryke posten på 900 kr om grillkveld(gjort om til pizzakveld), da FU kun ønsker å støtte et pizzaarragement i semesteret. 
+Det foreslås og stryke posten på 900 kr om grillkveld(gjort om til pizzakveld), da FU kun ønsker å støtte et pizzaarragement i semesteret.
 
 PI:SK søknad godkjennes med følgende merknader:
 Posten om grillkveld strykes.

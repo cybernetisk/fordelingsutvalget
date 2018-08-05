@@ -2,6 +2,7 @@
 layout: meeting
 title: Tredje møte høst 2015
 subheadline: "Møte i Fordelingsutvalget"
+inaccurate: true
 
 time: 12:15:00
 referent: "Joakim Lindquister"
@@ -26,11 +27,11 @@ other_attending:
     - fadderstyret, Celina
     - fadderstyret, Aksel
     - fui, Johan Haavik
-    
-    
+
+
 ---
 
-*TOC
+* TOC
 {:toc}
 
 ## 1. Godkjenning av innkalling {#innkalling}
@@ -56,7 +57,7 @@ Fadderstyrets søknad om omfordeling godkjennes.
 
 ## 4.2 CYBs søknad om prosjektstøttet til tre prosjekter {#soknad-2}
 
-CYB søker om støtte på 25 000 kr i prosjektstøtte til innkjøp av materiell for å videreføre og forbedre tilbudet til studenter fra Cybernetisk Selskabs side. Dette gjelder prosjektstøtte til espressokvern, sofagruppe og trådløs mygg. 
+CYB søker om støtte på 25 000 kr i prosjektstøtte til innkjøp av materiell for å videreføre og forbedre tilbudet til studenter fra Cybernetisk Selskabs side. Dette gjelder prosjektstøtte til espressokvern, sofagruppe og trådløs mygg.
 
 Det blir reist forslag om å istedenfor å behandle indviduelle søknader til forskjellige prosjekter, at CYB heller søker om prissubsidier for å finansiere fortsatt lave priser i kafe/bar for studentene. Det blir bestemt at en slik eventuell ordning burde diskuteres under et eget punkt en annen gang.
 
@@ -66,7 +67,7 @@ Det blir diskutert hvorvidt kafedriften burde dekke innkjøp av espressomaskin s
 CYBs søknad godkjennes.
 
 ### 4.3 CYBs søknad om prosjektstøtte til Ifi-skitur {#soknad-3}
-CYB søker om 45 000 kr i prosjektstøtte til å arrangere en Ifi-skitur for 2016. Midlene vil utelukkende gå til å subsidiere billettprisen for deltakenede studenter. 
+CYB søker om 45 000 kr i prosjektstøtte til å arrangere en Ifi-skitur for 2016. Midlene vil utelukkende gå til å subsidiere billettprisen for deltakenede studenter.
 
 Ole Kristan opplyser om at IFI støtter skituren med 20 000 kr.
 
@@ -83,7 +84,7 @@ IFI sjakks søknad godkjennes.
 
 ### 4.5 Defis søknad om prosjektstøtte til helgekurs {#soknad-5}
 
-Defi søker om støtte på 3 000 kr til å arrangere kurs for designstudentene i brukerundersøkelse. Kurset skal holdes av bedriften UX Lab som er en startup som består av tidligere og nåværende IFI studenter. Støtten skal gå til 
+Defi søker om støtte på 3 000 kr til å arrangere kurs for designstudentene i brukerundersøkelse. Kurset skal holdes av bedriften UX Lab som er en startup som består av tidligere og nåværende IFI studenter. Støtten skal gå til
 
 Det blir diskutert at dette er reklame for bedriften som holde kurset og at bedriften kanskje burde stå for betalingen.
 
@@ -113,7 +114,7 @@ Den godkjente søknaden blir på totalt 3 380 kr.
 
 ## 5. Endring i ordlyden av likviditetstøtte {#sak-5}
 
-Det blir foreslått å endre begrepet om likvidetsstøtte til likvidetslån for å reflektere at det faktisk er et lån og ikke et støtte. 
+Det blir foreslått å endre begrepet om likvidetsstøtte til likvidetslån for å reflektere at det faktisk er et lån og ikke et støtte.
 
 Jan foreslår at det blir et krav om at det leveres et balanseregnskap ved alle søknader. Der skal det reflekteres at disse pengene er et lån og ikke støtte.
 
