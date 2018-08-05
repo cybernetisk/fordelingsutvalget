@@ -21,6 +21,7 @@ Dette er nettsiden til fordelingsutvalget ved Institutt for Informatikk
 * Foreninger **TODO**
     * Oppdatere metadata **TODO**
     * Opprette ny forening **TODO**
+    
 ## Annerkjennelser
 
 - Andreas Nyborg Hansen for å overføre hovedandelen av møtene 
