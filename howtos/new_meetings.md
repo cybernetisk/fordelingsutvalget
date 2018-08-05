@@ -15,6 +15,10 @@ For å publisere:
 Fjern linjen ```published: false```, push, pull-request til master, merge
 ## Legge til vedlegg
 
+For å legge til vedlegg trenger man bare en post med en dato. 
+Så lager man en mappe under ```meetings/<år>/<møtedato>/``` her kan man legge alle mulige filer. 
+Møte layouten legger dem da automatisk til i bunnen av ett referat/agenda.
+
 
 ## Oppdatere innkalling to referat
 

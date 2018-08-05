@@ -15,12 +15,12 @@ Dette er nettsiden til fordelingsutvalget ved Institutt for Informatikk
 
 # Guider
 
-* Legge til nye møter
-* Cognito Forms
-* Integromat
-* Foreninger
-    * Oppdatere metadata
-    * Opprette ny forening
+* [Legge til nye møter](howtos/new_meetings.md)
+* Cognito Forms **TODO**
+* Integromat **TODO**
+* Foreninger **TODO**
+    * Oppdatere metadata **TODO**
+    * Opprette ny forening **TODO**
 ## Annerkjennelser
 
 - Andreas Nyborg Hansen for å overføre hovedandelen av møtene 
