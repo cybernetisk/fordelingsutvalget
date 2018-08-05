@@ -4,6 +4,11 @@
 - title: Fordelingsutvalget
   url: "/"
   side: left
+  dropdown:
+    - title: "Søk nå"
+      url: "/apply/"
+    - title: "Rapporter og dokumentasjon"
+      url: "/report/"
 
 #- title: "Dropdown Menu"
 #  url: "#"
