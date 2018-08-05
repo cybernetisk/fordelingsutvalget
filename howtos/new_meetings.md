@@ -6,7 +6,7 @@
 
 ## Legge til en ny møteinkalling
 
-Kopier [templaten](2018-06-11-Template.md) fra _posts
+Kopier [templaten](../../_posts/2018-06-11-Template.md) fra _posts
 Bytt navn til ```<dato>-<postnavn>.md```
 Ikke fyll ut ```*attending```. De dukker ikke opp i innkallingen hvis de er tomme.
 
@@ -76,7 +76,7 @@ attending:
     - <forening>,<Representant sitt navn>
 ```
 
-* ```<forening>```: assoc_code fra [associations.yaml](associations.yaml)  
+* ```<forening>```: assoc_code fra [associations.yaml](../_data/associations.yaml)  
     
 
 #### ```not_attending```
@@ -88,7 +88,7 @@ not_attending:
         - <forening>
         - <forening>
 ``` 
-* ```<forening>```: assoc_code fra [associations.yaml](associations.yaml)  
+* ```<forening>```: assoc_code fra [associations.yaml](../_data/associations.yaml)  
 
 
 #### ```other_attenting```
