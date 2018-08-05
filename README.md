@@ -16,8 +16,8 @@ Dette er nettsiden til fordelingsutvalget ved Institutt for Informatikk
 # Guider
 
 * [Legge til nye møter](howtos/new_meetings.md)
-* Cognito Forms **TODO**
-* Integromat **TODO**
+* [Cognito Forms](howtos/third_party.md)
+* [Integromat](howtos/third_party.md)
 * Foreninger **TODO**
     * Oppdatere metadata **TODO**
     * Opprette ny forening **TODO**
