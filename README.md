@@ -1,56 +1,29 @@
-![](feeling-responsive-barebones-version.jpg)
+# Fordelingsutvalget.org
 
-## THIS IS THE BARE BONES VERSION OF *Feeling Responsive*
+Dette er nettsiden til fordelingsutvalget ved Institutt for Informatikk
 
-**All unnecessary files (images, posts) miss in this release to give you a quick and fresh start. If you are new to *Feeling Responsive* try the GH-Pages-Version. It teaches you with lots of material how to use this flexible theme.**
+# Teknologier
 
-
-[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](https://www.youtube.com/embed/3b5zCFSmVvU)
-
-## A Responsive Jekyll Theme: *Feeling Responsive*
-
-Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://phlow.github.io/feeling-responsive/>.
-
-To get to know *Feeling Responsive* check out all the features explained in the [documentation][1].
-
-And what license is *Feeling Responsive* released under? [This one][2].
+- Jekyll
+    - Feeling responsive tema
+- Github Pages
+- Jekyll-toc 
+- Cognitor Form
+- Integromat
 
 
 
-## Why use this theme?
+# Guider
 
-Feeling Responsive is heavily customizable.
+* [Legge til nye møter](howtos/new_meetings.md)
+* [Cognito Forms](howtos/third_party.md)
+* [Integromat](howtos/third_party.md)
+* Foreninger **TODO**
+    * Oppdatere metadata **TODO**
+    * Opprette ny forening **TODO**
+## Annerkjennelser
 
-1. Language-Support :)
-2. Optimized for speed and it's responsive.
-3. Built on Foundation Framework.
-4. Six different Headers.
-5. Customizable navigation, footer,...
-
-**[More ›][3]**
-
-
-
-## Video Tutorial
-
-Click the image to [watch the YouTube-Video-Tutorial][4].
-
-[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](https://www.youtube.com/watch?v=rLS-BEvlEyY)
-
-
-
-
-
-
-
-
- [1]: http://phlow.github.io/feeling-responsive/documentation/
- [2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
- [3]: http://phlow.github.io/feeling-responsive/info/
- [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
- [5]: #
- [6]: #
- [7]: #
- [8]: #
- [9]: #
- [10]: #
+- Andreas Nyborg Hansen for å overføre hovedandelen av møtene 
+- Cybernetisk Selskab [cyb.no](cyb.no) for å administrere domenet
+- Phlow [(Github)](https://github.com/Phlow/feeling-responsive)for temaet som ligger til grunne for resten av påfunnene våre
+- Allejo [(Github)](https://github.com/allejo/jekyll-toc) for Jekyll-toc
