@@ -11,17 +11,17 @@ header:
 info:
   title: "Hva er Fordelingsutvalget"
   url: '/info/'
-  image: '/assets/img/group.png'
+  image: '/assets/img/group_small.png'
   text: ''
 apply:
   title: "Hvordan søke midler"
   url: '/apply/'
-  image: '/assets/img/bang.png'
+  image: '/assets/img/bang_small.png'
   text: ''
 documents:
   title: "Dokumenter"
   url: '/dokumenter/'
-  image: '/assets/img/documents.png'
+  image: '/assets/img/documents_small.png'
   text: ''
 #
 # Use the call for action to show a button on the frontpage
