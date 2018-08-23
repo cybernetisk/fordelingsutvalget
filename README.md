@@ -7,7 +7,7 @@ Dette er nettsiden til fordelingsutvalget ved Institutt for Informatikk
 - Jekyll
     - Feeling responsive tema
 - Github Pages
-- Jekyll-toc 
+- Jekyll-toc
 - Cognitor Form
 - Integromat
 
@@ -21,10 +21,11 @@ Dette er nettsiden til fordelingsutvalget ved Institutt for Informatikk
 * Foreninger **TODO**
     * Oppdatere metadata **TODO**
     * Opprette ny forening **TODO**
-    
+
 ## Annerkjennelser
 
-- Andreas Nyborg Hansen for å overføre hovedandelen av møtene 
+- Andreas Nyborg Hansen for å overføre hovedandelen av møtene
 - Cybernetisk Selskab [cyb.no](cyb.no) for å administrere domenet
 - Phlow [(Github)](https://github.com/Phlow/feeling-responsive)for temaet som ligger til grunne for resten av påfunnene våre
 - Allejo [(Github)](https://github.com/allejo/jekyll-toc) for Jekyll-toc
+- Google [(Github)](https://github.com/google/material-design-icons) ikoner
