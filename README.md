@@ -28,4 +28,4 @@ Dette er nettsiden til fordelingsutvalget ved Institutt for Informatikk
 - Cybernetisk Selskab [cyb.no](cyb.no) for å administrere domenet
 - Phlow [(Github)](https://github.com/Phlow/feeling-responsive)for temaet som ligger til grunne for resten av påfunnene våre
 - Allejo [(Github)](https://github.com/allejo/jekyll-toc) for Jekyll-toc
-- Google [(Github)](https://github.com/google/material-design-icons) ikoner
+- Google [(Github)](https://github.com/google/material-design-icons) for ikoner
