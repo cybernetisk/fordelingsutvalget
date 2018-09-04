@@ -17,7 +17,7 @@ En rapport skal minimun inneholde:
 
 ## Regnskap
 ### Ordinært regnskap
-De fleste regnskapsprogram og maler har murlighet for å gi en god presentasjon av regnskapet, og det er akuratt de vi trenger.
+De fleste regnskapsprogram og maler har mulighet for å gi en god presentasjon av regnskapet, og det er akuratt de vi trenger.
 Minimum krav til innlevering av regnskapet er:
 * Det må være oversiktlig
 * Regnskapet skal være fullstendig
