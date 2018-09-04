@@ -6,5 +6,4 @@ teaser: ""
 permalink: /report/
 ---
 
-# Legg til skjema for FU rapportering her
 {% include _report_form.html %}

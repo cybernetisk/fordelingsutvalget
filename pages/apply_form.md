@@ -6,7 +6,6 @@ teaser: ""
 permalink: /apply/
 ---
 
-{% include alert alert='OBS: Ikke i bruk!' %}
 {% include _apply_form.html %}
 
 #### Nyttige  dokumenter
