@@ -16,6 +16,10 @@
   url: "https://ififui.no/"
   title: "Fagutvalget ved Institutt for informatikk"
 
+- name: "IFI-avis"
+  url: "http://ifiavis.no/"
+  title: "Studentavisen ved Institutt for informatikk"
+
 - name: "MAPS"
   url: "http://foreninger.uio.no/maps/"
   title: "Matematikk, algoritmer og programmering for studenter"
