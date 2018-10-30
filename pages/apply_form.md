@@ -10,4 +10,4 @@ permalink: /apply/
 
 #### Nyttige  dokumenter
 - [Retningslinjer for søknader](/retningslinjer/)
-- [Vedtekter for Fordelingsutvalget](/vedtekter/) (ikke opprettet)
+- [Vedtekter for Fordelingsutvalget](/vedtekter/)
