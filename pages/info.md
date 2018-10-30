@@ -19,10 +19,11 @@ Utvalget har som hovedmål gi dette overskuddet tilbake til studentene gjennom �
 Alle midlene som blir blir det ut kommer fra overskuddet til navet og dagen@ifi. Flere av medlemsforeningene og søkerforeninger har vedtektsfestet at også de skal gi sitt overskudd til fordelingsutvalget, men hittil har ingen andre hatt økonomien til å gjennomføre dette. Fordelingsutvalget mottar ingen midler fra UiO, SiO eller andre lignende organisasjoner, og er derfor 100% finansiert av foreninger tilknyttet institutt for informatikk.    
 
 ## Hvem sitter i utvalget?
-Det sitter i 10 foreninger med stemmerett i utvalget. Disse er:    
+Det sitter i 11 foreninger med stemmerett i utvalget. Disse er:
 - [Cybernetisk Selskab](http://cyb.no/)
 - [dagen@ifi](https://dagenatifi.no/)
 - [Defi](http://defi.no/)
+- [Digitus](https://www.sio.no/foreninger/finn-din-forening?i=1&s=8630)
 - [FUI](https://ififui.no/)
 - [MAPS](http://foreninger.uio.no/maps/)
 - [Mikro](https://www.facebook.com/pages/Studentforeningen-Mikro/151779014851965)
