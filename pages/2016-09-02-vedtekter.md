@@ -27,7 +27,7 @@ a) Utvalgets øverste myndighet består av representanter fra foreninger tilknyt
   - Mikro (Studentforeningen for mikroelektronikk)
   - ProgNett (IFI-ProgNett)
   - PI:SK (Programutvalget for Informatikk: Språk og Kommunikasjon)
-  - Index (IFI-avis)
+  - Output (IFI-avis)
 
 b) Hver forening plikter å stille med minst én representant på hvert møte.
 
