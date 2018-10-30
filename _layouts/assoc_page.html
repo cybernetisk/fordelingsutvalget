@@ -8,7 +8,6 @@ format: post
 
     {% assign short_code = page.title | downcase %}
     {% assign assoc_data = site.data.associations[short_code] %}
-    {{assoc_data}}
 
     <h1>{{assoc_data.real}} </h1>
     {{assoc_data.tagline}}
