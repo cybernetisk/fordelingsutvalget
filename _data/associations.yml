@@ -102,11 +102,6 @@ fifi:
   tagline:  "En sosial og sportslig forening ved instituttet"
 
 # Programmering
-svett:
-  name: "Svett"
-  real: "Svett"
-  url:  "https://www.facebook.com/svettifi/"
-  tagline: ""
 
 spillutvikling:
   name:     "IFI-spillutvikling"
@@ -156,6 +151,12 @@ okonomians:
 
 
 # Utgåtte foreninger. RIP <3
+svett:
+  name: "Svett"
+  real: "Svett"
+  url:  "https://www.facebook.com/svettifi/"
+  tagline: ""
+
 
 ping:
   name:     "PING"
