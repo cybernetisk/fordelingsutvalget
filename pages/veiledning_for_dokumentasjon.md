@@ -12,8 +12,8 @@ En rapport skal minimun inneholde:
 * Søknadsperiode og søknadsnummer. [(Kan finnes her.)](/status/)
 * Er det noe som gikk bra?
 * Er det noe som gikk dårlig?
-* Hva vil vi gjøre andeledes neste gang?
-* Er det noe utvalget burde vite? (foreksempel ved avik fra søknad)
+* Hva vil vi gjøre anderledes neste gang?
+* Er det noe utvalget burde vite? (for eksempel ved avvik fra søknad)
 
 ## Regnskap
 ### Ordinært regnskap
