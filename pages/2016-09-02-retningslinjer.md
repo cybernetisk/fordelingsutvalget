@@ -6,6 +6,8 @@ teaser: ""
 permalink: /retningslinjer/2016
 ---
 
+{% include alert alert='Dette er utdaterte rettningslinjer og ligger kun ute for for de som ønsker å se hvordan ting ble gjort før. Disse rettningslinjer ble oppdatert 25.09.18' %}
+
 Sist endret: 2/9-2016
 
 ### Formelle krav til søknader
