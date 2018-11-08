@@ -35,6 +35,8 @@ other_attending:
 * TOC
 {:toc}
 
+> Det mangler noen vedlegg da de har vært vanskelige å spøre opp igjen etter forrige nettside gikk ned.
+
 
 ## Sak 1 Godkjenning av innkalling
 Innkalling ble godkjent med merknad at møtetidspunkt var glemt.
