@@ -2,6 +2,8 @@
 
 
 # assoc_tag:
+#     type:   [active/inactive/role]
+#     society: [yes/no]
 #     name:   "Assoc_name"
 #     real:   "The full name of the associations"
 #     url:    "associations.hacky.software"
@@ -11,35 +13,40 @@
 
 # Linjeforeningene
 progsys:
+  type: active
   name:     "ProgSys"
-  real:     "Linjeforeningen for studiet Informatikk: programmering og systemarkitektur"
+  real:     "Ifi-progsys"
   url:      "http://foreninger.uio.no/prognett/"
-  tagline:  "Linjeforeningen for studiet Informatikk: "
+  tagline:  "Linjeforeningen ved studiet Informatikk: programmering og systemarkitektur"
   former_tag:
     - prognett
 
 list:
+  type: active
   name:     "LI:ST"
-  real:     "Linjeforeningen ved Informatikk: språkteknologi"
+  real:     "Linjeforeningen for Informatikk: språkteknologi"
   url:      "https://www.facebook.com/LISTIFI"
-  tagline:  "Linjeforeningen for studiet Informatikk: språkteknologi"
+  tagline:  "Linjeforeningen ved studiet Informatikk: språkteknologi"
   former_tag:
     - pisk
 
 defi:
+  type: active
   name:     "Defi"
   real:     "Designforeningen ved Institutt for Informatikk"
   url:      "http://defi.no/"
-  tagline:  "Linjeforeningen for studiet Informatikk: design, bruk og interaksjon"
+  tagline:  "Linjeforeningen ved studiet Informatikk: design, bruk og interaksjon"
 
 
 digitus:
+  type: active
   name:     "Digitus"
   real:     "Digitus"
   url:      "http://www.digitusuio.no/"
-  tagline:  "Linjeforeningen for studiet Informatikk: Digital Økonomi og Ledelse ved Universitetet i Oslo"
+  tagline:  "Linjeforeningen ved studiet Informatikk: Digital Økonomi og Ledelse"
 
 mikro:
+  type: active
   name:     "Mikro"
   url:      "https://www.facebook.com/pages/Studentforeningen-Mikro/151779014851965"
   real:     "Nanoelektronikk, Robotikk og Digital Signalbehandling "
@@ -47,55 +54,62 @@ mikro:
 
 # Annet
 applitude:
+  type: active
   name:     "Applitude"
   real:     "Applitude"
   url:      "http://www.applitude.no"
   tagline:  "Applitude er en studentforening for alle som er interesserte i apputvikling"
 
 fui:
+  type: active
   name:     "FUI"
   real:     "Fagutvalget ved Institutt for informatikk"
   url:      "https://ififui.no/"
   tagline:  ""
 
 studentavis:
+  type: active
   name:     "index"
   real:     "ifi-avis"
   url:      "http://ifiavis.no/"
   tagline:  "Output er studentavisen ved Institutt for Informatikk ved UiO. Vi lager informative og underholdende artikler og gir ut avisen to ganger i året."
 
 homebrew:
+  type: active
   name:     "Homebrew"
   real:     "Homebrew"
   url:      "http://diw02.uio.no/blogg"
   tagline:  "Homebrew skal fremme kunnskap og interesse om brygging av øl og vin blant studenter ved Institutt for Informatikk"
 
 fadderstyret:
+  type: active
   name: "Fadderstyret"
 
 toast:
+  type: active
   name:     "Toastjern"
   real:     "Toastens Organisasjon for Alle Studenter Til Jernets Ære og Riket Norge"
   url:      "https://www.facebook.com/toastjaern/"
   tagline:  "Vi har arrangementer der vi lager toast og deler det ut til medlemmene våre."
 
 ordenen:
+  type: active
   name: "Ifi-ordenen"
   real: "Ifi-ordenen"
   url:  "http://ordenen.ifi.uio.no/"
   tagline: "Ordenen tildeles som belønning for utmerkede fortjenester for studentmiljøet ved Ifi."
 
-verdande:
-  name: "Verdande"
 
 # Sport og idrett
 sjakk:
+  type: active
   name:     "IFI Sjakk"
   real:     "IFI Sjakk"
   url:      "https://www.facebook.com/ifisjakk/"
   tagline:  "Sjakkforening ved Institutt for Informatikk på UiO."
 
 fifi:
+  type: active
   name:     "FIFI"
   real:     "Fotball ved Institutt for Informatikk"
   url:      "http://diw07.uio.no/"
@@ -104,79 +118,105 @@ fifi:
 # Programmering
 
 spillutvikling:
+  type: active
   name:     "IFI-spillutvikling"
   real:     "IFI-spillutvikling"
   url:      "http://www.mn.uio.no/ifi/livet-rundt-studiene/organisasjoner/ifi-spillutvikling.html"
   tagline:  ""
 
 maps:
+  type: active
   name:     "MAPS"
   real:     "Matematikk, algoritmer og programmering for studenter"
   url:      "http://foreninger.uio.no/maps/"
   tagline:  ""
 
+makers:
+  type:   active
+  name:    "Ifi-Makers"
+  real:    "Ifi-Makers"
+  url:     "http://sonen.ifi.uio.no/"
+  tagline: ""
+
 # Trifektaen
 cyb:
+  type: active
   name:     "Cybernetisk Selskab"
   real:     "Cybernetisk Selskab"
   url:      "http://cyb.no"
-  tagline:  ""
+  tagline:  "Instituttforeningen for sosiale aktiveter og drifter av studentkjelleren Escape ved Institutt for informatikk"
 
 dagen:
+  type: active
   name:     "dagen@ifi"
   real:     "ifi-dagen"
   url:      "https://dagenatifi.no"
   tagline:  "Karrieredagene på Institutt for informatikk"
 
 navet:
+  type: active
   name:     "Navet"
   real:     "ifi-navet"
   url:      "http://ifinavet.no"
   tagline:  "Bedriftskontakten ved Institutt for informatikk"
 
 # Meta forening for FU
-
 koordinator:
+  type: role
   name: "Koordinator"
   real: "Nikolas Papaioannou"
   url: "hacky.software"
-  tagline: "lol taglines"
+  tagline: "Møte- og søknadskoordinator i Fordelingsutvalget"
+  periods:
+    - start: 2016V
+      end: 2017V
+      real: "Andreas Lind-Johansen"
+    - start: 2017V
+      end: current
 
 okonomians:
+  type: role
   name: "Økonomiansvarlig"
   real: "Andreas Nyborg Hansen"
   url: ""
-  tagline: "lol taglines"
+  tagline: "Referent-, søknads- og rapporteringsansvarlig i Fordelingsutvalget"
+  periods:
+    - start: 2016V
+      end: 2017V
+      real: "Kristin Braathen"
+    - start: 2017V
+      end: current
 
 
 
 # Utgåtte foreninger. RIP <3
 svett:
-  name: "Svett"
-  real: "Svett"
-  url:  "https://www.facebook.com/svettifi/"
+  type:   inactive
+  name:    "Svett"
+  real:    "Svett"
+  url:     "https://www.facebook.com/svettifi/"
   tagline: ""
 
-
 ping:
-  name:     "PING"
-  real:     "Program-, Informasjons- og Nettverksteknologisk Gruppe"
-  url:      "http://www.ping.uio.no/"
-
-makers:
-  name:     "IFI makers"
-  real:     "IFI makers"
-  url:      "http://sonen.ifi.uio.no/"
-  tagline:   ""
+  type:   inactive
+  name:    "PING"
+  real:    "Program-, Informasjons- og Nettverksteknologisk Gruppe"
+  url:     "http://www.ping.uio.no/"
 
 upf:
-  name: "UPF"
-  real: "UiO Paintball"
-  url:  "http://foreninger.uio.no/upf/"
+  type:   inactive
+  name:    "UPF"
+  real:    "UiO Paintball"
+  url:     "http://foreninger.uio.no/upf/"
   tagline: "Vi jobber for å skape et godt miljø rundt paintball for studenter, både sosialt og treningsmessig"
 
 teknat:
-  name: "TekNat"
-  real: "Tekniske og Naturvitenskapelige anvendelser"
-  url: "http://www.teknat.no/"
+  type:   inactive
+  name:    "TekNat"
+  real:    "Tekniske og Naturvitenskapelige anvendelser"
+  url:     "http://www.teknat.no/"
   tagline: "TekNat er en studentforening for deg som liker realfag og matematikk, og som ønsker å bidra til et faglig og sosialt miljø for disse studentene."
+
+verdande:
+  type: inactive
+  name: "Verdande"

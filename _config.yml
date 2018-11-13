@@ -22,7 +22,7 @@ description: |
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: Fordelingsutvalget
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -131,6 +131,7 @@ collections:
     permalink: /:collection/:path/
   associations:
     output: true
+    permalink: /foreninger/:path/
 
 
 #       _   __            _             __  _

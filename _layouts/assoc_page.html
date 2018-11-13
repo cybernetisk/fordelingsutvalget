@@ -1,85 +1,94 @@
 ---
 layout: default
 format: post
+breadcrumb: yes
 ---
 
 <div class="row t30">
-    <div class="medium-8 columns{% if page.sidebar == NULL %} medium-offset-2 end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}">
+  <div class="medium-8 columns{% if page.sidebar == NULL %} medium-offset-2 end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}">
 
     {% assign short_code = page.title | downcase %}
     {% assign assoc_data = site.data.associations[short_code] %}
+    {% assign official_name = assoc_data.real | default: assoc_data.name %}
 
-    <h1>{{assoc_data.real}} </h1>
-    {{assoc_data.tagline}}
+    <h1>{{ official_name }} </h1>
+    {% if official_name != assoc_data.name %}
+      <em>Også kjent som {{ assoc_data.name }}.</em>
+    {% endif %}
+    {% if assoc_data.tagline -%}
+    <blockquote>
+      {{ assoc_data.tagline | markdownify }}
+    </blockquote>
+    {%- endif %}
 
     {% if assoc_data %}
-        <div>
-            {{post.content}}
+      <div>
+        {{post.content}}
 
-            <h2>Søknader:</h2>
+        <h2>Søknader fra {{ assoc_data.real }}</h2>
 
-            {% assign meeting_files = site.static_files | where_exp: "file","file.path contains 'meetings'" %}
-            {% assign meeting_files = meeting_files | where_exp: "file","file.path contains short_code" | reverse%}
+        {% assign meeting_files = site.static_files | where_exp: "file","file.path contains 'meetings'" %}
+        {% assign meeting_files = meeting_files | where_exp: "file","file.path contains short_code" | reverse%}
 
-            {% assign first_file = meeting_files | first%}
-            {% assign tmp_year = first_file.path | split:"/"%}
-            {% assign tmp_year = tmp_year[2]%}
-            {% assign cur_year = tmp_year[2]%}
+        {% assign first_file = meeting_files | first%}
+        {% assign tmp_year = first_file.path | split:"/"%}
+        {% assign tmp_year = tmp_year[2]%}
+        {% assign cur_year = tmp_year[2]%}
 
-            {% for file in meeting_files %}
-                {% assign tmp_year = file.path | split:"/"%}
-                {% assign tmp_year = tmp_year[2]%}
-                {% if cur_year != tmp_year %}
-                    {% if forloop.first == false %}
-                        </tbody>
-                        </table>
+        {% for file in meeting_files %}
+          {% assign tmp_year = file.path | split:"/"%}
+          {% assign tmp_year = tmp_year[2]%}
+          {% if cur_year != tmp_year %}
+            {% if forloop.first == false %}
+              </tbody>
+              </table>
+            {% endif %}
+            <h3>År {{tmp_year}} </h3>
+            <table>
+              <thead>
+                <tr>
+                  <th>Dato</th>
+                  <th>Lenke til møte</th>
+                  <th>Lenke til søknad</th>
+                </tr>
+              </thead>
+              <tbody>
+
+                {% assign cur_year = tmp_year%}
+              {% endif%}
+
+              {% if cur_year == tmp_year %}
+                {% assign file_url = file.path | absolute_path | split: "/"%}
+                {% assign date_str = file_url[3] %}
+                {% assign meeting_path = site.posts | where_exp: "posts","posts.url contains date_str" %}
+                {% assign meeting = meeting_path[0]%}
+                {% assign file_url = file.path | absolute_path %}
+
+                <tr>
+                  <td>
+                    {{ date_str }}
+                  </td>
+                  <td>
+                    {% if meeting.url %}
+                      <a href="{{ meeting.url | absolute_path }}"> {{meeting.title}} </a>
+                    {% else %}
+                      <strong>Ingen møte funnet, legg det til!</strong>
                     {% endif %}
-                    <h2> Year {{tmp_year}} </h2>
-                    <table>
-                        <thead>
-                            <tr>
-                                <th>Dato</th>
-                                <th>Lenke til møte</th>
-                                <th>Lenke til søknad</th>
-                            </tr>
-                        </thead>
-                    <tbody>
-
-                    {% assign cur_year = tmp_year%}
-                {% endif%}
-
-                {% if cur_year == tmp_year %}
-                    {% assign file_url = file.path | absolute_path | split: "/"%}
-                    {% assign date_str = file_url[3] %}
-                    {% assign meeting_path = site.posts | where_exp: "posts","posts.url contains date_str" %}
-                    {% assign meeting = meeting_path[0]%}
-                    {% assign file_url = file.path | absolute_path %}
-
-                    <tr>
-                        <td>
-                            {{ date_str }}
-                        </td>
-                        <td>
-                            {% if meeting.url %}
-                                <a href="{{ meeting.url | absolute_path }}"> {{meeting.title}} </a>
-                            {% else %}
-                                <strong>Ingen møte funnet, legg det til!</strong>
-                            {% endif %}
-                        </td>
-                        <td>
-                            <a href="{{file_url}}" title="Read {{ file_url }}"> {{file.name}} </a>
-                        </td>
-                    </tr>
-                {% endif%}
+                  </td>
+                  <td>
+                    <a href="{{file_url}}" title="Read {{ file_url }}"> {{file.name}} </a>
+                  </td>
+                </tr>
+              {% endif%}
             {% endfor %}
-            </tbody>
+              </tbody>
             </table>
-        </div>
+      </div>
     {% else %}
-        <div>
-            UNABLE TO FIND ANY DATA ON THIS ASSOCIATION
-        </div>
+      <div>
+        UNABLE TO FIND ANY DATA ON THIS ASSOCIATION
+      </div>
     {% endif %}
-    </div>
+  </div>
 </div>
 
