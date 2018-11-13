@@ -1,0 +1,52 @@
+---
+layout: page-fullwidth
+title: Foreningsoversikt
+header: no
+breadcrumb: yes
+permalink: /foreninger/
+---
+
+<style type="text/css">
+.card {
+	padding: 1em;
+}
+.card a.more::after {
+	content: " ›";
+}
+</style>
+
+{% assign grouped_associations = site.data.associations | sort
+| group_by_exp: "item","item[1].type 
+| lower 
+| replace: 'inactive','Inaktive og oppløste'
+| replace: 'active','Aktive foreninger'
+| replace: 'role','Utvalgsroller'" %}
+{% for group in grouped_associations %}
+	<h2>{{ group['name'] }}</h2>	
+	<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
+		{% for association in group['items'] %}
+			<li class="card">
+				<h3>
+					<a href="{{ association[1].url }}" title"Gå til {{ association[1].name }} sin hjemmeside">
+						{{ association[1].name }}
+					</a>
+				</h3>
+				{% if association[1].name != association[1].real %}
+					<small title="Fullt navn på foreningen">{{ association[1].real }}</small>
+				{% endif %}
+				<aside>
+					<p title="Beskrivelse">{{ association[1].tagline }}</p>
+				</aside>
+				<a class="button tiny radius more" 
+				   href="{{ page.url }}{{ association[0] }}/" title="Se søknadsoversikt for {{ association[1].name }}">
+					Se søknadsoversikt
+				</a>
+			</li>
+		{% endfor %}
+	</ul>
+{% endfor %}
+
+{% include _improve_content.html %}
+
+
+

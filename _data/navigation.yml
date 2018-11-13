@@ -1,15 +1,6 @@
 #
 #   Navigation to the left › side: left
 #
-- title: Fordelingsutvalget
-  url: "/"
-  side: left
-  dropdown:
-    - title: "Søk nå"
-      url: "/apply/"
-    - title: "Rapporter og dokumentasjon"
-      url: "/report/"
-
 #- title: "Dropdown Menu"
 #  url: "#"
 #  side: left
@@ -20,6 +11,17 @@
 #    url: "#"
 #  - title: "Dropdown Menu 3"
 #    url: "#"
+
+- title: Fordelingsutvalget
+  url: "/"
+  side: left
+  dropdown:
+    - title: "Søk nå"
+      url: "/apply/"
+    - title: "Rapporter og dokumentasjon"
+      url: "/report/"
+    - title: "Foreninger"
+      url: "/foreninger/"
 
 - title: Møtearkiv
   url: "/archive/"

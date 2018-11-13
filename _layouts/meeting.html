@@ -78,7 +78,7 @@ format: post
 				{% if assoc_obj.name %}
 					<li><a href="{{ assoc_tmp[0].url | absolute_path }}"> {{ assoc_obj.name }}</a>{%if name%}, {{name}} {%endif%} {%if status%}{{status}}{%endif%} </li>
 				{% else %}
-					<li>INVALID code: "{{attendee}}"</li>
+                  <li><strong>UGYLDIG foreningskode</strong>: "{{attendee}}"</li>
 				{% endif %}
 			{% endfor %}
 			</ul>
