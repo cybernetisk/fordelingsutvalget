@@ -55,10 +55,10 @@ mikro:
 # Annet
 appsolutt:
   type: active
-  name:     "Applitude"
-  real:     "Applitude"
-  url:      "http://www.applitude.no"
-  tagline:  "Applitude er en studentforening for alle som er interesserte i apputvikling"
+  name:     "Appsolutt"
+  real:     "Appsolutt"
+  url:      "http://www.appsoluttuio.no/"
+  tagline:  "Appsolutt er en studentforening for alle som er interesserte i apputvikling"
   former_tag:
     - applitude
 
