@@ -43,7 +43,7 @@ digitus:
   name:     "Digitus"
   real:     "Digitus"
   url:      "http://www.digitusuio.no/"
-  tagline:  "Linjeforeningen ved studiet Informatikk: Digital Økonomi og Ledelse"
+  tagline:  "Linjeforeningen ved studiet Informatikk: digital økonomi og ledelse"
 
 mikro:
   type: active
@@ -53,12 +53,14 @@ mikro:
   tagline:  "Linjeforeningen for studiet Informatikk: robotikk og intelligente systemer"
 
 # Annet
-applitude:
+appsolutt:
   type: active
   name:     "Applitude"
   real:     "Applitude"
   url:      "http://www.applitude.no"
   tagline:  "Applitude er en studentforening for alle som er interesserte i apputvikling"
+  former_tag:
+    - applitude
 
 fui:
   type: active
