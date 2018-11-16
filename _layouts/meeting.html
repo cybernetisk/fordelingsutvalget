@@ -71,14 +71,46 @@ format: post
 				{% else %}
 					{% assign status = ""%}
 				{% endif %}
+				
 
+				{% assign assoc_renamed = false %}
 				{% assign assoc_obj = site.data.associations[assoc_code] %}
-				{% assign assoc_tmp = site.associations | where_exp: "e","e.url contains assoc_code" %}
-
+				{% unless assoc_obj.name %}
+					{% capture raw_matches -%}
+						{% for association in site.data.associations -%}
+							{% for tag in association[1].former_tag -%}
+								{% if tag == assoc_code -%}
+									{{ tag }}:{{ association[0] }}
+									{% endif -%}
+								{% endfor -%}
+							{% if forloop.last == false %},{% endif -%}
+							{% endfor -%}
+					{% endcapture %}
+					{% assign matches = raw_matches | strip | split:','| where_exp:"{{item}}","item != ''" -%}
+					{% for match in matches -%}
+						{% assign mapping = match | strip | split:':' -%}
+						{% assign old_assoc = mapping[0] -%}
+						{% assign new_assoc = mapping[1] -%}
+						{% if old_assoc == assoc_code -%}
+							{% assign assoc_code = new_assoc -%}
+							{% assign assoc_obj = site.data.associations[assoc_code] -%}
+							{% assign assoc_renamed = true -%}
+							{% break -%}
+							{% endif -%}
+						{% endfor -%}
+					{% endunless -%}
 				{% if assoc_obj.name %}
-					<li><a href="{{ assoc_tmp[0].url | absolute_path }}"> {{ assoc_obj.name }}</a>{%if name%}, {{name}} {%endif%} {%if status%}{{status}}{%endif%} </li>
+					{% assign assoc_tmp = site.associations | where_exp: "e","e.url contains assoc_code" %}
+					<li>
+						<a href="{{ assoc_tmp[0].url | absolute_path }}">
+							{{ assoc_obj.name }}</a>{% if assoc_renamed -%}
+							<span title="Kjent som {{ old_assoc }} på dette møtet">&#9432;</span>
+							{% endif -%}
+						{% if name %}, {{name}} {% endif -%} 
+						{% if status %}{{ status }}{% endif -%}
+					</li>
 				{% else %}
-                  <li><strong>UGYLDIG foreningskode</strong>: "{{attendee}}"</li>
+					<li><strong>Ugyldig foreningskode</strong>: "{{attendee}}"</li>
 				{% endif %}
 			{% endfor %}
 			</ul>
@@ -97,7 +129,7 @@ format: post
 					{% if assoc_obj.name %}
 						<li><a href="{{ assoc_tmp[0].url | absolute_path }}"> {{ assoc_obj.name }}</a></li>
 					{% else %}
-						<li>INVALID code: "{{attendee}}"</li>
+						<li><strong>Ugyldig foreningskode</strong>: "{{attendee}}"</li>
 					{% endif %}
 				{% endfor %}
 				</ul>
