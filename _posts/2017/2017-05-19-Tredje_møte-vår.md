@@ -260,7 +260,7 @@ Defi:
 Votering fullt beløp:
 8 for, 0 mot, 0 avholdende
 
-### Sak 5 - Frie midler {#sak-5}
+## Sak 5 - Frie midler {#sak-5}
 Niko:
     Oppfølging. Det ble fremmet et forslag om at linjeforeninger skal kunne få 1000 kr i semesteret hvor de står litt friere til hva de kan bruke det til. (men de må fortsatt rapportere det). Har folk noen kommentarer til det vedtaksforslaget som har blitt sendt ut?
 
@@ -283,7 +283,7 @@ Niko:
 Votering for frie midler:
 8 for, 0 mot, 0 avholdende.
 
-### Sak 6 - Gi defi stemmerett {#sak-6}
+## Sak 6 - Gi defi stemmerett {#sak-6}
 Votering for å gi defi stemmerett:
 8 for, 0 mot, 0 avholdende
 
