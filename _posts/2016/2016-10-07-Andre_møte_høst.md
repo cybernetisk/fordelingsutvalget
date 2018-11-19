@@ -1,6 +1,6 @@
 ---
 layout: meeting
-title: Andre møte høst 2018
+title: Andre møte høst 2016
 subheadline: "Møte i Fordelingsutvalget"
 
 time: 16:15:00
@@ -15,7 +15,6 @@ attending:
     - maps, Tore Sund Norderud
     - studentavis, Hans Petter Taugbøl Kraget
      
-
 not_attending:
    - pisk
    - prognett
