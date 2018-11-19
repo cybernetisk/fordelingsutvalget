@@ -99,4 +99,4 @@ Vår 2015 ble det søkt om 323 151,70 kr, mens det ble utbetalt 311 287,90 kr
 
 ### 7.2 - Retningslinjer {#sak-7-2}
 Vi har i dag en del retningslinjer som følges, men som ikke er skrevet ned i retningslinjedokumentet. Andreas foreslo at disse skal legges inn i retningslinjedokumentet.  
-**Godkjennes enstemmig **
+**Godkjennes enstemmig**
