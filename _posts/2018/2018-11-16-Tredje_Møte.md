@@ -7,7 +7,7 @@ time: 16:15:00
 published: true
 referent: "Andreas Nyborg Hansen"
 
-ttending:
+attending:
     - cyb, Thor Høgås
     - dagen, Henrikk Lillengen
     - fui, Elise Lystad
