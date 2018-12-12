@@ -17,7 +17,7 @@ attending:
     - list, Øystein Halvorsen Folvik 
     - studentavis, Katrine Gundensen
     - defi, Tonje Røyeng 
-    - maps, 
+    - maps, Tobias
     - digitus, Jonas Baer
 
 not_attending:
@@ -27,8 +27,8 @@ not_attending:
 other_attending:
     - okonomians, Andreas Nyborg Hansen
     - koordinator, Nikolas Papaioannou
-    - ifimakers, Jale
-    - ifispillutvikling, Vemdund 
+    - ifimakers, Jarle Steinberg
+    - ifispillutvikling, Vemund Justnes 
 ---
 
 
