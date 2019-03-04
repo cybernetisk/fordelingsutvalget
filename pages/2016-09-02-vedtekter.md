@@ -3,7 +3,7 @@ layout: page
 title: "Vedtekter for Fordelingsutvalget ved Institutt for informatikk, UiO"
 subheadline: ""
 teaser: ""
-permalink: /vedtekter/
+permalink: /vedtekter-2016/
 ---
 
 Sist endret: 2/9-2016
