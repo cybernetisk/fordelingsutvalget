@@ -1,11 +1,8 @@
 ---
 layout: meeting
-title: Møte template
-subheadline: "Sirkulasjonsak Linjeforeningene /v Mikro"
-
+title: Sirkulasjonsak Linjeforeningene /v Mikro
+subheadline: "Sirkulasjonsak"
 published: true
-
-
 
 ---
 
@@ -14,6 +11,7 @@ published: true
 
 ## Sirkulasjonsaken
 
+Per mail fra Eirik Ølberg:
 ```
 Hei,
 
@@ -42,7 +40,7 @@ og de andre linjeforeningene
 
 Nok foreninger stiller seg bak forslaget. Resten har ikke svart per 6.Mars
 
-#### For:
+#### For
 - Cyb
 - FUI
 - Navet
@@ -51,5 +49,5 @@ Nok foreninger stiller seg bak forslaget. Resten har ikke svart per 6.Mars
 - DEFI
 - LI:ST
 
-#### Mot:
+#### Mot
 - Ingen
