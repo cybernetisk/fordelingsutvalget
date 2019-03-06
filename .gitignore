@@ -3,3 +3,4 @@ _intern-notater/*
 .sass-cache/*
 .jekyll-metadata/*
 .idea/*
+.DS_Store
