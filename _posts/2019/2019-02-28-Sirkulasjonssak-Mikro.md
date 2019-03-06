@@ -12,7 +12,7 @@ published: true
 ## Sirkulasjonsaken
 
 Per mail fra Eirik Ølberg:
-```
+
 Hei,
 
 Linjeforeningene skal arrangere BIG-Javafredag denne fredagen! (Forklaring under)
@@ -34,7 +34,7 @@ Hver fredag er det javafredag i In1010, men denne gangen oppgraderer linjeforeni
 Mvh
 Eirik Ølberg, Mikro
 og de andre linjeforeningene
-```
+
 
 ### Tilbakemelding
 
