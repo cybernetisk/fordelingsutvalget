@@ -40,7 +40,7 @@ og de andre linjeforeningene
 
 ### Tilbakemelding
 
-Nok foreninger stiller seg bak forslaget
+Nok foreninger stiller seg bak forslaget. Resten har ikke svart per 6.Mars
 
 #### For:
 - Cyb
@@ -52,4 +52,4 @@ Nok foreninger stiller seg bak forslaget
 - LI:ST
 
 #### Mot:
-
+- Ingen
