@@ -56,7 +56,7 @@ Fordelingsutvaget kan kreve hele eller deler av tildelt beløp dersom:
 1. Maksimalt 300 kr til å gjennomføre generalforsamling.
 2. Maksimalt 150 kroner per person per natt til hytteturer ol. Det burde gjøres unntak for turer med stort omfang og som dekker store deler av studentmassen. F.eks Skitur til Hemsedal
 3. Maksimalt ett arrangement med pizza/mat per forening per semester.
-    1. Maksimalt 80 kroner per person for mat til et arrangement.
+    1. Maksimalt 90 kroner per person for mat til et arrangement.
     2. Her gjøres det unntak for faglige arrangementer av en slik størrelse og varighet at det er naturlig å servere mat for å gjennomføre arrangementet.  80-kronersregelen gjelder fortsatt på slike arrangement.
 4. FU støtter maksimalt 50% av søknadsposter som angår alkoholholdig drikke.
 5. Styremiddag og sosiale goder til styret.
