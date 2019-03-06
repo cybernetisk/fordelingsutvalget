@@ -1,6 +1,6 @@
 # Fordelingsutvalget.org
 
-Dette er nettsiden til fordelingsutvalget ved Institutt for Informatikk
+Dette er nettsiden til Fordelingsutvalget ved Institutt for Informatikk
 
 # Teknologier
 
@@ -12,9 +12,8 @@ Dette er nettsiden til fordelingsutvalget ved Institutt for Informatikk
 - Integromat
 
 
-
 # Guider
-
+* [Kompilere siden](howtos/compiling.md)
 * [Legge til nye møter](howtos/new_meetings.md)
 * [Cognito Forms](howtos/third_party.md)
 * [Integromat](howtos/third_party.md)
