@@ -38,7 +38,8 @@ og de andre linjeforeningene
 
 ### Tilbakemelding
 
-Nok foreninger stiller seg bak forslaget. Resten har ikke svart per 6.Mars
+Nok foreninger stiller seg bak forslaget. Resten har ikke svart per 6.Mars.
+Beløpet innvilges.
 
 #### For
 - Cyb
