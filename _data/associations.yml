@@ -49,7 +49,7 @@ mikro:
   type: active
   name:     "Mikro"
   url:      "https://www.facebook.com/pages/Studentforeningen-Mikro/151779014851965"
-  real:     "Nanoelektronikk, Robotikk og Digital Signalbehandling "
+  real:     "Mikro: Linjeforeningen for robotikk og intelligente systemer"
   tagline:  "Linjeforeningen for studiet Informatikk: robotikk og intelligente systemer"
 
 # Annet
@@ -71,7 +71,7 @@ fui:
 
 studentavis:
   type: active
-  name:     "index"
+  name:     "ouptut"
   real:     "ifi-avis"
   url:      "http://ifiavis.no/"
   tagline:  "Output er studentavisen ved Institutt for Informatikk ved UiO. Vi lager informative og underholdende artikler og gir ut avisen to ganger i året."
@@ -100,6 +100,10 @@ ordenen:
   real: "Ifi-ordenen"
   url:  "http://ordenen.ifi.uio.no/"
   tagline: "Ordenen tildeles som belønning for utmerkede fortjenester for studentmiljøet ved Ifi."
+
+foreningsfesten:
+  type: active
+  name: "foreningsfesten"
 
 
 # Sport og idrett
