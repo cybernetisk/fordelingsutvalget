@@ -8,13 +8,13 @@ published: true
 referent: ""
 
 attending:
-    - 
+    
 
 not_attending:
-    -
+    
 
 other_attending:
-    -
+    
 
 
 ---
@@ -31,5 +31,3 @@ other_attending:
 ### 4.2 Mirko prosjektsøknad: Escape Velocity  {#soknad-2}
 ### 4.3 ProgSys Semestersøknad  {#soknad-3}
 ### 4.4 Ifi-orden {#soknad-4}
-### 4.5 -  {#soknad-5}
-### 4.6 -  {#soknad-6}
