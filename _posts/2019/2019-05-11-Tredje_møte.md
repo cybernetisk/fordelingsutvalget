@@ -4,7 +4,7 @@ title: Møte template
 subheadline: "Møte i Fordelingsutvalget"
 
 time: 16:15:00
-published: false
+published: true
 referent: ""
 
 attending:
