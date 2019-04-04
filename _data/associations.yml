@@ -170,29 +170,35 @@ navet:
 koordinator:
   type: role
   name: "Koordinator"
-  real: "Nikolas Papaioannou"
-  url: "hacky.software"
+  real: "Andreas Nyborg Hansen"
+  url: ""
   tagline: "Møte- og søknadskoordinator i Fordelingsutvalget"
   periods:
     - start: 2016V
       end: 2017V
       real: "Andreas Lind-Johansen"
     - start: 2017V
+      end: 2019V
+      real: "Nikolas Papaioannou"
+    - start: 2019V
       end: current
 
 okonomians:
   type: role
-  name: "Økonomiansvarlig"
-  real: "Andreas Nyborg Hansen"
+  name: "Sekretær"
+  former_name: "Økonomiansvarlig"
+  real: "Karl Hole Totland"
   url: ""
-  tagline: "Referent-, søknads- og rapporteringsansvarlig i Fordelingsutvalget"
+  tagline: "Referent-, søknads- og rapporteringsansvarlig i Fordelingsutvalget."
   periods:
     - start: 2016V
       end: 2017V
       real: "Kristin Brænden"
     - start: 2017V
+      end: 2019V
+      real: "Andreas Nyborg Hansen"
+    - start: 2019V
       end: current
-
 
 
 # Utgåtte foreninger. RIP <3

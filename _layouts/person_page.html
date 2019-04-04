@@ -14,10 +14,15 @@ breadcrumb: yes
     {% if assoc_data.real != assoc_data.name %}
       <em>Også kjent som {{ assoc_data.name }}.</em>
     {% endif %}
-
+    
     <blockquote>
       {{ assoc_data.tagline | markdownify }}
     </blockquote>
+
+    {% if assoc_data.former_name %}
+      <em>Denne rollen er tidligere kjent som: {{ assoc_data.former_name }}</em>
+    {% endif %}
+
 
     {% if assoc_data.periods %}
       <h2>Innehavere av rolle</h2>
