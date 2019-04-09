@@ -1,22 +1,32 @@
 ---
 layout: page
 title: "Hva er Fordelingsutvalget?"
-subheadline: "About Your Project"
+subheadline: ""
 teaser: ""
 permalink: /info/
 ---
    
-Fordelingsutvalget ved institutt for informatikk studentenes egne stønadsordning. Utvalget ble opprettet for å håndtere det økonomiske overskuddet som blir opparbeidet gjennom bedriftskontakten navet, og karrieredagen dagen@ifi.     
+Fordelingsutvalget ved institutt for informatikk er studentenes egne
+stønadsordning. Utvalget ble opprettet for å håndtere det økonomiske
+overskuddet som blir opparbeidet gjennom bedriftskontakten navet, og
+karrieredagene til dagen@ifi.     
   
-Utvalget har som hovedmål gi dette overskuddet tilbake til studentene gjennom å støtte faglige og sosiale arrangementer og aktiviteter gjennom hele året. Noen eksempler på dette er:    
-- Årlig Hemsedal tur med over 100 deltagere
+Utvalget har som hovedmål å gi dette overskuddet tilbake til studentene gjennom
+støtte til faglige og sosiale arrangementer og aktiviteter.
+Noen eksempler på dette er:    
+- Årlig tur til Hemsedal med over 100 deltagere
 - Ifi-gallaen
 - Kveldsaktiviteter under fadderuken
 - Hyttetur med helstekt gris
-- Og mye mye mer
+- Og mye, mye mer
 
 ## Hvor kommer pengene fra?
-Alle midlene som blir blir det ut kommer fra overskuddet til navet og dagen@ifi. Flere av medlemsforeningene og søkerforeninger har vedtektsfestet at også de skal gi sitt overskudd til fordelingsutvalget, men hittil har ingen andre hatt økonomien til å gjennomføre dette. Fordelingsutvalget mottar ingen midler fra UiO, SiO eller andre lignende organisasjoner, og er derfor 100% finansiert av foreninger tilknyttet institutt for informatikk.    
+Alle midlene som blir delt ut kommer fra overskuddet til navet og dagen@ifi.
+Samtlige medlemsforeninger og søkerforeninger har også vedtektsfestet at de
+skal gi sitt overskudd til fordelingsutvalget, men hittil har ingen andre hatt
+økonomisk overskudd til å gjennomføre dette. Fordelingsutvalget mottar ingen midler fra
+UiO, SiO eller andre lignende organisasjoner, og er derfor 100% finansiert av
+foreninger tilknyttet institutt for informatikk.    
 
 ## Hvem sitter i utvalget?
 Det sitter i 11 foreninger med stemmerett i utvalget. Disse er:
@@ -32,7 +42,12 @@ Det sitter i 11 foreninger med stemmerett i utvalget. Disse er:
 - [ProgSys](http://foreninger.uio.no/prognett/)
 - [Ifi-Avis](http://ifiavis.no/)
   
-I tillegg har utvalget et styre, bestående av en koordinator og en sekretær. Styret utfører de administrative oppgavene til utvalget samt veileder medlemmene om tidligere praksis av utdeling av midler, og informere om gjeldende retningslinjer. Styret har ingen stemmerett.   
+I tillegg har utvalget et styre, bestående av en koordinator og en sekretær.
+Styret utfører de administrative oppgavene til utvalget, samt at de veileder
+medlemmene om tidligere praksis for utdeling av midler, og informerer om
+gjeldende retningslinjer. Styret har ikke stemmerett ved behandling av
+søknader.   
 
-## Hvem kan søke om stødnad? 
-Alle foreninger tilknyttet institutt for informatikk kan søke om midler. For mer info, se [her](https://fordelingsutvalget.org/apply/). 
+## Hvem kan søke om stønad? 
+Alle foreninger tilknyttet Institutt for informatikk kan søke om midler. For
+mer info, se [her](https://fordelingsutvalget.org/apply/). 

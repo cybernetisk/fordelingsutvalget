@@ -6,26 +6,31 @@ permalink: "/veiledning_for_dokumentasjon/"
 ---
 
 ## Rapport
-Det en ønsker med en god rapport et et skriv som kan supplementere regnskapet. Dette er slik at en i ettertid kan se hva som er god bruk av midler og ikke.
-Rapportene skal også fungere som erfaringsdeling der vi kan lære av hverander og unngå å gjøre like feil, samt gjenta sukses historier.
-En rapport skal minimun inneholde:
+Det man ønsker med en god rapport er et skriv som kan supplere regnskapet.
+Dette gjøres slik at man i ettertid kan se hva som er god bruk av midler og
+ikke. Rapportene skal også fungere som erfaringsdeling der vi kan lære av
+hverandre og unngå å gjenta feil, samt gjenta suksesshistorier. En rapport må
+minst inneholde:
 * Søknadsperiode og søknadsnummer. [(Kan finnes her.)](/status/)
 * Er det noe som gikk bra?
 * Er det noe som gikk dårlig?
-* Hva vil vi gjøre anderledes neste gang?
-* Er det noe utvalget burde vite? (for eksempel ved avvik fra søknad)
+* Hva vil vi gjøre annerledes neste gang?
+* Er det noe utvalget burde vite? (for eksempel avvik fra søknad)
 
 ## Regnskap
+
 ### Ordinært regnskap
-De fleste regnskapsprogram og maler har mulighet for å gi en god presentasjon av regnskapet, og det er akuratt de vi trenger.
-Minimum krav til innlevering av regnskapet er:
+De fleste regnskapsprogram og maler har mulighet til å gi en god presentasjon
+av regnskapet, og det er akkurat de vi trenger. Minimum krav til innlevering av
+regnskapet er:
 * Det må være oversiktlig
 * Regnskapet skal være fullstendig
-* Regnskapspostene skal være delt opp i fornuftige deler
-* Ekstraordinære og store enkeltutgifter skal ha en tilknyttet en kommentar / forklaring
+* Regnskapspostene skal være oppdelt på et oversiktlig vis
+* Ekstraordinære og store enkeltutgifter skal ha tilknyttet en kommentar eller
+  forklaring
 
 ### Utvidet regnskapskontroll
 I tillegg til punktene over skal det i en utvidet kontroll følge med:
 * Fullstendig regnskapsbok
-* Fullstendig bilagsbok
-* Kontoutskrifter fra alle ralevante kontoer
+* Fullstendig bilagsoversikt
+* Kontoutskrifter fra alle relevante kontoer
