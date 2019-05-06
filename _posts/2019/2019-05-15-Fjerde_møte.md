@@ -8,13 +8,11 @@ published: true
 referent: "TBA"
 
 attending:
-    - 
+  
 
 not_attending:
-    -
 
 other_attending:
-    -
 
 ---
 
