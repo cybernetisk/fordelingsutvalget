@@ -32,4 +32,5 @@ other_attending:
 Samme søknad som fra møte den [11-04-19](https://fordelingsutvalget.org/posts/2019/2019-04-11-Tredje_m%C3%B8te/)
 ### 4.6 - Mikro Escape Velocity {#soknad-6}
 Nesten søknad som fra møte den [11-04-19](https://fordelingsutvalget.org/posts/2019/2019-04-11-Tredje_m%C3%B8te/). Mirko fikk 7000kr i støtte fra kulturstyret, som kan trekkes fra søknaden. Endelige tall på hvor mye som ble brukt av budsjettposter kommer på møtet.
-
+### 4.7 - Defi
+## Eventuelt
