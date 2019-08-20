@@ -12,12 +12,20 @@ published: true
 ## Sirkulasjonsaken
 Som tidligere år ønsker Defi å arrangere hyttetur for nye masterstudenter. Dette må oppklares så raskt som mulig, så vi oppretter derfor en sirkulasjonsak. Se vedlegg. 
 
-### Tilbakemelding
-
-TBA
-
 #### For
-TBA
+- FUI
+- Navet
+- Defi
+- Mikro (etter revidert søknad)
+- CYB (etter revidert søknad)
+- Dagen@ifi (etter revidert søknad)
 
 #### Mot
-TBA
+- Digitus (før revidert søknad)
+- Output (før revidert søknad)
+
+#### Avholdene
+- LI:ST
+- Maps
+
+*Note det kan ha ha blitt endringer i foreningenes posisjon mellom orginal og revidert søknad. For å ikke utsette søknaden noe lenger en nødvendig, publiserer stytet status slik det var når søknaden fikk flertall.*
