@@ -23,22 +23,7 @@ Søknadsfrist for for neste møte i Fordelingsutvalget blir **30. september 23:5
 Selve møte blir ca to uker senere. Dato tid og sted kommer ved innkallelse. 
 
 Foreløpig agenda:
-<!---
-* TOC
-{:toc}
 
-
-## Sak 1 Godkjenning av innkalling {#innkalling}
-## Sak 2 Godkjenning av agenda {#agenda}
-## Sak 3 Godkjenning av referat {#referat}
-## Sak 4 Behandling av søknader {#soknader}
-### 4.1 -  {#soknad-1}
-### 4.2 -  {#soknad-2}
-### 4.3 -  {#soknad-3}
-### 4.4 -  {#soknad-4}
-### 4.5 -  {#soknad-5}
-### 4.6 -  {#soknad-6}
---->
 ## Mistillit forslag  {#eventuelt}
 
 *Styret jobber med å få kontakt med Maps, en uten hell. Forslaget blir trukket om en får kontakt.* 
