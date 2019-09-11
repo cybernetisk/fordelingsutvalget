@@ -23,7 +23,7 @@ other_attending:
 Søknadsfrist for for neste møte i Fordelingsutvalget blir **30. september 23:59**.
 Selve møte blir ca to uker senere. Dato tid og sted kommer ved innkallelse. 
 
-Foreløpig agenda:
+## Foreløpig agenda:
 
 ## Mistillit forslag  {#eventuelt}
 
