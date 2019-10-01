@@ -165,8 +165,11 @@ format: post
 			{% endif %}
 
 
-
+			{% if page.notReferat %}
+			
+			{% else %}
 			<h2>Referat:</h2>
+			{% endif %}
 			<span itemprop="articleSection">
 				{{ content }}
 			</span>
