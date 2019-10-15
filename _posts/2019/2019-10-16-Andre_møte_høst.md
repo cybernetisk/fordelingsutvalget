@@ -31,9 +31,8 @@ Det andremøte i fordelingsutvalget dette semesteret holder sted på Awk, klokke
 ## Sak 4 Behandling av søknader {#soknader}
 ### 4.1 Ifi-galla 2019  {#soknad-1}
 ### 4.2 Semesterstøtte Defi  {#soknad-2}
-### 4.3 Semesterstøtte Digitus  {#soknad-3}
-### 4.4 Semesterstøtte Mikro  {#soknad-4}
-### 4.5 Semesterstøtte List  {#soknad-5}
+### 4.3 Semesterstøtte Mikro  {#soknad-4}
+### 4.4 Semesterstøtte List  {#soknad-5}
 ### 4.5 Prosjektsøknad Ifi-ordenen  {#soknad-5}
 ## Mistillitforslag {#misstilit}
 Maps har ikke vært tilstede ved møte den *2019-09-11*, *2019-05-15* og *2019-04-11*.  
