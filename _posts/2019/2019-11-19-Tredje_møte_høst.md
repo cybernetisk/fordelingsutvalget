@@ -20,7 +20,7 @@ other_attending:
 
 ---
 
-Det tredje møte i fordelingsutvalget dette semesteret holder sted på Awk, i uke 47. (18-22 nov). Venter forsatt på noen avklaringer før datoen blir satt 100%. Tid og sted kommer på mail så snart dette er klart. 
+Det tredje møte i fordelingsutvalget dette semesteret holder sted på Awk, tirsdag 19/11 klokken 16:15.
 
 * TOC
 {:toc}
