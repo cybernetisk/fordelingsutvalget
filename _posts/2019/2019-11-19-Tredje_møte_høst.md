@@ -46,7 +46,7 @@ Dette er et brudd på §3b av utvalgets [vedtekter](https://fordelingsutvalget.o
 
 Styret har nå kommet i kontakt med tidligere leder av maps, og en har sammen kommet frem til at burde forsette prossessen med mistillit, da foreningen ikke er aktiv. 
 
-> Foreningen eksisterer for øyeblikket kun i navn, men er ikke aktiv. Den blir sannsynligvis snart mer aktiv eller blir nedlagt. Jeg tror ikke foreningen fortjener stemmerett i FU.
+> Foreningen eksisterer for øyeblikket kun i navn, men er ikke aktiv. Den blir sannsynligvis snart mer aktiv eller blir nedlagt. Jeg tror ikke foreningen fortjener stemmerett i FU. - Arne Tobias, tidligere leder av Maps
 
 Om foreningen blir aktiv igjen kan en vudere medlemskap i utvalget på lik linje som andre applikanter. 
 
