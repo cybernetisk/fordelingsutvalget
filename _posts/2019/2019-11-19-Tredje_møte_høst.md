@@ -20,7 +20,7 @@ other_attending:
 
 ---
 
-Det tredje møte i fordelingsutvalget dette semesteret holder sted på Awk, tirsdag 19/11 klokken 16:15.
+Det tredje møte i fordelingsutvalget dette semesteret holder sted på Awk, torsdag 21/11 klokken 16:15.
 
 * TOC
 {:toc}
