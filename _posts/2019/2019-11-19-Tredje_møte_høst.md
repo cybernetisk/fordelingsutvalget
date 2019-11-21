@@ -9,14 +9,21 @@ referent: "Andreas Nyborg Hansen"
 notReferat: true
 
 attending:
+    #- fui,
+    #- mikro,
+    #- defi,
+    #- cyb,
+    #- digitus,
+    #- navet,
+    #- dagen,
+    #- list,
+    #- progsys,
+    #- ifi-avis,
 
 
 not_attending:
 
-
 other_attending:
-
-
 
 ---
 
