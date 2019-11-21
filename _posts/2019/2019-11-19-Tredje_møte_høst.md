@@ -56,6 +56,8 @@ Mistillitforslaget ble femmet på møte [2019-11-16](https://fordelingsutvalget.
 
 **Et vedtak om mistillit krever enstemmig flertall. Derfor er det viktig at alle har behandlet saken internt før møte.** 
 
+## 6 Flere møter i 2019
+Kort og greit, er det ønskelig med enda et møte i 2019? Det blir da rundt 15. desember.
 
-## 6 Eventuelt {#eventuelt}
+## 7 Eventuelt {#eventuelt}
 
