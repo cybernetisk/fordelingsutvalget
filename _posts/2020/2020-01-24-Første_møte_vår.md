@@ -29,6 +29,10 @@ Det første møtet i fordelingsutvalget dette semesteret holder sted på Awk, fr
 
 ## Sak 4 Behandling av søknader {#soknader}
 
-### 4.1 Semesterstøtte V2020 - Digitus  {#soknad-1}
+### 4.1 Semesterstøtte V2020 - Digitus {#soknad-1}
+
+### 4.2 Semesterstøtte V2020 - Mikro {#soknad-2}
+
+### 4.3 Økonomikrølloppretting - LIST {#soknad-3}
 
 ## 5 Eventuelt {#eventuelt}
