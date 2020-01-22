@@ -35,4 +35,10 @@ Det første møtet i fordelingsutvalget dette semesteret holder sted på Awk, fr
 
 ### 4.3 Økonomikrølloppretting - LIST {#soknad-3}
 
+### 4.4 Frie midler - Defi {#soknad-4}
+
+### 4.5 Semesterstøtte - Defi {#soknad-5}
+
+### 4.6 Driftsstøtte espressomaskin - Cyb {#soknad-6}
+
 ## 5 Eventuelt {#eventuelt}
