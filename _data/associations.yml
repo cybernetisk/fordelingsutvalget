@@ -71,7 +71,7 @@ fui:
 
 studentavis:
   type: active
-  name:     "ouptut"
+  name:     "output"
   real:     "ifi-avis"
   url:      "http://ifiavis.no/"
   tagline:  "Output er studentavisen ved Institutt for Informatikk ved UiO. Vi lager informative og underholdende artikler og gir ut avisen to ganger i året."
