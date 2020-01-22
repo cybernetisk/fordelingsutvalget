@@ -15,7 +15,7 @@ attending:
   - dagen, Jonas
   - mikro, Eirik
   - progsys, Eivind
-  - ifi-avis, Thor
+  - studentavis, Thor
   - list, Tita
   
 

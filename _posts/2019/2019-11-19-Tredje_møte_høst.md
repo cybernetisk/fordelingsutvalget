@@ -5,7 +5,7 @@ subheadline: "Møte i Fordelingsutvalget"
 
 time: 16:15:00
 published: true
-referent: "Andreas Nyborg Hansen"
+referent: "Karl Hole Totland"
 notReferat: true
 
 attending:
@@ -21,7 +21,7 @@ attending:
 
 
 not_attending:
-    - ifi-avis
+    - studentavis
     - maps
 
 other_attending:

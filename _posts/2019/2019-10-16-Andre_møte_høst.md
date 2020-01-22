@@ -21,7 +21,7 @@ attending:
 
 
 not_attending:
-    - ifi-avis
+    - studentavis
     - maps
 
 other_attending:
