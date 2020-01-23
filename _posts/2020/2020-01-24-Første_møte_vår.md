@@ -41,4 +41,23 @@ Det første møtet i fordelingsutvalget dette semesteret holder sted på Awk, fr
 
 ### 4.6 Driftsstøtte espressomaskin - Cyb {#soknad-6}
 
-## 5 Eventuelt {#eventuelt}
+## 5 Mistillitsforslag MAPS {#mistillit}
+
+MAPS har ikke vært tilstede ved møtene holdt *2019-11-19*, *2019-10-16*, *2019-09-11*, *2019-05-15* eller *2019-04-11*.  
+Dette er et brudd på §3b av utvalgets [vedtekter](https://fordelingsutvalget.org/vedtekter/).
+
+ ~~Koordinator har forsøkt å komme i kontakt med maps, men dette har vært resultatløst. Foreningen har heller ikke hatt arrangementer på et års tid, så styret anser foreningen som inaktiv eller nedlangt.  
+
+*Update 11.11.19*
+
+Styret har nå kommet i kontakt med tidligere leder av MAPS, og en har sammen kommet frem til at burde forsette prosessen med mistillit, da foreningen ikke er aktiv. 
+
+> Foreningen eksisterer for øyeblikket kun i navn, men er ikke aktiv. Den blir sannsynligvis snart mer aktiv eller blir nedlagt. Jeg tror ikke foreningen fortjener stemmerett i FU. - Arne Tobias, tidligere leder av MAPS
+
+Om foreningen blir aktiv igjen kan det vurderes medlemskap i utvalget på lik linje som andre søkerforeninger. 
+
+--
+
+Mistillitsforslaget ble fremmet på [møtet som ble holdt 2019-10-16](https://fordelingsutvalget.org/posts/2019/2019-10-16-Andre_m%C3%B8te_h%C3%B8st/#misstilit) og ble forsøkt behandlet på [møtet 2019-11-19](https://fordelingsutvalget.org/posts/2019/2019-11-19-Tredje_m%C3%B8te_h%C3%B8st/) der det ble utsatt på grunn av manglende oppmøte. Nytt forsøk!
+
+## 6 Eventuelt {#eventuelt}
