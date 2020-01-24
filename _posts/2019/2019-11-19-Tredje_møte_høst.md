@@ -40,7 +40,6 @@ Godkjent.
 ## Sak 2 Godkjenning av agenda {#agenda}
 
 Godkjent.
-Godkjent.
 
 ## Sak 3 Godkjenning av referat {#referat}
 
@@ -57,8 +56,6 @@ FUI ønsker å påpeke at det har vært mye ettersøknader for tiden. Digitus sp
 Godkjent med redusert beløp på 2.734,--.
 
 ### 4.2 Defi  {#soknad-2}
-
-Det kommer kommentarer fra 
 
 FUI ønsker igjen å påpeke at det er mye ettersøknader.
 
