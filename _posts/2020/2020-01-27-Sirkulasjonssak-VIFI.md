@@ -1,6 +1,6 @@
 ---
 layout: meeting
-title: Sirkulasjonssak Espressomaskin CYB
+title: Sirkulasjonssak Semesterstøtte VIFI
 subheadline: "Sirkulasjonsak"
 published: true
 
