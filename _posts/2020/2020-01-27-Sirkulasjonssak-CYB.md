@@ -26,12 +26,14 @@ kreve 65.000,--
 #### Renovert maskin
 
 #### Ny maskin
+- LIST
 
 #### Avholdende
 
 ### Gi støtte
 
 #### For
+- LIST
 
 #### Mot
 
