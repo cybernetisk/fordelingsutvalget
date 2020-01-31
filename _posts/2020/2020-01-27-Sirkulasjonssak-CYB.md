@@ -28,6 +28,7 @@ kreve 65.000,--
 - Digitus
 - Navet
 - Defi
+- Cybernetisk Selskab
 
 #### Ny maskin
 - LIST
@@ -35,7 +36,6 @@ kreve 65.000,--
 - FUI
 
 #### Avholdende
-- Cyb
 - Mikro
 
 ### Gi støtte
