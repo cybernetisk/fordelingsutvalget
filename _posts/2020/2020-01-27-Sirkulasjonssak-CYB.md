@@ -24,16 +24,32 @@ Ny maskin vil kreve at man støtter med 90.000,--, mens en renovert maskin vil
 kreve 65.000,--
 
 #### Renovert maskin
+- ProgSys
+- Digitus
+- Navet
+- Defi
 
 #### Ny maskin
 - LIST
+- dagen@ifi
+- FUI
 
 #### Avholdende
+- Cyb
+- Mikro
 
 ### Gi støtte
 
 #### For
 - LIST
+- ProgSys
+- Mikro
+- FUI
+- Navet
+- dagen@ifi
+- Digitus
+- Defi
+- Cyb
 
 #### Mot
 
