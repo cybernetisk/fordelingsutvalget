@@ -23,7 +23,7 @@ Dette er nettsiden til Fordelingsutvalget ved Institutt for Informatikk
 
 ## Annerkjennelser
 
-- Andreas Nyborg Hansen for å overføre hovedandelen av møtene
+- [Andreas Nyborg Hansen](https://github.com/AndreasNH) for å overføre hovedandelen av møtenereferater fra gammel til ny nettside.
 - Cybernetisk Selskab [cyb.no](cyb.no) for å administrere domenet
 - Phlow [(Github)](https://github.com/Phlow/feeling-responsive)for temaet som ligger til grunne for resten av påfunnene våre
 - Allejo [(Github)](https://github.com/allejo/jekyll-toc) for Jekyll-toc

@@ -29,13 +29,12 @@ UiO, SiO eller andre lignende organisasjoner, og er derfor 100% finansiert av
 foreninger tilknyttet institutt for informatikk.    
 
 ## Hvem sitter i utvalget?
-Det sitter i 11 foreninger med stemmerett i utvalget. Disse er:
+Det sitter i 10 foreninger med stemmerett i utvalget. Disse er:
 - [Cybernetisk Selskab](http://cyb.no/)
 - [dagen@ifi](https://dagenatifi.no/)
 - [Defi](http://defi.no/)
 - [Digitus](https://www.sio.no/foreninger/finn-din-forening?i=1&s=8630)
 - [FUI](https://ififui.no/)
-- [MAPS](http://foreninger.uio.no/maps/)
 - [Mikro](https://www.facebook.com/pages/Studentforeningen-Mikro/151779014851965)
 - [navet](http://ifinavet.no/)
 - [LI:ST](http://pisk.ifi.uio.no/)

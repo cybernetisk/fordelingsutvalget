@@ -20,10 +20,6 @@
   url: "http://ifiavis.no/"
   title: "Studentavisen ved Institutt for informatikk"
 
-- name: "MAPS"
-  url: "http://foreninger.uio.no/maps/"
-  title: "Matematikk, algoritmer og programmering for studenter"
-
 - name: "Mikro"
   url: "https://www.facebook.com/pages/Studentforeningen-Mikro/151779014851965"
   title: "Linjeforeningen ved Informatikk: robotikk og intelligente systemer"
