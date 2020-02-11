@@ -33,10 +33,12 @@ Om noen foreinger har saker som de ønsker å ta opp i utvalget, som diskusjonsa
 ### 4.2 - VIFI - Semestersøknad {#soknad-2}
 ### 4.3 - Mikro - Prosjektstøtte {#soknad-3}
 ## Sak 5 Oppdateringer av vedtekter
+
 Noen endringer til vedtekter som vil bli presentert på Allmøtet. Ber om at utvalget kommer med sin instillig til endringene. 
 
 [Se utkast her](https://fordelingsutvalget.org/vedtekter-2020-utkast/)
-**Endringer:**
+
+Endringer:
 - Noen redasjonelle oppdateringer. (Skivefeil og tegnsettingsfeil)
 - Endret *økonomiansvarlig* til *sekretær*.
 - Oppdatert utvalgets medlemmer.

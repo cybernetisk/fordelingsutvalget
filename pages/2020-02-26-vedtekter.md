@@ -1,10 +1,9 @@
-
 ---
 layout: page
 title: "Vedtekter for Fordelingsutvalget ved Institutt for informatikk, UiO"
 subheadline: ""
 teaser: ""
-permalink: /vedtekter-2020-utklast/
+permalink: /vedtekter-2020/
 ---
 
 Sist endret: 26/2-2020
