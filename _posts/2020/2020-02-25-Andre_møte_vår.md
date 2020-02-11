@@ -1,6 +1,6 @@
 ---
 layout: meeting
-title: Møte template
+title: Andre møte vår 2020
 subheadline: "Møte i Fordelingsutvalget"
 
 time: 16:15:00
@@ -8,17 +8,16 @@ published: true
 referent: "Andreas Nyborg Hansen"
 
 attending:
-    - 
+    
 
 not_attending:
-    -
+
 
 other_attending:
-    -
 
 
 ---
-Det andre møtet i fordelingsutvalget dette semesteret holder sted på Awk, fredag 25/02 klokken 16:15. Vel møtt! 
+Det andre møtet i fordelingsutvalget dette semesteret holder sted på Awk, fredag 25/02 klokken 16:15. Vel møtt! Om noen foreinger har saker som de ønsker å ta opp i utvalge så er dette er godt møte da vi har en kort agenda.
 
 * TOC
 {:toc}
