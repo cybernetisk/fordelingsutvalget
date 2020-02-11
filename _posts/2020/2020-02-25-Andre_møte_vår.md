@@ -17,7 +17,7 @@ other_attending:
 
 
 ---
-Det andre møtet i fordelingsutvalget dette semesteret holder sted på Awk, fredag 25/02 klokken 16:15. Vel møtt!
+Det andre møtet i fordelingsutvalget dette semesteret holder sted på Awk, tirsdag 25/02 klokken 16:15. Vel møtt!
 
 Om noen foreinger har saker som de ønsker å ta opp i utvalget, som diskusjonsaker rundt rettninglinjer el. er dette er godt møte å ta dette på da vi har en kort agenda.
 
