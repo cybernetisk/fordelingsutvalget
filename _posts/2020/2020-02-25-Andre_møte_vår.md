@@ -4,7 +4,7 @@ title: Møte template
 subheadline: "Møte i Fordelingsutvalget"
 
 time: 16:15:00
-published: false
+published: true
 referent: "Andreas Nyborg Hansen"
 
 attending:
@@ -18,7 +18,7 @@ other_attending:
 
 
 ---
-Det andre møtet i fordelingsutvalget dette semesteret holder sted på Awk, fredag 25/02 klokken 16:15.
+Det andre møtet i fordelingsutvalget dette semesteret holder sted på Awk, fredag 25/02 klokken 16:15. Vel møtt! 
 
 * TOC
 {:toc}
