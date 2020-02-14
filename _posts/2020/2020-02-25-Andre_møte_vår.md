@@ -32,7 +32,8 @@ Om noen foreinger har saker som de ønsker å ta opp i utvalget, som diskusjonsa
 ### 4.1 - LIST - Semestersøknad {#soknad-1}
 ### 4.2 - VIFI - Semestersøknad {#soknad-2}
 ### 4.3 - Mikro - Prosjektstøtte {#soknad-3}
-## Sak 5 Oppdateringer av vedtekter
+### 4.4 - Medaljer - Prosjektstøtte {#soknad-4}
+## Sak 5 Oppdateringer av vedtekter {#sak-5}
 
 Noen endringer til vedtekter som vil bli presentert på Allmøtet. Ber om at utvalget kommer med sin instillig til endringene. 
 
