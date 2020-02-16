@@ -37,7 +37,7 @@ Om noen foreinger har saker som de ønsker å ta opp i utvalget, som diskusjonsa
 
 Noen endringer til vedtekter som vil bli presentert på Allmøtet. Ber om at utvalget kommer med sin instillig til endringene. 
 
-[Se utkast her](https://fordelingsutvalget.org/vedtekter-2020-utkast/)
+[Se utkast her](https://fordelingsutvalget.org/vedtekter-2020/)
 
 Endringer:
 - Noen redasjonelle oppdateringer. (Skivefeil og tegnsettingsfeil)
