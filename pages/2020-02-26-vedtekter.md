@@ -26,8 +26,8 @@ a) Utvalgets øverste myndighet består av representanter fra foreninger tilknyt
   - FUI (Fagutvalget ved Insititutt for informatikk)
   - Navet (IFI-Navet)
   - ~~MAPS (Matematikk, Programmering og Algoritmer for Studenter)~~
-  - Mikro (Studentforeningen for mikroelektronikk)
-  - ProgNett (IFI-ProgNett)
+  - Mikro ~~(Studentforeningen for mikroelektronikk)~~
+  - ~~ProgNett (IFI-ProgNett)~~ ProgSys
   - LI:ST (Programutvalget for Informatikk: Språk og Kommunikasjon)
   - Output (IFI-avis)
   - Defi (Designforeningen ved IFI)
