@@ -37,4 +37,4 @@ Vel møtt!
 ### 4.6 Semesterstøtte V2020 - Homebrew {#soknad-6}
 ### 4.7 Semesterstøtte V2020 - IFI-Podcast {#soknad-7}
 ### 4.8 Prosjektstøtte - Foreningsfesten {#soknad-8}
-## Eventuelt {"eventuelt}
+## Eventuelt {#eventuelt}
