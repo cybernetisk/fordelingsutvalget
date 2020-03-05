@@ -105,6 +105,11 @@ foreningsfesten:
   type: active
   name: "foreningsfesten"
 
+ifipodcast:
+  type: active
+  name: "IFI-Podcast"
+  real: "IFI-Podcast"
+  url: "https://www.facebook.com/IFIPodcast/"
 
 # Sport og idrett
 sjakk:
