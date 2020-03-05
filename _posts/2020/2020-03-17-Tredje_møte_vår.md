@@ -8,13 +8,13 @@ published: true
 referent: "Jeanette Kirkerud"
 
 attending:
-    - 
+    
 
 not_attending:
-    -
+    
 
 other_attending:
-    -
+    
 
 
 ---
