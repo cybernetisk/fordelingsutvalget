@@ -18,8 +18,9 @@ other_attending:
 
 
 ---
-Det tredje møtet i Fordelingsutvalget våren 2020 blir første etter årets Allmøte.  
-Utvalgets nye koordinator og sekretær ønsker velkommen til Awk, tirsdag 17. mars klokken 16:15.
+Det tredje møtet i Fordelingsutvalget våren 2020 blir første etter årets Allmøte, 
+og holdes under svært uvanlige omstendigheter.  
+Utvalgets nye koordinator og sekretær ønsker velkommen til Zoom-møte, 30. mars klokken 16:15.
 Vel møtt!
 
 * TOC
@@ -36,5 +37,4 @@ Vel møtt!
 ### 4.5 Semesterstøtte V2020 - Progsys {#soknad-5}
 ### 4.6 Semesterstøtte V2020 - Homebrew {#soknad-6}
 ### 4.7 Semesterstøtte V2020 - IFI-Podcast {#soknad-7}
-### 4.8 Prosjektstøtte - Foreningsfesten {#soknad-8}
 ## Eventuelt {#eventuelt}
