@@ -21,7 +21,8 @@ other_attending:
 Det tredje møtet i Fordelingsutvalget våren 2020 blir første etter årets Allmøte, 
 og holdes under svært uvanlige omstendigheter.  
 Utvalgets nye koordinator og sekretær ønsker velkommen til Zoom-møte, 30. mars klokken 16:15.
-Vel møtt!
+Vel møtt! 
+Link: https://us04web.zoom.us/j/517185355
 
 * TOC
 {:toc}
