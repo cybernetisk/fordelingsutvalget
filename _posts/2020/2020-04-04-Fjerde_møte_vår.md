@@ -4,7 +4,7 @@ title: Fjerde Møte Vår 2020
 subheadline: "Møte i Fordelingsutvalget"
 
 time: 16:15:00
-published: false
+published: true
 referent: "Jeanette Kirkerud"
 
 attending:
@@ -17,7 +17,7 @@ other_attending:
 
 ---
 Det fjerde møtet i Fordelingsutvalget våren 2020 blir igjen holdt over Zoom,
-den passende nok på 4. mai klokken 16:15. 
+passende nok den 4. mai klokken 16:15. 
 Merk at det er ny møtelink, da jeg ikke brukte UiO-bruker sist.
 Vel møtt!
 
