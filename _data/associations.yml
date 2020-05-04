@@ -175,7 +175,7 @@ navet:
 koordinator:
   type: role
   name: "Koordinator"
-  real: "Andreas Nyborg Hansen"
+  real: "Eirik Solheim Ølberg"
   url: ""
   tagline: "Møte- og søknadskoordinator i Fordelingsutvalget"
   periods:
@@ -187,12 +187,15 @@ koordinator:
       real: "Nikolas Papaioannou"
     - start: 2019V
       end: current
+      real: "Andreas Nyborg Hansen"
+    - start: 2020V
+      end: current
 
 okonomians:
   type: role
   name: "Sekretær"
   former_name: "Økonomiansvarlig"
-  real: "Karl Hole Totland"
+  real: "Jeanette Kirkerud"
   url: ""
   tagline: "Referent-, søknads- og rapporteringsansvarlig i Fordelingsutvalget."
   periods:
@@ -203,6 +206,9 @@ okonomians:
       end: 2019V
       real: "Andreas Nyborg Hansen"
     - start: 2019V
+      end: current
+      real: "Karl Hole Totland"
+    - start: 2020V
       end: current
 
 
