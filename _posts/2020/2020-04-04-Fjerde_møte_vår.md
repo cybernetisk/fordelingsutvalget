@@ -23,7 +23,7 @@ not_attending:
     - cyb
 
 other_attending:
-    - ifi-podcast, Carl-Magnus Lein
+    - ifipodcast, Carl-Magnus Lein
 
 ---
 Det fjerde møtet i Fordelingsutvalget våren 2020 blir igjen holdt over Zoom,
