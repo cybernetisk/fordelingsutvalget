@@ -126,6 +126,13 @@ fifi:
   url:      "http://diw07.uio.no/"
   tagline:  "En sosial og sportslig forening ved instituttet"
 
+ifriluft:
+  type:   active
+  name:   "iFriluft"
+  real:   "iFriluft"
+  url:    "https://www.facebook.com/ifriluft/"
+  tagline: "iFriluft er en forening som fremmer fysisk aktivitet og friluftsliv blant IFI-studenter"
+
 # Programmering
 
 spillutvikling:
