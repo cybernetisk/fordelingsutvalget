@@ -11,7 +11,7 @@ Dette gjøres slik at man i ettertid kan se hva som er god bruk av midler og
 ikke. Rapportene skal også fungere som erfaringsdeling der vi kan lære av
 hverandre og unngå å gjenta feil, samt gjenta suksesshistorier. En rapport må
 minst inneholde:
-* Søknadsperiode og søknadsnummer. [(Kan finnes her.)](/status/)
+* Søknadsperiode og søknadsnummer.
 * Er det noe som gikk bra?
 * Er det noe som gikk dårlig?
 * Hva vil vi gjøre annerledes neste gang?
