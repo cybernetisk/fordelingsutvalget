@@ -4,7 +4,7 @@ title: Fjerde Møte Vår 2020
 subheadline: "Møte i Fordelingsutvalget"
 
 time: 16:15:00
-published: true
+published: false
 referent: "Jeanette Kirkerud"
 
 attending:
