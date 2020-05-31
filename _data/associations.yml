@@ -101,7 +101,7 @@ ordenen:
   url:  "http://ordenen.ifi.uio.no/"
   tagline: "Ordenen tildeles som belønning for utmerkede fortjenester for studentmiljøet ved Ifi."
 
-foreningsfesten:
+foreningsfesten: 
   type: active
   name: "foreningsfesten"
 
