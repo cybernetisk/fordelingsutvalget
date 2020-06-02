@@ -4,7 +4,7 @@ title: Femte Møte Vår 2020
 subheadline: "Møte i Fordelingsutvalget"
 
 time: 16:15:00
-published: false
+published: true
 referent: "Jeanette Kirkerud"
 
 attending:
@@ -25,7 +25,7 @@ not_attending:
 other_attending:
 
 ---
-Det femte møtet og siste møtet i Fordelingsutvalget våren 2020 blir igjen holdt over Zoom,
+Det femte og siste møtet i Fordelingsutvalget våren 2020 blir igjen holdt over Zoom,
 mandag 15. juni, klokken 16:15.   
 Merk ny møtelink da jeg ikke får den forrige til å fungere som jeg vil!
 Vel møtt!
@@ -42,9 +42,9 @@ Password: 442401
 ## Sak 3 Godkjenning av referat {#referat}
 ## Sak 4 Behandling av søknader {#soknader}
 
-### 4.1 {#soknad-1}
+### 4.1 Driftsstøtte - iFriluft {#soknad-1}
 
-### 4.2 {#soknad-2}
+### 4.2 Prosjektstøtte - Mikro {#soknad-2}
 
 ## Endring av retningslinjer for eiendeler
 Utvalget står i en annen økonomisk situasjon en da retningslinjene ble tegnet, 
