@@ -55,5 +55,8 @@ og den er først og fremst ment som eksempel på hva en endring kan bli.
 Vi ønsker diskusjon rundt om endringen i det hele tatt er ønskelig,
 og hvordan den endelige rettningslinjen bør se ut.
 
+## Diskusjon rundt høstens pengebruk
+FUI har foreslått en diskusjon rundt pengebruk i FU denne høsten. Covid-19 har fått stor innvirkning på inntektene til Fordelingsutvalget i løpet av våren, og det vil sannsynligvis fortsette også til høsten. Likevel har FU godt med middler på bok, og det kan være at foreningene får en ekstra viktig rolle for studentmiljøet under det neste semesteret på grunn av alle begrensningene. Ønsket med diskusjonen er å komme frem til en felles idé rundt hvor mye foreningene tenker de bør endre pengebruken sin.  
+
 ## Eventuelt {#eventuelt}
 
