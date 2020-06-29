@@ -6,6 +6,8 @@ teaser: ""
 permalink: /retningslinjer/2018
 ---
 
+{% include alert alert='Dette er utdaterte rettningslinjer og ligger kun ute for for de som ønsker å se hvordan ting ble gjort før. Disse rettningslinjer ble oppdatert 15.06.20' %}
+
 Sist endret: 30/10-2018
 
 ## 1 Formål
