@@ -15,7 +15,7 @@ other_attending:
 
 ---
 
-Det første møtet i fordelingsutvalget dette høstemesteret holder sted over Zoom igjen, mandag 14/9 klokken 16:15.
+Det første møtet i fordelingsutvalget dette høstsemesteret holder sted over Zoom igjen, mandag 14/9 klokken 16:15.
 
 Dere finner zoom-link her:
 https://uio.zoom.us/j/8756245350?pwd=RXF0Z2x2eGhlQlViaXZ2dFpqS1RoQT09
@@ -45,7 +45,7 @@ Passcode: 442401
 
 ### 4.5 Ettersøknad - iFriluft {#soknad-5}
 
-## Sak 5 Vurdering av vedtekter om hyttetur {#sak-5}
+## Sak 5 Vurdering av rettningslinjene om hyttetur {#sak-5}
 I rettningslinjene står det om hytteturer:
 "Maksimalt 150 kroner per person per natt til hytteturer ol. Det burde gjøres unntak for turer med stort omfang og som dekker store deler av studentmassen. F.eks Skitur til Hemsedal"
 
