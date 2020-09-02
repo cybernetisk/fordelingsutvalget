@@ -15,7 +15,7 @@ other_attending:
 
 ---
 
-Det første møtet i fordelingsutvalget dette hødtsemesteret holder sted over Zoom igjen, mandag 14/9 klokken 16:15.
+Det første møtet i fordelingsutvalget dette høstemesteret holder sted over Zoom igjen, mandag 14/9 klokken 16:15.
 
 Dere finner zoom-link her:
 https://uio.zoom.us/j/8756245350?pwd=RXF0Z2x2eGhlQlViaXZ2dFpqS1RoQT09
