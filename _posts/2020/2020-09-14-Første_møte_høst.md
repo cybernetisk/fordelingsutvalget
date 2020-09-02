@@ -45,8 +45,23 @@ Passcode: 442401
 
 ### 4.5 Ettersøknad - iFriluft {#soknad-5}
 
-## 5 Informasjon om FIF v/Hanna {#informasjon}
+## Sak 5 Vurdering av vedtekter om hyttetur {#sak-5}
+I rettningslinjene står det om hytteturer:
+"Maksimalt 150 kroner per person per natt til hytteturer ol. Det burde gjøres unntak for turer med stort omfang og som dekker store deler av studentmassen. F.eks Skitur til Hemsedal"
 
-## 6 Påminnelse om utvidet regnskap {#informasjon}
+Navet mener at unntaket her er vagt definert, og anbefaler å vurdere en omformulering. 
+De peker på at IFI-skitur sine 100 deltakere vanskelig kan regnes som "store deler av studentmassen".
 
-## 7 Eventuelt {#eventuelt}
+Vi ber foreningene se på hva de ønsker at dette punktet skal innebefatte. 
+Hvor mange studenter ser de for seg at unntak bør gjøres for, og hva regnes egentlig som 
+store deler av studentmassen.
+
+Koordinator ønsker å påpeke at dette punktet trolig er vagt definert med vilje,
+slik at skjønn kan vises i enhver søknad. Retningslinjene er ikke ment som strenge regler,
+og unntak fra disse kan alltid gjøres dersom utvalget ønsker det.
+
+## Sak 6 Informasjon om FIF v/Hanna {#sak-6}
+
+## Sak 7 Påminnelse om utvidet regnskap {#sak-7}
+
+## Sak 8 Eventuelt {#eventuelt}
