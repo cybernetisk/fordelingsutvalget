@@ -15,7 +15,7 @@ other_attending:
 
 ---
 
-Det andre møtet i fordelingsutvalget dette høstsemesteret holder sted over Zoom igjen, mandag 25/10, klokken 16:15.
+Det andre møtet i fordelingsutvalget dette høstsemesteret holder sted over Zoom igjen, mandag 26/10, klokken 16:15.
 Litt forsinket denne gang, fordi jeg er dårlig på mail. Og fordi jeg garantert gjør samme feil igjen, 
 kan dere ta utgangspunkt i at søknadsfrist alltid er 1. i hver måned, dersom ikke annet er sagt :)
 
