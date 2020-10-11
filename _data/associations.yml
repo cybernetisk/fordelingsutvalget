@@ -133,6 +133,13 @@ ifriluft:
   url:    "https://www.facebook.com/ifriluft/"
   tagline: "iFriluft er en forening som fremmer fysisk aktivitet og friluftsliv blant IFI-studenter"
 
+vifi:
+  type: active
+  name: "VIFI"
+  real: "VIFI"
+  url: "https://www.facebook.com/VIFI-112592593608578"
+  tagline: "Medlemmene i VIFI spiller volleyball sammen halvannen time i uken på Athletica"
+
 # Programmering
 
 spillutvikling:

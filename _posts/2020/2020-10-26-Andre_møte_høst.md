@@ -4,7 +4,7 @@ title: Andre møte høst 2020
 subheadline: "Møte i Fordelingsutvalget"
 
 time: 16:15:00
-published: false
+published: true
 referent: "Jeanette Kirkerud"
 
 attending:
@@ -37,33 +37,41 @@ Passcode: 442401
 
 ## Sak 4 Behandling av søknader {#soknader}
 
-### 4.1 Semesterstøtte H2020 - LI:ST {#soknad-1}
+### 4.1 Prosjektstøtte - LI:ST {#soknad-1}
 
-### 4.2 Semesterstøtte H2020 - Progsys {#soknad-2}
+### 4.2 Prosjektstøtte - VIFI {#soknad-2}
 
-### 4.3 Semesterstøtte H2020 - Digitus {#soknad-3}
+### 4.3 Prosjektstøtte - Digitus {#soknad-3}
 
-### 4.4 Prosjektstøtte - iFriluft {#soknad-4}
-
-### 4.5 Ettersøknad - iFriluft {#soknad-5}
+### 4.4 Ettersøknad - Digitus {#soknad-4}
 
 ## Sak 5 Vurdering av rettningslinjene om hyttetur {#sak-5}
 I rettningslinjene står det om hytteturer:
 "Maksimalt 150 kroner per person per natt til hytteturer ol. Det burde gjøres unntak for turer med stort omfang og som dekker store deler av studentmassen. F.eks Skitur til Hemsedal"
 
-Navet mener at unntaket her er vagt definert, og anbefaler å vurdere en omformulering. 
-De peker på at IFI-skitur sine 100 deltakere vanskelig kan regnes som "store deler av studentmassen".
+Vi gikk igjennom dette punktet forrige gang, 
+og fikk dette forslaget til nytt punkt:
+"Maksimalt 150 kroner per person per natt til hytteturer ol. For etablerte foreninger kan det gjøres unntak for turer av stort omfang og som dekker store deler av studentmassen. Støtten må da ikke overstige 50 % av kostnadene til arrangementet."
 
-Vi ber foreningene se på hva de ønsker at dette punktet skal innebefatte. 
-Hvor mange studenter ser de for seg at unntak bør gjøres for, og hva regnes egentlig som 
-store deler av studentmassen.
+Dersom deres forening har andre forslag, 
+setter vi pris på om dere sender dem til fu-koordinator@ifi.uio.no i forkant av møtet! 
 
-Koordinator ønsker å påpeke at dette punktet trolig er vagt definert med vilje,
-slik at skjønn kan vises i enhver søknad. Retningslinjene er ikke ment som strenge regler,
-og unntak fra disse kan alltid gjøres dersom utvalget ønsker det.
+## Sak 6 Vurdering av rettningslinjen om pizza {#sak-6}
+I rettningslinjene står det om pizza:
+"Maksimalt ett arrangement med pizza/mat per forening per semester.
+(...)
+- Her gjøres det unntak for faglige arrangementer av en slik størrelse og varighet at det er naturlig å servere mat for å gjennomføre arrangementet. 90-kronersregelen gjelder fortsatt på slike arrangement."
 
-## Sak 6 Informasjon om FIF v/Hanna {#sak-6}
+Utvalget har lenge gitt støtte til opptil flere arrangementer hvert semester som ikke har faglig påvirkning, 
+spesielt til linjeforeninger. Koordinator ønsker å vite hva utvalget tenker om punktet, 
+om det eventuelt bør endres, og i så fall til hva. Et forslag kan være å for eksempel slette ordet "faglige"
+fra rettningslinjen. 
 
-## Sak 7 Påminnelse om utvidet regnskap {#sak-7}
+## Sak 7 Korrigering av rettningslinjen om semesterrapport {#sak-7}
+I rettningslinjene står det om rapportering:
+"I etterkant av endt prosjekt for prosjektstøtte eller periode for semester- og driftsstøtte plikter foreningen å sende inn regnskap og rapport for prosjekt/periode."
 
-## Sak 8 Eventuelt {#eventuelt}
+Da vi ikke praktiserer punktet slik det står nå, ønsker koordinator å endre dette: 
+"I etterkant av hvert semester plikter foreningene som mottar støtte fra utvalget å sende inn regnskap og rapport for perioden." 
+
+## Sak 9 Eventuelt {#eventuelt}
