@@ -74,4 +74,4 @@ I rettningslinjene står det om rapportering:
 Da vi ikke praktiserer punktet slik det står nå, ønsker koordinator å endre dette: 
 "I etterkant av hvert semester plikter foreningene som mottar støtte fra utvalget å sende inn regnskap og rapport for perioden." 
 
-## Sak 9 Eventuelt {#eventuelt}
+## Sak 8 Eventuelt {#eventuelt}
