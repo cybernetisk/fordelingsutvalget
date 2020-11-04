@@ -41,6 +41,8 @@ Passcode: 442401
 
 ### 4.2 Prosjektstøtte - Mikro {#soknad-2}
 
+### 4.3 Prosjektstøtte - Defi {#soknad-3}
+
 ## Sak 5 Neste møtedato {#sak-5}
 
 ## Sak 6 Eventuelt {#eventuelt}
