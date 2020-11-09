@@ -19,7 +19,7 @@ attending:
 - defi, Magnus Hjort
 
 not_attending:
-- IFI-avis,
+- studentavis,
 
 other_attending:
 - vifi, Amund Westby
