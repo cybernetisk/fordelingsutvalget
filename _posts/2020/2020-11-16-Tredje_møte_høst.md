@@ -15,7 +15,7 @@ other_attending:
 
 ---
 
-Det tredje møtet i fordelingsutvalget dette høstsemesteret holder sted over Zoom igjen, mandag 16/11, klokken 16:15.
+Det tredje møtet i fordelingsutvalget dette høstsemesteret holder sted over Zoom igjen, mandag 23/11, klokken 16:15.
 Tenk gjerne over når dere vil ha neste møtedato, så diskuterer vi om vi trenger enda et møte i desember, 
 eller om det blir juleferie fra november :) 
 
