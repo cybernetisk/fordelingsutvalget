@@ -51,9 +51,11 @@ Passcode: 442401
 
 ### 4.1 Prosjektstøtte - Mikro {#soknad-1}
 
-### 4.2 Prosjektstøtte - LI:ST {#soknad-2}
+### 4.2 Semesterstøtte - LI:ST {#soknad-2}
 
-### 4.3 Prosjektstøtte - Digitus {#soknad-3}
+### 4.3 Semesterstøtte - Digitus {#soknad-3}
+
+### 4.4 Semesterstøtte - Defi {#soknad-4}
 
 ## Sak 5 Foreningsøkonomien {#sak-5}
 Da koordinator og sekretær i høst gikk gjennom alle foreningenes regnskaper grundig, 
