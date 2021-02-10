@@ -84,6 +84,10 @@ tilbake til før 2017, som vi i FU-styret har fått se.
 Igjen, pengene det er snakk om er betydelig mindre 
 enn da vi planla å ta opp denne saken først. 
 
+**P.S.**
+Defi har gitt tilbake sine penger for å få regnskapet mest mulig ryddig, 
+og sitter derfor med 0 kr. (De har noen penger, men de er øremerket kjøleskap).
+
 ## Sak 6 Digitus sin avtale med Navet {#sak-6}
 Digitus har en egen avtale med Navet, som gir dem ekstra penger 
 fra en sponsor-bedrift, og som innebærer at de i sammarbeid med 
