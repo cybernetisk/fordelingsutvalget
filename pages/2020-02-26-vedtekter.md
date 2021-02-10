@@ -3,12 +3,10 @@ layout: page
 title: "Vedtekter for Fordelingsutvalget ved Institutt for informatikk, UiO"
 subheadline: ""
 teaser: ""
-permalink: /vedtekter-2020/
+permalink: /vedtekter/
 ---
 
 Sist endret: 26/2-2020
-
-# UTKAST!
 
 ## §1. Utvalgets navn
 
@@ -25,9 +23,8 @@ a) Utvalgets øverste myndighet består av representanter fra foreninger tilknyt
   - dagen@ifi (IFI-dagen)
   - FUI (Fagutvalget ved Insititutt for informatikk)
   - Navet (IFI-Navet)
-  - ~~MAPS (Matematikk, Programmering og Algoritmer for Studenter)~~
-  - Mikro ~~(Studentforeningen for mikroelektronikk)~~
-  - ~~ProgNett (IFI-ProgNett)~~ ProgSys
+  - Mikro (Linjeforeningen for Robotikk og Intelligente Systemer)
+  - ProgSys (Linjeforeningen for Programmering og Systemarkitektur)
   - LI:ST (Programutvalget for Informatikk: Språk og Kommunikasjon)
   - Output (IFI-avis)
   - Defi (Designforeningen ved IFI)
@@ -61,20 +58,20 @@ b) Allmøtet innkalles med minst 14 dagers varsel.
 
 c) På allmøtet behandles utvalgets beretning, regnskap for forrige periode, valg av styre, samt eventuelle andre saker som er satt opp på dagsorden.
 
-d) Alle studenter **som tar et eller flere IN/INF emner** ved Institutt for informatikk har stemmerett og kan stille til valg. Allmøtet fatter vedtak ved simpelt flertall.
+d) Alle studenter som tar et eller flere IN/INF emner ved Institutt for informatikk har stemmerett og kan stille til valg. Allmøtet fatter vedtak ved simpelt flertall.
 
 e) Allmøtet er beslutningsdyktig hvis minst 15 av studentene ved Institutt for informatikk er til stede.
 
 ## §6. Styret og valg
 a) Utvalget skal drives av minimum 2 medlemmer som velges for ett år på allmøtet.
 
-b) Verv i utvalget er som følger: koordinator og ~~økonomiansvarlig~~ **sekretær** og andre verv Fordelingsutvalget selv setter ned ved behov.
+b) Verv i utvalget er som følger: koordinator og sekretær og andre verv Fordelingsutvalget selv setter ned ved behov.
 
 ## §7. Styret og dets oppgaver
 
 a) Koordinator tar seg av all innkommende og utgående korrespondanse og sørger for at foreningene overholder pliktene sine. Koordinator er ansvarlig for å kalle inn til møter.
 
-b) ~~Økonomiansvarlig~~ **Sekretær** holder rede på alle saker som går gjennom Fordelingsutvalget og deres status. Ved møter skal ~~økonomiansvarlig~~ **sekretær** sørge for at det blir ført referat.
+b) Sekretær holder rede på alle saker som går gjennom Fordelingsutvalget og deres status. Ved møter skal sekretær sørge for at det blir ført referat.
 
 ## §8. Mistillit til styret
 
