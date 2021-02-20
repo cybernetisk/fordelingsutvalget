@@ -3,10 +3,10 @@ layout: page
 title: "Retningslinjer for søknader om støtte fra fordelingsutvaget"
 subheadline: ""
 teaser: ""
-permalink: /retningslinjer/06-2020
+permalink: /retningslinjer/
 ---
 
-Sist endret: 15/06-2020
+Sist endret: 26/10-2020
 
 ## 1 Formål
 Formålet til disse retningslinjer er å sikre at midlene til Fordelingsutvalget blir forvaltet og utdelt på rettferdig og forutsigbart vis. Retningslinjene vil forhindre at saker, med satt presidents tar unødvendig mye møtetid vekk fra andre saker. Retningslinjene skal også klargjøre om hva en kan søke Fordelingsutvalget om støtte til. Det er ikke ment at disse retningslinjene skal være satt i stein, og det oppfordres på det sterkeste at disse retningslinjer blir revidert jevnlig for reflektere aktiviteten og behovene til studentmiljøet og foreningene.
@@ -35,7 +35,7 @@ Formålet til disse retningslinjer er å sikre at midlene til Fordelingsutvalget
 1. Søknader om driftstøtte er, i likhet med søknader om semesterstøtte, søknader til arrangement og drift delt over et semester eller annen gitt periode. Søknaden skal ikke inkludere midler som går utenom foreningens vanlige drift. Driftstøtte er ikke bundet opp i spesifikke budsjettposter slik semesterstøtte er. Driftstøtte skal være basert på et formål eller tidligere drift som utgiftene kan forventes å brukes til. For alle foreninger der en vesentlig andel av inntektene kommer fra Fordelingsutvalget ønsker utvalget primært å motta søknader om semesterstøtte og ikke driftstøtte.
 
 ## 6 Rapportering
-1. I etterkant av endt prosjekt for prosjektstøtte eller periode for semester- og driftsstøtte plikter foreningen å sende inn regnskap og rapport for prosjekt/periode.
+1. I etterkant av hvert semester plikter foreningene som mottar støtte fra utvalget å sende inn regnskap og rapport for perioden.
 
 ## 7 Representasjon
 1. Det stilles krav om at søkerforeningen stiller med én representant på det møtet der søknaden skal behandles, dersom det ikke følges vil behandling av søknaden utsettes til et møte der en representant er til stede
@@ -54,10 +54,10 @@ Fordelingsutvalget kan kreve hele eller deler av tildelt beløp dersom:
 ## 10 Vanlige søknadspunkter
 ### Fastsatte satser
 1. Maksimalt 300 kr til å gjennomføre generalforsamling.
-2. Maksimalt 150 kroner per person per natt til hytteturer ol. Det burde gjøres unntak for turer med stort omfang og som dekker store deler av studentmassen. F.eks Skitur til Hemsedal
+2. Maksimalt 150 kroner per person per natt til arrangementer med overnatting, og lignende. For etablerte foreninger kan det gjøres unntak for turer av stort omfang og som dekker store deler av studentmassen. Støtten må da ikke overstige 50 % av kostnadene til arrangementet.
 3. Maksimalt ett arrangement med pizza/mat per forening per semester.
     1. Maksimalt 90 kroner per person for mat til et arrangement.
-    2. Her gjøres det unntak for faglige arrangementer av en slik størrelse og varighet at det er naturlig å servere mat for å gjennomføre arrangementet. 90-kronersregelen gjelder fortsatt på slike arrangement.
+    2. Her gjøres det unntak for arrangementer av en slik størrelse og varighet at det er naturlig å servere mat for å gjennomføre arrangementet. 90-kronersregelen gjelder fortsatt på slike arrangement.
 4. FU støtter maksimalt 50% av søknadsposter som angår alkoholholdig drikke.
 5. Styremiddag og sosiale goder til styret.
     1. For foreninger med høg aktivitet: maks 3500 kr per semester
