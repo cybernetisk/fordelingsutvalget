@@ -40,7 +40,7 @@ GEM
       jekyll-tagging (~> 1.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    kramdown (2.3.0)
+    kramdown (2.3.1)
       rexml
     liquid (4.0.3)
     listen (3.2.1)
@@ -70,7 +70,7 @@ DEPENDENCIES
   classifier-reborn
   jekyll (>= 3.9.0)
   jekyll-paginate
-  jekyll-tagging-related_posts (>= 1.0.0)
+  jekyll-tagging-related_posts (>= 1.1.0)
 
 BUNDLED WITH
    1.17.3
