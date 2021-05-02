@@ -4,7 +4,7 @@ title: Tredje møte vår 2021
 subheadline: "Møte i Fordelingsutvalget"
 
 time: 16:15:00
-published: false
+published: true
 referent: "Jeanette Kirkerud"
 
 attending:
