@@ -40,8 +40,10 @@ Passcode: 442401
 
 ## Sak 4 Behandling av søknader {#soknader}
 
-### 4.1 Prosjektstøtte (Ettersøknad) - Digitus {#soknad-2}
+### 4.1 Prosjektstøtte - Mikro {#soknad-1}
 
-### 4.1 Prosjektstøtte - Ordenen {#soknad-3}
+### 4.2 Prosjektstøtte (Ettersøknad) - Digitus {#soknad-2}
+
+### 4.3 Prosjektstøtte - Ordenen {#soknad-3}
 
 ## Sak 5 Eventuelt {#eventuelt}
