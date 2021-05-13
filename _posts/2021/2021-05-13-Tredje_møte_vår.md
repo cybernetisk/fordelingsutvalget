@@ -66,6 +66,7 @@ Søknad enstemmig godkjent.
 Det blir stilt spørsmål om bruk av bankkort og rutiner rundt dette. Digitus orienterer om bruk og planer for kortet. Dette er basert på tillit, og kortet vil bli kansellert når nåværende økonomiansvarlig går av.
 
 Det opplyses om at ører kan rundes opp til nærmeste hele krone på søknadsummen. 
+
 Revidert søknadssum: 625,-
 
 Søknad enstemmig godkjent.
@@ -74,6 +75,7 @@ Søknad enstemmig godkjent.
 ### 4.3 Prosjektstøtte - Ordenen {#soknad-3}
 
 Søknadssum rundes opp til nærmeste hele krone. 
+
 Revidert søknadssum: 8888,-
 
 Avstemming: 8 ja, 1 nei
