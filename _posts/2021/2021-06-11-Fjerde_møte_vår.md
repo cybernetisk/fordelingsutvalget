@@ -3,9 +3,10 @@ layout: meeting
 title: Fjerde møte vår 2021
 subheadline: "Møte i Fordelingsutvalget"
 
-time: 17:15:00
-published: false
+time: 16:15:00
+published: true
 referent: "Jeanette Kirkerud"
+notReferat: true
 
 attending:
 
@@ -19,7 +20,7 @@ other_attending:
 Hjertelig velkommen til fjerde FU møte i 2021! 
 
 Vi runder av dette semesteret med et kort 
-gjennsyn fredag 11. juni, klokken __**17:15**__ denne gangen. 
+gjennsyn fredag 11. juni, klokken 16:15 også denne gangen. 
 Én søknad står på agendaen, før vi snakker kort om når vi trenger neste møte. 
 På tampen setter også en frist for innlevering av semesterrapporter og økonomi.  
 
