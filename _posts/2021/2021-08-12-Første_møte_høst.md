@@ -1,6 +1,6 @@
 ---
 layout: meeting
-title: Fjerde møte vår 2021
+title: Første møte høst 2021
 subheadline: "Møte i Fordelingsutvalget"
 
 time: 17:15:00
@@ -44,9 +44,9 @@ Passcode: 442401
 
 ## Sak 4 Behandling av søknader {#soknader}
 
-### 4.1 Prosjektstøtte - LI:ST {#soknad-1}
+### 4.1 Semesterstøtte - LI:ST {#soknad-1}
 
-### 4.2 Prosjektstøtte - Defi {#soknad-2}
+### 4.2 Semesterstøtte - Defi {#soknad-2}
 
 ## Sak 5 Minner om frist for semesterrapport 1. oktober {#sak-5}
 
