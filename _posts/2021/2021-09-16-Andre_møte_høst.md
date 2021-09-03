@@ -19,12 +19,12 @@ other_attending:
 ---
 
 Velkommen til vårens andre møte, og en ordentlig overflod av deilige søknader. 
-Møtet blir igjen over zoom, torsdag 16. september. Grunnet en hardtarbeidene sekretær 
+Møtet blir igjen over zoom, torsdag 16. september. Grunnet en hardtarbeidende sekretær 
 starter møtet først 17:15, så merk dere tiden.
 
 Ikke siden 2019 har vi hatt så mange søknader på agendaen, så her gjelder det å forberede seg godt.
 Vi kan friste med linjeforeninger, idrett, Cava-fredag og mer, så grip tak i venner og kjente,
-og møte opp på FU-møtet i september!
+og møt opp på FU-møtet i september!
 
 Minner også om 1. oktober som frist for innlevering av semesterrapport og regnskap for V21,
 se denne linken for informasjon om hvordan: https://fordelingsutvalget.org/veiledning_for_dokumentasjon/
@@ -49,17 +49,19 @@ Passcode: 442401
 
 ### 4.1 Semesterstøtte - ProgSys {#soknad-1}
 
-### 4.2 Semesterstøtte - Mikro {#soknad-1}
+### 4.2 Semesterstøtte - Mikro {#soknad-2}
 
-### 4.3 Semesterstøtte - Digitus {#soknad-1}
+### 4.3 Semesterstøtte - Digitus {#soknad-2}
 
-### 4.4 Semesterstøtte - Defi {#soknad-1}
+### 4.4 Semesterstøtte - Defi {#soknad-4}
 
-### 4.5 Semesterstøtte - LI:ST {#soknad-1}
+### 4.5 Semesterstøtte - LI:ST {#soknad-5}
 
-### 4.6 Semesterstøtte - VIFI {#soknad-1}
+### 4.6 Semesterstøtte - VIFI {#soknad-6}
 
-### 4.7 Semesterstøtte - Navet {#soknad-2}
+### 4.7 Prosjektstøtte - Navet {#soknad-7}
+
+### 4.8 Semesterstøtte - FIFI {#soknad-8}
 
 ## Sak 5 Minner om frist for semesterrapport 1. oktober {#sak-5}
 
