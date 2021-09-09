@@ -24,7 +24,7 @@ not_attending:
 - studentavis
 
 other_attending:
-- Thanh thao Thi Tran
+- Thanh Thao Thi Tran
 - Gina Sofie Fasseland
 
 ---
