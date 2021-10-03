@@ -17,8 +17,8 @@ other_attending:
 
 ---
 
-Velkommen til vårens tredje møte, der vi eeeeendelig kan se hverende fysisk!
-Jeg har ikke booket rom, for sånt tenker jeg ikke på lenger, 
+Velkommen til vårens tredje møte, der vi eeeeendelig kan se hverandre fysisk!
+Jeg har ikke booket rom enda, for sånt tenker jeg ikke på lenger, 
 men vi sikter oss inn på Awk, 14. oktober, klokken 16:15 :D
 
 Skulle noen trenge å møte over Zoom så får vi til det også, 
