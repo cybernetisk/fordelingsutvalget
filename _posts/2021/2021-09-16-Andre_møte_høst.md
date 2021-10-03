@@ -6,7 +6,7 @@ subheadline: "Møte i Fordelingsutvalget"
 time: 17:15:00
 published: true
 referent: "Jeanette Kirkerud"
-notReferat: true
+notReferat: false
 
 attending:
 - fui, Vetle Utvik
