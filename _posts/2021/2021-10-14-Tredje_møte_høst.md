@@ -40,13 +40,15 @@ men da trenger jeg at dere sier ifra på mail til fu-koordinator@ifi.uio.no
 
 ### 4.2 Prosjektstøtte - Toastjærn {#soknad-2}
 
-### 4.3 Prosjektstøtte - CYB {#soknad-2}
+### 4.3 Prosjektstøtte - CYB {#soknad-3}
 
 ### 4.4 Prosjektstøtte - LI:ST {#soknad-4}
 
 ### 4.5 Prosjektstøtte - Defi {#soknad-5}
 
 ### 4.6 Semesterstøtte - Progsys {#soknad-6}
+
+### 4.7 Prosjektstøtte - FIFI {#soknad-7}
 
 ## Sak 5 Ifi-avis melder seg ut av utvalget {#sak-5}
 
