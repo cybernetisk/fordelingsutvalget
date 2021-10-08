@@ -24,6 +24,8 @@ men vi sikter oss inn på Awk, 14. oktober, klokken 16:15 :D
 Skulle noen trenge å møte over Zoom så får vi til det også, 
 men da trenger jeg at dere sier ifra på mail til fu-koordinator@ifi.uio.no
 
+P.S. CYB har lagt til en hastesak som er ganske stor. Den blir tatt opp på møtet,
+men dere må forberede dere litt hektisk her. Vi beklager ulempene. 
 
 * TOC
 {:toc}
@@ -40,13 +42,15 @@ men da trenger jeg at dere sier ifra på mail til fu-koordinator@ifi.uio.no
 
 ### 4.2 Prosjektstøtte - Toastjærn {#soknad-2}
 
-### 4.3 Prosjektstøtte - CYB {#soknad-2}
+### 4.3 Prosjektstøtte - CYB {#soknad-3}
 
 ### 4.4 Prosjektstøtte - LI:ST {#soknad-4}
 
 ### 4.5 Prosjektstøtte - Defi {#soknad-5}
 
 ### 4.6 Semesterstøtte - Progsys {#soknad-6}
+
+### 4.7 Prosjektstøtte - CYB {#soknad-7}
 
 ## Sak 5 Ifi-avis melder seg ut av utvalget {#sak-5}
 
