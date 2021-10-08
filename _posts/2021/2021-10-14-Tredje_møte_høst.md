@@ -50,7 +50,9 @@ men dere må forberede dere litt hektisk her. Vi beklager ulempene.
 
 ### 4.6 Semesterstøtte - Progsys {#soknad-6}
 
-### 4.7 Prosjektstøtte - CYB {#soknad-7}
+### 4.7 Prosjektstøtte - FIFI {#soknad-7}
+
+### 4.8 Prosjektstøtte - CYB {#soknad-8}
 
 ## Sak 5 Ifi-avis melder seg ut av utvalget {#sak-5}
 
