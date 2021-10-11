@@ -22,18 +22,37 @@ Uansett ønsker MAPS å ta det som sirkulasjonssak, da det ble litt lenge til ne
 Se vedlagt søknad!
 
 ### For
+- Navet
+- Dagen
+- FUI
+- LI:ST
+- Defi
+- Mikro
+- ProgSys
+- Digitus
 
 ### Mot
 
 ### Avholdende
+
+- CYB (Mulig jeg ikke finner mailen)
 
 ## Sirkulasjonsak - Defi {#soknad-2}
 Defi fikk mange tilbakemeldinger på forrige Hytte-søknad, og de tilbakemeldingene 
 har nå ført til en ny søknad, som vi tar på sirkulasjon. Se vedlagt søknad! 
 
 ### For
+- Navet
+- Dagen
+- FUI
+- LI:ST
+- Defi
+- Mikro
+- ProgSys
+- Digitus
 
 ### Mot
 
 ### Avholdende
 
+- CYB (Mulig jeg ikke finner mailen)
