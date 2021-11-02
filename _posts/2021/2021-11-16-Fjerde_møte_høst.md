@@ -17,7 +17,7 @@ other_attending:
 ---
 
 Velkommen til høstens fjerde møte, med seks (mer eller mindre) små og søte søknader på tallerkenen!
-Awk er booket, og møtet blir denne gangen 16. november, klokken 16:15.
+Awk er booket, og møtet blir denne gangen tirsdag 16. november, klokken 16:15.
 
 Skulle noen trenge å møte over Zoom så får vi til det også.
 Link: https://uio.zoom.us/j/8756245350?pwd=RXF0Z2x2eGhlQlViaXZ2dFpqS1RoQT09
@@ -49,4 +49,9 @@ Link: https://uio.zoom.us/j/8756245350?pwd=RXF0Z2x2eGhlQlViaXZ2dFpqS1RoQT09
 Har ikke fått inn noe formelt forslag enda, men det er mulig det kommer straks. 
 Ellers flytter vi det til neste møte :)
 
-## Sak 6 Eventuelt {#eventuelt}
+## Sak 6 Vurder gjerne om FU-koordinator eller sekretær er noe for deg! {#sak-6}
+Vi i styret koordinerer, mailer, skriver, regner og følger det som skulle dukke opp. 
+I februar-ish gir vi oss, og da er det gode muligheter for at nettopp DU kan ta over!
+Tenk på det, du! :)
+
+## Sak 7 Eventuelt {#eventuelt}
