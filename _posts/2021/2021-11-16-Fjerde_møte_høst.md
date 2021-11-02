@@ -16,7 +16,7 @@ other_attending:
 
 ---
 
-Velkommen til vårens fjerde møte, med seks (mer eller mindre) små og søte søknader på tallerkenen!
+Velkommen til høstens fjerde møte, med seks (mer eller mindre) små og søte søknader på tallerkenen!
 Awk er booket, og møtet blir denne gangen 16. november, klokken 16:15.
 
 Skulle noen trenge å møte over Zoom så får vi til det også.
