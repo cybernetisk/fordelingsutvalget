@@ -45,6 +45,8 @@ Link: https://uio.zoom.us/j/8756245350?pwd=RXF0Z2x2eGhlQlViaXZ2dFpqS1RoQT09
 
 ### 4.6 Prosjektstøtte - Digitus {#soknad-6}
 
+### 4.7 Prosjektstøtte - Defi {#soknad-7}
+
 ## Sak 5 Muligens en sak om endring av rettningslinjer rundt Styremiddager {#sak-5}
 Har ikke fått inn noe formelt forslag enda, men det er mulig det kommer straks. 
 Ellers flytter vi det til neste møte :)
