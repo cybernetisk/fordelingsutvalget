@@ -18,7 +18,16 @@ __Svarfrist må komme ganske raskt, og jeg setter den derfor til tirsdag 2. nove
 ## Sirkulasjonsak - MAPS {#soknad-1}
 
 ### For
+- Navet
+- Dagen
+- CYB
+- FUI
+- LI:ST
+- Mikro
+- Digitus
 
 ### Mot
 
 ### Avholdende
+- Defi
+- ProgSys
