@@ -25,9 +25,10 @@ __Svarfrist må komme ganske raskt, og jeg setter den derfor til tirsdag 2. nove
 - LI:ST
 - Mikro
 - Digitus
+- Defi
+- ProgSys
 
 ### Mot
 
 ### Avholdende
-- Defi
-- ProgSys
+
