@@ -51,13 +51,17 @@ status og hva de tenker videre.
 
 ### 5.7 Prosjektstøtte - Defi {#soknad-7}
 
-## Sak 6 Muligens en sak om endring av rettningslinjer rundt Styremiddager {#sak-5}
+## Sak 6 CYB presenterer søknad om IFI-skitur {#sak-6}
+Cyb ønsker å behandle denne søknaden på mail, men presenterer den her på møtet, 
+fordi sirkulasjon er et dårlig medium for diskusjon. 
+
+## Sak 7 Muligens en sak om endring av rettningslinjer rundt Styremiddager {#sak-7}
 Har ikke fått inn noe formelt forslag enda, men det er mulig det kommer straks. 
 Ellers flytter vi det til neste møte :)
 
-## Sak 7 Vurder gjerne om FU-koordinator eller sekretær er noe for deg! {#sak-6}
+## Sak 8 Vurder gjerne om FU-koordinator eller sekretær er noe for deg! {#sak-8}
 Vi i styret koordinerer, mailer, skriver, regner og følger det som skulle dukke opp. 
 I februar-ish gir vi oss, og da er det gode muligheter for at nettopp DU kan ta over!
 Tenk på det, du! :)
 
-## Sak 8 Eventuelt {#eventuelt}
+## Sak 9 Eventuelt {#eventuelt}
