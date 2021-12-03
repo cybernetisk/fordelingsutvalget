@@ -19,8 +19,18 @@ __Svarfrist må komme ganske raskt, og vi ble enige om å sette frist til tirsda
 ## Sirkulasjonsak - CYB, IFI-skitur {#soknad-1}
 
 ### For
+- CYB
+- LI:ST
+- Defi
+- FUI
+- Navet 
+- Dagen
+- Mikro
+- ProgSys
+- Digitus 
 
 ### Mot
 
 ### Avholdende
+
 
