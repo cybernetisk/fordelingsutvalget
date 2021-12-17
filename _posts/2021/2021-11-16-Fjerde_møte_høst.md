@@ -106,7 +106,6 @@ Revidert søknad enstemmig vedtatt.
 Det stilles spørsmål om hva som legges i definisjonen "Høy aktivitet". Dette er en vag definisjonen, noe som er satt med vilje. Det vil være vanskelig å definere aktivitet ut fra antall arrangementer, ettersom dette varierer kraftig fra forening til forening. Derfor brukes det skjønn når dette avgjøres.
 
 Avstemning: 8 ja, 1 avholden
-
 Søknad vedtatt.
 ### 5.6 Prosjektstøtte - Digitus {#soknad-6}
 Digitus har 450kr ekstra fra en tidligere søknad i år, og ber om at dette trekkes fra nåværende søknadssum.
@@ -125,11 +124,9 @@ Revidert søknad enstemmig vedtatt.
 ### 5.7 Prosjektstøtte - Defi {#soknad-7}
 Arman v/Defi opplyser om at programrådene har fått en del penger til faglige og sosiale opplegg. Linjeneforeningene kan bruke av denne potten for å gjennomføre arrangementer så sant dette er avklart med programrådet. Det viktige å være klar over er at UiO ikke utbetaler penger direkte til foreningen, men midlene må brukes til ting universitetet har innkjøpsavtaler til. Dette kan for eksempel være mat eller materialer for juleverksted (slik Defi og Mikro har gjort).
 
-Ettersom Mikro søkte om støtte til juleølsmaking blir denne summen trukket fra totalen.
+Ettersom Mikro søkte om støtte til juleølsmaking blir denne summen trukket fra totalen. Ny søknadssum er 5234kr.
 
-Revidert søknadssum: 5234kr
-
-Enstemmig vedtatt
+Revidert søknadssum: Enstemmig vedtatt
 
 ## Sak 6 CYB presenterer søknad om IFI-skitur {#sak-6}
 Cyb ønsker å behandle denne søknaden på mail, men presenterer den her på møtet,
@@ -147,7 +144,7 @@ Cyb ber om at frist for tilbakemelding er på kun én uke, ettersom det er en sj
 Har ikke fått inn noe formelt forslag enda, men det er mulig det kommer straks.
 Ellers flytter vi det til neste møte :)
 
-Defi spør om det kan komme noen retningslinjene som også omfatter de interne, ikke kun styret. (eks ble deres hyttetur på begynnelsen av semesteret nedstemt ettersom den ikke var åpen, og mtp tid ble vanskelige å arrangere noe for alle).
+Defi spør om det kan komme noen retningslinjer som også omfatter de interne, ikke kun styret. (eks ble deres hyttetur på begynnelsen av semesteret nedstemt ettersom den ikke var åpen, og mtp tid ble vanskelige å arrangere noe for alle).
 
 ## Sak 8 Vurder gjerne om FU-koordinator eller sekretær er noe for deg! {#sak-8}
 Vi i styret koordinerer, mailer, skriver, regner og følger det som skulle dukke opp.
@@ -155,12 +152,9 @@ I februar gir vi oss, og da er det gode muligheter for at nettopp DU kan ta over
 Tenk på det, du! :)
 
 ## Sak 9 Eventuelt {#eventuelt}
-Foreningsfesten: 
-
 Bli med og arranger Foreningsfesten! Interesserte ble bes ta kontakt med Jeanette (jeanetki@uio.no).
 
 Navet:
-
 På generalforsamlingen ble det presentert hvorfor Navet gikk over budsjettet på representasjon på FIF-gallaen. Videre ønsker Navet at koordinator sender hvor mye penger som har blitt utbetalt i FU.
 Navet påpeker også at det har vært en stor mengde ettersøknader i det siste, og det bør kanskje undersøkes om fri midler bør økes.
-![image](https://user-images.githubusercontent.com/42675686/146564156-a0e04852-c1c9-4629-9178-22ae77895257.png)
+![image](https://user-images.githubusercontent.com/42675686/146567302-07d0bc2c-c627-477e-8d91-e3f093955204.png)
