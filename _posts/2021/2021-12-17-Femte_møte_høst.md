@@ -87,4 +87,3 @@ Påminnelse om ledige stillinger i FU! Koordinator og sekretær går av i februa
 Frist for regnskap og semesterrapport er satt til 01. mars.
 
 Første møte i 2022 blir i midten januar.
-![image](https://user-images.githubusercontent.com/42675686/148550289-ed4786dc-b849-4e9a-b57b-863db0bb39db.png)
