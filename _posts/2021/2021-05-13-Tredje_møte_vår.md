@@ -17,12 +17,12 @@ attending:
 - list, Fredrik Aas Andreassen
 - cyb, Martin Heggem
 - studentavis, Patrick
-- ordenen, Henrik Lilleengen
 
 not_attending:
 - defi
 
 other_attending:
+- ordenen, Henrik Lilleengen
 - Eirik Berg
 - Gina Sofie Fasseland
 - Hilmar
