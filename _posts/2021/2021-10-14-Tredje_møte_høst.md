@@ -18,15 +18,15 @@ attending:
 - list, Fredrik Aas Andreassen
 - cyb, Gyda
 - defi, Arman Bulak Hagelia
-- maps, Sergei
-- fifi, Jonas Longva
-- toast, Thyra Liag Aakvåg
 
 
 not_attending:
 -
 
 other_attending:
+- maps, Sergei
+- fifi, Jonas Longva
+- toast, Thyra Liag Aakvåg
 - Sarek Skotåm
 - Andreas Limi
 - Martin Heggem
