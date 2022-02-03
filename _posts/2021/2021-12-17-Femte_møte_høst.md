@@ -17,14 +17,12 @@ attending:
 - list, Fredrik Aas Andreassen
 - cyb, Hilmar Elverhøy
 - defi, Arman Bulak Hagelia
-- maps, Dan Rachou
-
 
 not_attending:
 - progsys
 
 other_attending:
-- Ina Bergli Henriksen
+- maps, Dan Rachou
 
 ---
 

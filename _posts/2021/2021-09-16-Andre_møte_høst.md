@@ -18,14 +18,14 @@ attending:
 - list, Fredrik Aas Andreassen
 - cyb, Hilmar Elverhøy
 - defi, Arman Bulak Hagelia
-- vifi, Amund Westby
-- maps, Sarek Skotåm
-- fifi, Jonas Longva
 
 not_attending:
 - ifi-avis
 
 other_attending:
+- vifi, Amund Westby
+- maps, Sarek Skotåm
+- fifi, Jonas Longva
 - Thyra Liag Aakvåg
 ---
 

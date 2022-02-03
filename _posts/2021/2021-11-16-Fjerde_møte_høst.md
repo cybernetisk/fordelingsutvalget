@@ -18,15 +18,14 @@ attending:
 - list, Lilja
 - cyb, Gyda Elisa Sæter
 - defi, Tone Eide Hilmen
-- maps, Sergei
-- fifi, Jonas Longva
-- toast, Thyra Liag Aakvåg
-
 
 not_attending:
 -
 
 other_attending:
+- maps, Sergei
+- fifi, Jonas Longva
+- toast, Thyra Liag Aakvåg
 - Bjørn Henrik Harr
 - Lise Wåsjø
 - Sarek Skotåm
