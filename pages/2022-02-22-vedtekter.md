@@ -3,10 +3,10 @@ layout: page
 title: "Vedtekter for Fordelingsutvalget ved Institutt for informatikk, UiO"
 subheadline: ""
 teaser: ""
-permalink: /vedtekter-2020/
+permalink: /vedtekter/
 ---
 
-Sist endret: 26/2-2020
+Sist endret: 22/2-2022
 
 ## §1. Utvalgets navn
 
@@ -26,9 +26,9 @@ a) Utvalgets øverste myndighet består av representanter fra foreninger tilknyt
   - Mikro (Linjeforeningen for Robotikk og Intelligente Systemer)
   - ProgSys (Linjeforeningen for Programmering og Systemarkitektur)
   - LI:ST (Programutvalget for Informatikk: Språk og Kommunikasjon)
-  - Output (IFI-avis)
   - Defi (Designforeningen ved IFI)
   - Digitus (Linjeforening for Digital økonomi og ledelse)
+  - MAPS (Matematikk, algoritmer og programmering for studenter)
 
 b) Hver forening plikter å stille med minst én representant på hvert møte.
 

@@ -3,13 +3,13 @@ layout: page
 title: "Retningslinjer for søknader om støtte fra fordelingsutvaget"
 subheadline: ""
 teaser: ""
-permalink: /retningslinjer/2020-10/
+permalink: /retningslinjer/
 ---
 
-Sist endret: 26/10-2020
+Sist endret: 22/2-2022
 
 ## 1 Formål
-Formålet til disse retningslinjer er å sikre at midlene til Fordelingsutvalget blir forvaltet og utdelt på rettferdig og forutsigbart vis. Retningslinjene vil forhindre at saker, med satt presidents tar unødvendig mye møtetid vekk fra andre saker. Retningslinjene skal også klargjøre om hva en kan søke Fordelingsutvalget om støtte til. Det er ikke ment at disse retningslinjene skal være satt i stein, og det oppfordres på det sterkeste at disse retningslinjer blir revidert jevnlig for reflektere aktiviteten og behovene til studentmiljøet og foreningene.
+Formålet til disse retningslinjer er å sikre at midlene til Fordelingsutvalget blir forvaltet og utdelt på rettferdig og forutsigbart vis. Retningslinjene vil forhindre at saker, med satt presidents tar unødvendig mye møtetid vekk fra andre saker. Retningslinjene skal også klargjøre om hva en kan søke Fordelingsutvalget om støtte til. Det er ikke ment at disse retningslinjene skal være satt i stein, og det oppfordres på det sterkeste at disse retningslinjer blir revidert jevnlig for reflektere aktiviteten og behovene til studentmiljøet og foreningene. Retningslinjene er ikke en lov, og det er mulig å både søke og vedta saker som går i strid med punktene under, dersom det er spesielle hensyn.
 
 ## 2 Formelle krav til søknader
 1. Fordelingsutvalget opererer med tre typer søknader: semesterstøtte, prosjektstøtte, og driftstøtte.
@@ -51,7 +51,10 @@ Fordelingsutvalget kan kreve hele eller deler av tildelt beløp dersom:
 3. Søker nekter Fordelingsutvalget å gjennomføre regnskapskontroll
 4. Foreningen ikke oversender dokumentasjon som fordelingsutvalget har krav på (ref pkt 6 Rapportering)
 
-## 10 Vanlige søknadspunkter
+## 10 Regnskapskurs
+1. Utvalget kan til en hver tid kreve at minst ett styremedlem skal ha gjennomført et relevant regnskapskurs i regi av SiO Foreninger.
+
+## 11 Vanlige søknadspunkter
 ### Fastsatte satser
 1. Maksimalt 300 kr til å gjennomføre generalforsamling.
 2. Maksimalt 150 kroner per person per natt til arrangementer med overnatting, og lignende. For etablerte foreninger kan det gjøres unntak for turer av stort omfang og som dekker store deler av studentmassen. Støtten må da ikke overstige 50 % av kostnadene til arrangementet.
@@ -59,11 +62,11 @@ Fordelingsutvalget kan kreve hele eller deler av tildelt beløp dersom:
     1. Maksimalt 90 kroner per person for mat til et arrangement.
     2. Her gjøres det unntak for arrangementer av en slik størrelse og varighet at det er naturlig å servere mat for å gjennomføre arrangementet. 90-kronersregelen gjelder fortsatt på slike arrangement.
 4. FU støtter maksimalt 50% av søknadsposter som angår alkoholholdig drikke.
-5. Styremiddag og sosiale goder til styret.
-    1. For foreninger med høg aktivitet: maks 3500 kr per semester
-    2. For foreninger med middels aktivitet: maks 2500 kr per semester
-    3. For foreninger med lav aktivitet støttes ikke styremiddager eller sosiale goder til styret.
+5. Styremiddag og andre styreaktiviteter støttes med 450 kr per person per semester. For foreninger med lav aktivitet støttes ikke styremiddager eller sosiale goder til styret.
+6. Arrangementer for interne i foreningen støttes med opp til 150 kr per person per semester. For foreninger med mange interne bør hvert arrangement behandles spesielt.
 
-### Annet
-6. Ved søknad om eiendeler stilles særskilt krav om begrunnelse, slik at utvalget kan stole på at gjenstandene vil komme studentmassen til gode. Det bør foreligge en plan for oppbevaring og vedlikehold, og foreningen bør kunne vise til stabil drift over tid. Ved oppstart av nye foreninger kan spesielt hensyn vises for eiendeler som er veldig naturlig for foreningens drift.
-7. Utvalget kan til en hver tid kreve at minst ett styremedlem skal ha gjennomført et relevant regnskapskurs i regi av SiO Foreninger.
+### Eiendeler
+7. Ved søknad om eiendeler stilles særskilt krav om begrunnelse, slik at utvalget kan stole på at gjenstandene vil komme studentmassen til gode. Det bør foreligge en plan for oppbevaring og vedlikehold, og foreningen bør kunne vise til stabil drift over tid. Ved oppstart av nye foreninger kan spesielt hensyn vises for eiendeler som er veldig naturlig for foreningens drift.
+
+### Frie midler
+Programlinjeforeningene og aktive foreninger ved IFI skal få fylt opp til 1500 kr per semester til fri bruk, med noen begrensninger bestemt i dokumentet “Vedtak om frie midler” [Link](https://fordelingsutvalget.org/midler/).

@@ -3,7 +3,7 @@ layout: page
 title: "Retningslinjer for søking om frie midler"
 subheadline: "Vedtatt 2017-05-19"
 teaser: ""
-permalink: /midler/
+permalink: /midler/2017
 ---
 
 Det er ønskelig å gi linjeforeningene en viss fri sum hvert semester for å gi dem mer frihet for mer spontane eventer for studentene ved IFI. Det Fordelingsutvalget har åpnet for å prøve er å gi linjeforeningene en mindre sum med penger som de kan bruke fritt så lenge det ikke bryter med punktene listet under.
