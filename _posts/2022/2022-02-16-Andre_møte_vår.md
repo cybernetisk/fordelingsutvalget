@@ -127,7 +127,7 @@ Definisjonen "Aktiv/lav/middels" er en noe vanskelig å forholde seg til. Koordi
 
 Defi ønsker å avklare mer rundt antall. Ett eksempel er den nye foreningen ReadLine som tillater uendelig med styremedlemmer. Ettersom dette vil være en retningslinje, og ikke et vedtak vil man bruke skjønn i utvalget når man godkjenner eventuelle søknader.
 
-**Avstemning: Forslag 2 enstemmig vedtatt.**
+Avstemning: **Forslag 2 enstemmig vedtatt.**
 
 **Post 2 – Intern-arrangementer:**
 
