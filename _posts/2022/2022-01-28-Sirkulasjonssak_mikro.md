@@ -20,19 +20,19 @@ __Svarfrist må altså komme ganske raskt, allerede innen torsdag 3. februar.__
 ## Sirkulasjonsak - Mikro {#soknad-1}
 
 ### For
-- mikro
-- fui
-- list
-- cyb
-- defi 
-- digitus
-- navet 
+- Mikro
+- FUI
+- LI:ST
+- CYB
+- Defi 
+- Digitus
+- Navet 
 
 ### Mot
 
 ### Avholdende
-- dagen
-- progsys
+- Dagen
+- ProgSys
 
 
 
