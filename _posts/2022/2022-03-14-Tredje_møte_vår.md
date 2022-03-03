@@ -6,6 +6,7 @@ subheadline: "Møte i Fordelingsutvalget"
 time: 16:15:00
 published: true
 referent: "Danial Anwar"
+notReferat: true
 
 attending:
   -
@@ -46,6 +47,4 @@ other_attending:
 
 ### 4.9 - Digitus {#soknad-9}
 
-## Sak 6 Forslag til endringer av vedtekter {#sak-6}
-
-## Sak 6 Eventuelt {#eventuelt}
+## Sak 5 Eventuelt {#eventuelt}
