@@ -37,7 +37,7 @@ other_attending:
 
 ### 4.4 - Defi {#soknad-4}
 
-### 4.5 - Mikro {#soknad-5}
+### 4.5 - Navet {#soknad-5}
 
 ### 4.6 - Cyb {#soknad-6}
 
