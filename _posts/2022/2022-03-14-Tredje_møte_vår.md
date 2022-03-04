@@ -39,12 +39,12 @@ other_attending:
 
 ### 4.5 - Mikro {#soknad-5}
 
-### 4.6 - LI:ST{#soknad-6}
+### 4.6 - Cyb {#soknad-6}
 
-### 4.7 - Cyb {#soknad-7}
+### 4.7 - LI:ST {#soknad-7}
 
-### 4.8 - Digitus {#soknad-8}
+### 4.8 - Digitus linjeforeningsfest {#soknad-8}
 
-### 4.9 - Digitus {#soknad-9}
+### 4.9 - Digitus prosjektstøtte {#soknad-9}
 
 ## Sak 5 Eventuelt {#eventuelt}
