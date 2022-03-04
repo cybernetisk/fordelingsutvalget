@@ -47,4 +47,6 @@ other_attending:
 
 ### 4.9 - Digitus prosjektstøtte {#soknad-9}
 
+### 4.10 - Mikro {#soknad-10}
+
 ## Sak 5 Eventuelt {#eventuelt}
