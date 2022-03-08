@@ -51,4 +51,6 @@ other_attending:
 
 ### 4.11 - MAPS {#soknad-11}
 
+### 4.12 - Cyb - FIF {#soknad-12}
+
 ## Sak 5 Eventuelt {#eventuelt}
