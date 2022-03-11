@@ -39,7 +39,7 @@ Det sitter i 10 foreninger med stemmerett i utvalget. Disse er:
 - [navet](http://ifinavet.no/)
 - [LI:ST](http://pisk.ifi.uio.no/)
 - [ProgSys](http://foreninger.uio.no/prognett/)
-- [Ifi-Avis](http://ifiavis.no/)
+- [MAPS](https://foreninger.uio.no/maps/)
   
 I tillegg har utvalget et styre, bestående av en koordinator og en sekretær.
 Styret utfører de administrative oppgavene til utvalget, samt at de veileder
