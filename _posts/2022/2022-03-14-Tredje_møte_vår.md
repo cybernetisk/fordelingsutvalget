@@ -9,21 +9,21 @@ referent: "Danial Anwar"
 notReferat: true
 
 attending:
-  - Digitus: Stefan Spanic
-  - Cybernetisk Selskap: Hilmar Elverhøy
-  - Mikro: Oscar Hæstad Bjørnstad
-  - Navet: Magnus Hjorth
-  - Defi: Ina Henriksen
-  - Progsys: Amalie I. Aaser
-  - FUI: Olav Moseng
-  - dagen@ifi: Jonas Pettersen
+  - digitus, Stefan Spanic
+  - cyb, Hilmar Elverhøy
+  - mikro, Oscar Hæstad Bjørnstad
+  - navet, Magnus Hjorth
+  - defi, Ina Henriksen
+  - progsys, Amalie I. Aaser
+  - fui, Olav Moseng
+  - dagen, Jonas Pettersen
 
 not_attending:
-  - LI:ST
+  - list,
 
 other_attending:
-  - FIFI: Elias Skotte
-  - Toastjærn
+  - fifi, Elias Skotte
+  - toast,
 ---
 
 ## Sak 1 Godkjenning av innkalling {#innkalling}
