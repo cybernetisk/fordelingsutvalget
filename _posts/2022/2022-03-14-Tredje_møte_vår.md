@@ -54,3 +54,7 @@ other_attending:
 ### 4.12 - Cyb - FIF {#soknad-12}
 
 ## Sak 5 Eventuelt {#eventuelt}
+
+### 5.1 Cyb - Sponset beer-pong-bord {#eventuelt-01}
+
+### 5.2 Foreningsfesten - Opplysning om sirkulasjonssak {#eventuelt-02}
