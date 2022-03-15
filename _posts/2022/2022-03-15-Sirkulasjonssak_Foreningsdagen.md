@@ -13,9 +13,6 @@ kjent og har det gøy. Håper alle kan behandle søknaden så fort som mulig!
 
 **Svarfrist er allerede torsdag 17. februar kl 14.**
 
-- TOC
-  {:toc}
-
 ## Sirkulasjonsak - Foreningsfesten {#soknad-1}
 
 ### For
