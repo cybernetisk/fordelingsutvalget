@@ -17,13 +17,14 @@ attending:
   - progsys, Amalie I. Aaser
   - fui, Olav Moseng
   - dagen, Jonas Pettersen
+  - maps, Dan Rachou
 
 not_attending:
-  - list,
+  - list
 
 other_attending:
   - fifi, Elias Skotte
-  - toast,
+  - toast
 ---
 
 ## Sak 1 Godkjenning av innkalling {#innkalling}
