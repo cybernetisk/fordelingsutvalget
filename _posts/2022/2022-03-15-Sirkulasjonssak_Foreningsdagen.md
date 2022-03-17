@@ -26,9 +26,8 @@ kjent og har det gøy. Håper alle kan behandle søknaden så fort som mulig!
 - Defi
 - LI:ST
 - navet
+- FUI
 
 ### Mot
 
 ### Avholdende
-
-- FUI (ikke mottat svar enda)
