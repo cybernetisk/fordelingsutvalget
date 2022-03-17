@@ -17,6 +17,18 @@ kjent og har det gøy. Håper alle kan behandle søknaden så fort som mulig!
 
 ### For
 
+- MAPS
+- Digitus
+- ProgSys
+- dagen@ifi
+- Mikro
+- Cyb
+- Defi
+- LI:ST
+- navet
+
 ### Mot
 
 ### Avholdende
+
+- FUI (ikke mottat svar enda)
