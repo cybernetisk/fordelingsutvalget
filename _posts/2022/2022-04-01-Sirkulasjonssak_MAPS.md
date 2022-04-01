@@ -1,6 +1,6 @@
 ---
 layout: meeting
-title: Sirkulasjonssak Foreningsfesten April 2022
+title: Sirkulasjonssak Maps April 2022
 subheadline: "Sirkulasjonsak "
 published: true
 ---
