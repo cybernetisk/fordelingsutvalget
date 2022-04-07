@@ -20,7 +20,7 @@ Les søknadene som dere alltid gjør og ta en avgjørelse på om dere mener om s
 
 Vi snakker om hvordan dette fungerte på slutten av FU-møte og finner ut av om dette er noe vi ønsker å fortsette med.
 
-https://forms.gle/zbWaWRxqRyKWX7fq9
+[Forhåndsgodkjenningsskjema](https://forms.gle/zbWaWRxqRyKWX7fq9)
 
 ## Sak 1 Godkjenning av innkalling {#innkalling}
 
@@ -38,7 +38,7 @@ https://forms.gle/zbWaWRxqRyKWX7fq9
 
 ### 4.4 - MAPS {#soknad-4}
 
-### 4.5 - Defi {#soknad-5}
+### 4.5 - Defi (søknad oppdatert 07.04) {#soknad-5}
 
 ### 4.6 - Progsys {#soknad-6}
 
