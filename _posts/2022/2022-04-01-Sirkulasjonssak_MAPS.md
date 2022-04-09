@@ -9,8 +9,22 @@ Det har kommet inn en sirkulasjonssak fra MAPS angående deres Spring Challenge.
 
 ## Sirkulasjonsak - Foreningsfesten {#soknad-1}
 
+**Godkjennes**
+
 ### For
+
+- MAPS
+- ProgSys
+- dagen@ifi
+- Mikro
+- Cyb
+- Defi
+- LI:ST
+- FUI
 
 ### Mot
 
 ### Avholdende
+
+- Digitus (ikke fått svar)
+- Navet (ikke fått svar)
