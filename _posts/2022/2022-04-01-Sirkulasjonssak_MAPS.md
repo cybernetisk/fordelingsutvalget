@@ -21,10 +21,10 @@ Det har kommet inn en sirkulasjonssak fra MAPS angående deres Spring Challenge.
 - Defi
 - LI:ST
 - FUI
+- Digitus
 
 ### Mot
 
 ### Avholdende
 
-- Digitus (ikke fått svar)
 - Navet (ikke fått svar)
