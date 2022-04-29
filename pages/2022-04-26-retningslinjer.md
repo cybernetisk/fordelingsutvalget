@@ -6,7 +6,7 @@ teaser: ""
 permalink: /retningslinjer/
 ---
 
-Sist endret: 22/2-2022
+Sist endret: 26/4-2022
 
 ## 1 Formål
 
@@ -70,7 +70,10 @@ Fordelingsutvalget kan kreve hele eller deler av tildelt beløp dersom:
 ### Fastsatte satser
 
 1. Maksimalt 300 kr til å gjennomføre generalforsamling.
-2. Maksimalt 150 kroner per person per natt til arrangementer med overnatting, og lignende. For etablerte foreninger kan det gjøres unntak for turer av stort omfang og som dekker store deler av studentmassen. Støtten må da ikke overstige 50 % av kostnadene til arrangementet.
+2. Maksimalt 150 kroner per person for mat til et arrangement. Støtte til mat
+   skal hovedsakelig gå til arrangementer med en slik størrelse og varighet at
+   det er naturlig å spise. Det forventes at man ikke maksimerer beløpet hver
+   gang man skal ha mat på et arrangement.
 3. Maksimalt 250 kroner per person per natt til arrangementer med overnatting,
    og lignende. For etablerte foreninger kan det gjøres unntak for turer av stort
    omfang og som dekker store deler av studentmassen. Støtten må da ikke
