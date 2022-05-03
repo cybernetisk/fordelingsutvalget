@@ -34,4 +34,6 @@ Les søknadene som dere alltid gjør og ta en avgjørelse på om dere mener om s
 
 ### 4.3 - Progsys {#soknad-3}
 
+### 4.4 - LI:ST {#soknad-4}
+
 ## Sak 5 Eventuelt {#eventuelt}
