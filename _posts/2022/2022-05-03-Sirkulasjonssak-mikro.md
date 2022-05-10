@@ -9,7 +9,20 @@ Sirkulasjonssak for mikros arrangement _ESCAPE VELOCITY: Return of the Mothershi
 
 ## Sirkulasjonsak - Mikro {#soknad-1}
 
+**Godkjent**
+
 ### For
+
+- MAPS
+- ProgSys
+- dagen@ifi
+- Mikro
+- Cyb
+- Defi
+- LI:ST
+- FUI
+- Digitus
+- Navet
 
 ### Mot
 
