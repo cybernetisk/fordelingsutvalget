@@ -5,8 +5,6 @@ subheadline: "Dokumentasjon"
 permalink: "/veiledning_for_dokumentasjon/"
 ---
 
-# Veiledning for dokumentasjon
-
 Dokumentasjon er viktig av minst to grunner.
 
 1. Foreningene for oversikt over sin pengebruk, sine aktiviteter, tryggere økonomi og visshet om hvor pengene har kommet fra og har gått til.
