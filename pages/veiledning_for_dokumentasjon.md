@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Veiledning for dokumentasjon"
+subheadline: "Dokumentasjon"
+permalink: "/veiledning_for_dokumentasjon/"
+---
+
 # Veiledning for dokumentasjon
 
 Dokumentasjon er viktig av minst to grunner.
@@ -12,11 +19,11 @@ Med denne veiledningen håper vi at vi kan gjøre rapporteringen enklere for for
 
 Eksempel fra Digitus:
 
-![](RackMultipart20220513-1-48fepq_html_86da1582413501e3.png)
+![](https://fordelingsutvalget.org/assets/img/dokumentasjon1.png)
 
-![](RackMultipart20220513-1-48fepq_html_35f0cf2301f16612.png)
+![](https://fordelingsutvalget.org/assets/img/dokumentasjon2.png)
 
-1. **Regnskap**
+2. **Regnskap**
 
 - På starten av året må dere fylle inn de utgående balansene (UB) fra forrige regnskap inn i inngående balanse (IB) i det nye regnskapet.
 
@@ -32,13 +39,13 @@ Eksempel fra Digitus:
 
 - Fyll inn gjelden til FU på slutten av semesteret ved å føre gjelden som debit (-) på konto 2950 og (+) på Støtte fra Fordelingsutvalget.
 
-2. **Kvitteringer/Bilagsoversikt**
+3. **Kvitteringer/Bilagsoversikt**
 
 Ta bilder av kvitteringer og lagre de i skyen/drive. Anbefaler også å skrive ned hvilket bilag (fra regnskapet) kvitteringen hører til og hvem som stod for utbetalingen.
 
 Dersom man har mistet kvitteringen kan dere erstatte dette med et screenshoot av transaksjonen i nettbanken og supplere med informasjon om hva pengene gikk til, hvem som sto for utbetalingen og hvilket bilag dette hører til.
 
-3. **Semesterrapport**
+4. **Semesterrapport**
 
 På slutten av semesteret må dere levere en semesterrapport. Denne skal supplere regnskapet og svare på flere spørsmål (se under). Rapporten bør kommentere aktiviteten i semesteret, hva foreningen har lært fra semesteret og eventuelle kommentarer til regnskapet eller FUs søknader.
 
@@ -48,7 +55,7 @@ På slutten av semesteret må dere levere en semesterrapport. Denne skal suppler
 - Er det noe utvalget burde vite? (for eksempel avvik fra søknader)
 - Er det noe utvalget bør forandre for å gjøre det enklere for dere?
 
-4. **Utvidet regnskapskontroll**
+5. **Utvidet regnskapskontroll**
    Dersom utvalget ser det som helt nødvendig vil de gjennomføre et utvidet regnskapskontroll. Her må foreningene sende over fullstendig regnskapsbok, fullstendig bilagsoversikt (kvitteringer) og kontoutskrifter fra alle relevante kontoer. Dette vil kun bli gjennomført dersom utvalget mistenker svært svak økonomisk styring eller underslag. Bevisste underslag vil føre til politianmeldelse.
 
 Dersom dere har noen spørsmål til føring dokumentasjon kan man alltids ta kontakt med styret i FU. Send mail til [fu-koordinator@ifi.uio.no](mailto:fu-koordinator@ifi.uio.no).
