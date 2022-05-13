@@ -48,6 +48,8 @@ Les søknadene som dere alltid gjør og ta en avgjørelse på om dere mener om s
 
 ### 4.1 - VIFI {#soknad-1}
 
+- Ikke tilstede
+
 ### 4.2 - FIFI {#soknad-2}
 
 - Det blir spurt om retningslinjer angående alkohol på arragementer, og koordinator sier det er usikkerhet rundt retningslinjen om 50% av arrangement.
@@ -73,7 +75,7 @@ Revidert søknad enstemmig vedtatt.
 
 ## Sak 5 Eventuelt {#eventuelt}
 
-Sak. Endringer i retningslinjer for dokumentasjon:
+### 5.1 Endringer i retningslinjer for dokumentasjon:
 
 - Oppdateretere veiledning for dokumentasjon med blant annet hva man har fått støtte for, og hvor mye man har fått. Blir enklere å få oversikt og man får bedre kontroll på innebetalinger og gjeld.
 - Legge inn få kommentarer om hvordan regnskap skal føres.
@@ -82,6 +84,8 @@ Sak. Endringer i retningslinjer for dokumentasjon:
 - Et forslag er å holde en slags workshop hvor man kan sitte sammen og dele erfaringer og hjelpe hverandre med regnskap osv. med både avtroppende og påtroppende økonomiansvarlige. Dette arrangementet trenger ikke å være kun for regnskap, men kan også være for andre elementer av intresse for foreningene.
 
 - Det blir nevnt at små foreninger ikke er lovpålagt å føre regnskap, men at det heller er en nyttig vane for foreninger.
+
+### Sak 5.2 Endringer i retningslinjer for dokumentasjon:
 
 Ny avstemning ang. retningslinje for generalforsamling - stryke post om maksimalt 300kr for å gjennomføre generalforsamling.
 
