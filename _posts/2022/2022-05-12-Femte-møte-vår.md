@@ -93,7 +93,7 @@ Ny avstemning ang. retningslinje for generalforsamling - stryke post om maksimal
 
 Avstemning: 9/9 stemmer for. Endring blir vedtatt.
 
-## 5.3 Ønske om økt kommunikasjon mellom foreningene:
+### 5.3 Ønske om økt kommunikasjon mellom foreningene:
 
 - Det blir tatt opp at det er ønskelig å ha en kommunikasjonskanal hvor de ulike foreningene kan holde kontakt med hverandre.
 - Ønske om en felles semesterplan som gir oversikt over arrangementer gjennom semesteret er lurt for å unngå kollisjon mellom arrangementer og få en god oversikt.
