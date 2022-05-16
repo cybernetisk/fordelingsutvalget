@@ -16,15 +16,15 @@ attending:
   - Digitus, Stefan Spanic
   - MAPS, Dan Rachou
   - Navet, Magnus A. Hjorth
-  - dagen@ifi, Jørgen Skimmeland
-  - LI:ST, Fredrik Aas Andreassen
+  - dagen, Jørgen Skimmeland
+  - list, Fredrik Aas Andreassen
 
 not_attending:
+  - vifi
 
 other_attending:
+  - fifi
 ---
-
-- FIFI
 
 Vi prøver oss igjen på forhåndsstemming. Dersom alle er enige om å forhåndsstemme på en sak vil saken ikke bli gått igjennom på møte. Dermed kan vi spare tid på søknader som det ikke er noe behov for å diskutere, og kan bruke denne tiden på viktigere ting. Forhåndsstemmingen må gjøres minimum 2 timer før FU-møte.
 
@@ -93,7 +93,7 @@ Ny avstemning ang. retningslinje for generalforsamling - stryke post om maksimal
 
 Avstemning: 9/9 stemmer for. Endring blir vedtatt.
 
-Ønske om økt kommunikasjon mellom foreningene:
+## 5.3 Ønske om økt kommunikasjon mellom foreningene:
 
 - Det blir tatt opp at det er ønskelig å ha en kommunikasjonskanal hvor de ulike foreningene kan holde kontakt med hverandre.
 - Ønske om en felles semesterplan som gir oversikt over arrangementer gjennom semesteret er lurt for å unngå kollisjon mellom arrangementer og få en god oversikt.
