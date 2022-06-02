@@ -6,6 +6,7 @@ subheadline: "Møte i Fordelingsutvalget"
 time: 16:15:00
 published: true
 referent: "Danial Anwar"
+forhandsStemming: "https://docs.google.com/forms/d/e/1FAIpQLScl6lPRNEbWmVzMyPx5-p6OFCWHGkbQRgJQBudjApTScl12Tw/viewform?embedded=true"
 
 attending:
 
@@ -16,7 +17,7 @@ other_attending:
 
 Gjerne forhåndsstem dagen før møtet:
 
-{{ <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScl6lPRNEbWmVzMyPx5-p6OFCWHGkbQRgJQBudjApTScl12Tw/viewform?embedded=true" width="640" height="2155" frameborder="0" marginheight="0" marginwidth="0">Laster inn …</iframe> }}
+{{ <iframe >Laster inn …</iframe> }}
 
 ## Sak 1 Godkjenning av innkalling {#innkalling}
 

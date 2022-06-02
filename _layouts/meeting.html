@@ -167,8 +167,14 @@ format: post
 
 			{% if page.notReferat %}
 			
+			{% else if page.forhandsStemming %} 
+			<h2>Referat:</h2>
+			<iframe src={{ page.forhandsStemming }} width="100%" height="600" frameborder="0"></iframe>
 			{% else %}
 			<h2>Referat:</h2>
+			{% endif %}
+
+			{% if page.notReferat %}
 			{% endif %}
 			<span itemprop="articleSection">
 				{{ content }}
