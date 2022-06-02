@@ -15,18 +15,18 @@ Svar så fort som mulig. Seneste svarfrist er mandag 28. mai. kl 23.59.
 
 ### For
 
-FUI
-Defi
-ProgSys
-MAPS
-LI:ST
-Mikro
-Digitus (antar dere er for deres egen)
+- FUI
+- Defi
+- ProgSys
+- MAPS
+- LI:ST
+- Mikro
+- Digitus (antar dere er for deres egen)
 
 ### Mot
 
 ### Avholdende
 
-Navet (Ikke mottat svar)
-Cyb (Ikke mottat svar)
-Dagen (Ikke mottat svar)
+- Navet (Ikke mottat svar)
+- Cyb (Ikke mottat svar)
+- Dagen (Ikke mottat svar)
