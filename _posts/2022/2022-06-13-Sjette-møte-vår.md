@@ -15,8 +15,6 @@ not_attending:
 other_attending:
 ---
 
-Gjerne forhåndsstem dagen før møtet:
-
 {{ <iframe >Laster inn …</iframe> }}
 
 ## Sak 1 Godkjenning av innkalling {#innkalling}
