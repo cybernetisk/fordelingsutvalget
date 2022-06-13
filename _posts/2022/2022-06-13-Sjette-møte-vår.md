@@ -6,7 +6,6 @@ subheadline: "Møte i Fordelingsutvalget"
 time: 16:15:00
 published: true
 referent: "Danial Anwar"
-forhandsStemming: "https://docs.google.com/forms/d/e/1FAIpQLScl6lPRNEbWmVzMyPx5-p6OFCWHGkbQRgJQBudjApTScl12Tw/viewform?embedded=true"
 
 attending:
 
@@ -15,7 +14,9 @@ not_attending:
 other_attending:
 ---
 
-{{ <iframe >Laster inn …</iframe> }}
+Alle søknadene ble godkjent ved forhåndsstemming og det blir derfor ikke nødvendig å avholde møte.
+
+Vi sees igjen til høsten! Ha en strålende sommerferie ☀️☀️
 
 ## Sak 1 Godkjenning av innkalling {#innkalling}
 
@@ -27,8 +28,76 @@ other_attending:
 
 ### 4.1 - VIFI {#soknad-1}
 
+#### Kommentarer:
+
+Blir påpekt at det er synd at søknaden er gått så mange runder uten at VIFI har vært til stedet på FU-møte. Følg med på fordelingsutvalget.org etter man har søkt og send en mail om man lurer på når møte er.
+
+Også kommentert at man helst bør unngå ettersøknader.
+
+#### For
+
+- navet
+- dagen
+- digitus
+- maps
+- fui
+- progsys
+- list
+
+#### I mot
+
+#### Avholdende (ikke svart)
+
+- cyb
+- defi
+- mikro
+
 ### 4.2 - IF1 {#soknad-2}
 
+#### Kommentarer:
+
+Helst unngå ettersøknader.
+
+#### For
+
+- navet
+- dagen
+- digitus
+- maps
+- fui
+- progsys
+- list
+
+#### I mot
+
+#### Avholdende (ikke svart)
+
+- cyb
+- defi
+- mikro
+
 ### 4.3 - Progsys {#soknad-3}
+
+#### Kommentarer:
+
+Ingen kommentarer.
+
+#### For
+
+- navet
+- dagen
+- digitus
+- maps
+- fui
+- progsys
+- list
+
+#### I mot
+
+#### Avholdende (ikke svart)
+
+- cyb
+- defi
+- mikro
 
 ## Sak 5 Eventuelt {#eventuelt}
