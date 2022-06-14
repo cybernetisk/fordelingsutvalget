@@ -43,6 +43,7 @@ Også kommentert at man helst bør unngå ettersøknader.
 - fui
 - progsys
 - list
+- cyb
 
 #### I mot
 
@@ -67,6 +68,7 @@ Helst unngå ettersøknader.
 - fui
 - progsys
 - list
+- cyb
 
 #### I mot
 
@@ -91,6 +93,7 @@ Ingen kommentarer.
 - fui
 - progsys
 - list
+- cyb
 
 #### I mot
 
