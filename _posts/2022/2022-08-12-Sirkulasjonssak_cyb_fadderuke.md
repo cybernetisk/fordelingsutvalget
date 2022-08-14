@@ -11,8 +11,22 @@ NB: Svar så fort som mulig! Fadderuka starter på mandag, så cyb ønsker helst
 
 ## Sirkulasjonsak - Fadderuke {#soknad-1}
 
+Søknaden er godkjent! (Dersom foreningene som ikke rakk å stemme ønsker det fortsatt er det bare å gjøre det.)
+
 ### For
+
+- Navet
+- Digitus
+- LI:ST
+- Defi
+- Progsys
+- Maps
+- Cyb
 
 ### Mot
 
 ### Avholdende
+
+- Dagen (ikke mottat svar enda)
+- Mikro (ikke mottat svar enda)
+- FUI (ikke mottat svar enda)
