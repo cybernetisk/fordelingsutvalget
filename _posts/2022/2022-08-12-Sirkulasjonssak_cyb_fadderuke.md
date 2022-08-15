@@ -22,11 +22,11 @@ Søknaden er godkjent! (Dersom foreningene som ikke rakk å stemme ønsker det f
 - Progsys
 - Maps
 - Cyb
+- Mikro
+- FUI
 
 ### Mot
 
 ### Avholdende
 
 - Dagen (ikke mottat svar enda)
-- Mikro (ikke mottat svar enda)
-- FUI (ikke mottat svar enda)
