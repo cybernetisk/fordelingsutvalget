@@ -15,9 +15,6 @@ not_attending:
 other_attending:
 ---
 
-- TOC
-  {:toc}
-
 ## Sak 1 Godkjenning av innkalling {#innkalling}
 
 ## Sak 2 Godkjenning av agenda {#agenda}
