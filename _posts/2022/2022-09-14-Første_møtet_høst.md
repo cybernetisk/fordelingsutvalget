@@ -37,4 +37,6 @@ other_attending:
 
 ### 4.7 Semesterstøtte - Progsys {#soknad-7}
 
+### 4.8 Semesterstøtte - Institutt Formel 1 {#soknad-8}
+
 ## Sak 5 Eventuelt {#eventuelt}
