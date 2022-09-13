@@ -40,3 +40,5 @@ other_attending:
 ### 4.8 Semesterstøtte - Institutt Formel 1 {#soknad-8}
 
 ## Sak 5 Eventuelt {#eventuelt}
+
+### 5.1 Navet - Opplysning Sirkulasjonssak {#eventuelt-1}
