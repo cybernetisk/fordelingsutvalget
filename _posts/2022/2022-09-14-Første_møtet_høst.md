@@ -25,7 +25,7 @@ other_attending:
 
 ### 4.1 Semesterstøtte - FIFI {#soknad-1}
 
-### 4.2 Semesterstøtte - LI:ST {#soknad-3}
+### 4.2 Semesterstøtte - LI:ST {#soknad-2}
 
 ### 4.3 Semesterstøtte - Defi {#soknad-3}
 
