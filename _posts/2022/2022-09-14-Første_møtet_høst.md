@@ -9,22 +9,22 @@ referent: "Danial Anwar"
 notReferat: true
 
 attending:
-  - dagen: Jonas Sandstad
-  - maps: Asle Fenn
-  - defi: Ina Bergli Henriksen
-  - list: Oliver Jahren
-  - progsys: Julia Lundeby
-  - mikro: Elias Ringkjøb
+  - dagen, Jonas Sandstad
+  - maps, Asle Fenn
+  - defi, Ina Bergli Henriksen
+  - list, Oliver Jahren
+  - progsys, Julia Lundeby
+  - mikro, Elias Ringkjøb
 
 not_attending:
-  - digitus (stemte remote)
-  - navet (stemte remote)
+  - digitus, (stemte remote)
+  - navet, (stemte remote)
   - cyb
-  - FUI
+  - fui
 
 other_attending:
-  - fifi: Arian Sharifi
-  - if1: Ole Jørgen Norstrand
+  - fifi, Arian Sharifi
+  - if1, Ole Jørgen Norstrand
 ---
 
 ## Sak 1 Godkjenning av innkalling {#innkalling}

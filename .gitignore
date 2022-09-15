@@ -2,5 +2,7 @@ _site/*
 _intern-notater/*
 .sass-cache/*
 .jekyll-metadata/*
+.jekyll-cache
 .idea/*
 .DS_Store
+Gemfile.lock
