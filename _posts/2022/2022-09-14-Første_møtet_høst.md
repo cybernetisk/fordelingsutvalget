@@ -17,8 +17,8 @@ attending:
   - mikro, Elias Ringkjøb
 
 not_attending:
-  - digitus, (stemte remote)
-  - navet, (stemte remote)
+  - digitus, stemte remote
+  - navet, stemte remote
   - cyb
   - fui
 
