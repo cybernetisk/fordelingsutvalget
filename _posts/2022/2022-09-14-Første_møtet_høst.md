@@ -10,15 +10,15 @@ notReferat: true
 
 attending:
   - dagen, Jonas Sandstad
-  - maps, Asle Fenn
+  - maps, Ask Fenn
   - defi, Ina Bergli Henriksen
   - list, Oliver Jahren
   - progsys, Julia Lundeby
   - mikro, Elias Ringkjøb
 
 not_attending:
-  - digitus, stemte remote
-  - navet, stemte remote
+  - digitus
+  - navet
   - cyb
   - fui
 
@@ -26,6 +26,8 @@ other_attending:
   - fifi, Arian Sharifi
   - if1, Ole Jørgen Norstrand
 ---
+
+Digitus og Navet stemte "remote".
 
 ## Sak 1 Godkjenning av innkalling {#innkalling}
 
