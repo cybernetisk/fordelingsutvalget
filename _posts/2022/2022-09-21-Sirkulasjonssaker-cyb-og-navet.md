@@ -17,6 +17,14 @@ Maps søker om et tillegg til det de fikk godkjent på forrige FU-møte. De ser 
 
 ### For
 
+- Maps
+- Mikro
+- Navet
+- Digitus
+- FUI
+- Defi
+- Dagen
+
 ### Mot
 
 ### Avholdende
@@ -24,6 +32,14 @@ Maps søker om et tillegg til det de fikk godkjent på forrige FU-møte. De ser 
 ## Sirkulasjonsak - Navet-15 {#soknad-2}
 
 ### For
+
+- Maps
+- Mikro
+- Navet
+- Digitus
+- FUI
+- Defi
+- Dagen
 
 ### Mot
 
@@ -33,6 +49,16 @@ Maps søker om et tillegg til det de fikk godkjent på forrige FU-møte. De ser 
 
 ### For
 
+- Maps
+- Mikro
+- Navet
+- Digitus
+- Defi
+
 ### Mot
 
+- FUI
+
 ### Avholdende
+
+- Dagen?
