@@ -82,7 +82,7 @@ studentavis:
   tagline: "Output er studentavisen ved Institutt for Informatikk ved UiO. Vi lager informative og underholdende artikler og gir ut avisen to ganger i året."
 
 homebrew:
-  type: active
+  type: inactive
   name: "Homebrew"
   real: "Homebrew"
   url: "http://diw02.uio.no/blogg"
