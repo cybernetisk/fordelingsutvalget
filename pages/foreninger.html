@@ -18,8 +18,8 @@ permalink: /foreninger/
 {% assign grouped_associations = site.data.associations | sort
 | group_by_exp: "item","item[1].type 
 | lower 
-| replace: 'inactive','Inaktive og oppløste'
 | replace: 'active','Aktive foreninger'
+| replace: 'inactive','Inaktive og oppløste'
 | replace: 'role','Utvalgsroller'" %}
 {% for group in grouped_associations %}
 	<h2>{{ group['name'] }}</h2>	
