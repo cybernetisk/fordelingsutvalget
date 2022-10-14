@@ -1,6 +1,6 @@
 ---
 layout: meeting
-title: Sirkulasjonssaker September 2022
+title: Sirkulasjonssak Oktober  2022
 subheadline: "Sirkulasjonsak"
 published: true
 ---
