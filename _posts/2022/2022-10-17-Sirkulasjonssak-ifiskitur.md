@@ -11,7 +11,20 @@ Stem så fort som mulig. Frist for å betale depositum er 1. november og bankove
 
 ## Sirkulasjonsak - Ifi-skitur {#soknad-1}
 
+Enstemmig godkjent
+
 ### For
+
+- Defi
+- Digitus
+- Mikro
+- Maps
+- Navet
+- Dagen
+- Progsys
+- FUI
+- LI:ST
+- CYB
 
 ### Mot
 
