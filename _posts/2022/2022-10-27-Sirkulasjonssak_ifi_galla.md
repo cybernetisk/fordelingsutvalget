@@ -9,7 +9,7 @@ IFI-galla ble arrangert forrige helg (22. oktober), så dette blir en ettersøkn
 
 Stem i vei:) Frist for stemming blir neste tirsdag:)
 
-## Sirkulasjonsak - Ifi-skitur {#soknad-1}
+## Sirkulasjonsak - Ifi-galla {#soknad-1}
 
 ### For
 
