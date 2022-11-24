@@ -1,6 +1,6 @@
 ---
 layout: meeting
-title: Sirkulasjonssak Oktober - IFI Galla 2022
+title: Sirkulasjonssak Oktober - Digitus master julebord
 subheadline: "Sirkulasjonsak"
 published: true
 ---
