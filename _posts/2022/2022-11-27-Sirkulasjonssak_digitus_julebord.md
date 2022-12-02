@@ -13,6 +13,18 @@ Stem så fort som mulig, de vil helst ha svar i løpet av mandag 28.11.
 
 ### For
 
+- Mikro
+- LI:ST
+- Progsys
+- FUI
+- CYB
+- Navet
+- Maps
+- Digitus
+- Defi
+
 ### Mot
 
 ### Avholdende
+
+- Dagen (ikke svart)
