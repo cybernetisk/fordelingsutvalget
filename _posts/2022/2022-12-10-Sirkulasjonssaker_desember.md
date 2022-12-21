@@ -13,16 +13,44 @@ Gjerne svar fortløpende, progsys har planlagt juleverksted 15. desember.
 
 ## Sirkulasjonsak - Digitus hyttetur {#soknad-1}
 
+**Godkjent**
+
 ### For
+
+- mikro
+- cyb
+- defi
+- digitus
+- list
+- maps
+- fui
+- navet
+- progsys
 
 ### Mot
 
 ### Avholdende
+
+- dagen (ikke mottat svar)
 
 ## Sirkulasjonsak - Prosa juleverksted {#soknad-2}
 
+**Godkjent**
+
 ### For
+
+- mikro
+- cyb
+- defi
+- digitus
+- list
+- maps
+- fui
+- navet
+- progsys
 
 ### Mot
 
-### Avholdende
+### Avholdende¨
+
+- dagen (ikke mottat svar)
