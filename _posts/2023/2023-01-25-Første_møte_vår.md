@@ -32,6 +32,6 @@ I tillegg til å behandle saker tar vi for oss forslag til endringer av retnings
 
 ### 4.1 Semesterstøtte - Defi {#soknad-1}
 
-## Sak 5 Forslag til endringer av retningslinjer {#sak-5}
+## Sak 5 Forslag til endringer av semestersøknad og retningslinjer {#sak-5}
 
 ## Sak 5 Eventuelt {#eventuelt}
