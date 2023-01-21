@@ -30,8 +30,18 @@ I tillegg til å behandle saker tar vi for oss forslag til endringer av retnings
 
 ## Sak 4 Behandling av søknader {#soknader}
 
-### 4.1 Semesterstøtte - Defi {#soknad-1}
+### 4.1 Semesterstøtte - FIFI {#soknad-1}
+
+### 4.2 Semesterstøtte - IF1 {#soknad-2}
+
+### 4.3 Prosjektstøtte - Output {#soknad-3}
+
+### 4.4 Semesterstøtte - MAPS {#soknad-4}
+
+### 4.5 Semesterstøtte - Progsys {#soknad-5}
+
+### 4.6 Semesterstøtte - Mikro {#soknad-6}
 
 ## Sak 5 Forslag til endringer av semestersøknad og retningslinjer {#sak-5}
 
-## Sak 5 Eventuelt {#eventuelt}
+## Sak 6 Eventuelt {#eventuelt}
