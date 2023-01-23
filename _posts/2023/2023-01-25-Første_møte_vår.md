@@ -42,6 +42,8 @@ I tillegg til å behandle saker tar vi for oss forslag til endringer av retnings
 
 ### 4.6 Semesterstøtte - Mikro {#soknad-6}
 
+### 4.7 Semesterstøtte - Defi {#soknad-7}
+
 ## Sak 5 Forslag til endringer av semestersøknad og retningslinjer {#sak-5}
 
 ## Sak 6 Eventuelt {#eventuelt}
