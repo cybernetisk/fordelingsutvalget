@@ -9,10 +9,23 @@ referent: "Elias Ramsvik"
 notReferat: true
 
 attending:
+  - cyb
+  - progsys
+  - fui
+  - dagen (dro etter sak 5)
+  - defi
+  - mikro
+  - digitus
+  - navet
+  - maps
 
 not_attending:
+  - list
 
 other_attending:
+  - logen
+  - fifi
+  - if1
 ---
 
 Velkommen til vårens aller første møte på Awk!
