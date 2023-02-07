@@ -29,10 +29,14 @@ Velkommen til vårens andre møte på Black box!
 
 ### 4.2 Semesterstøtte - Ifi-padel {#soknad-2}
 
-### 4.3 Prosjektstøtte - SIFI {#soknad-3}
+### 4.3 Semesterstøtte - SIFI {#soknad-3}
 
-### 4.4 Semesterstøtte - Toastjærn {#soknad-4}
+### 4.4 Prosjektstøtte - Toastjærn {#soknad-4}
 
 ### 4.5 Semesterstøtte - LI:ST {#soknad-5}
+
+### 4.6 Prosjektstøtte - FIFI {#soknad-6}
+
+### 4.7 Prosjektstøtte - Cyb {#soknad-7}
 
 ## Sak 5 Eventuelt {#eventuelt}
