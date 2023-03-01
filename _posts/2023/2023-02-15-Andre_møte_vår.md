@@ -72,7 +72,9 @@ Det er noe diskusjon om man bør investere i en soundbox, da man har erfaringer 
 
 Nødvendig at soundboxen skal deles av foreningene på IFI. FIFI er ansvarlige for oppbevaring og utleie av denne soundboxen. Blir påpekt at det kan være lurt å sikre høyttaleren mot tyveri.
 
-Søknad er innvilget.
+Forslag om å revidere søknaden, fjerne punktet om støtte til T-skjorter og beholde søknad til soundbox.
+
+Revidert søknad er innvilget.
 
 ### 4.7 Prosjektstøtte - Cyb {#soknad-7}
 
