@@ -123,6 +123,7 @@ if1:
 foreningsfesten:
   type: active
   name: "foreningsfesten"
+  tagline: "Samarbeid mellom foreningsaktive på institutte for å lage en fest for de foreningsaktive på instituttet"
 
 ifipodcast:
   type: inactive
@@ -208,7 +209,7 @@ navet:
 koordinator:
   type: role
   name: "Koordinator"
-  real: "Peter Kristiansen"
+  real: "Philip Høeg Eriksen"
   url: ""
   tagline: "Møte- og søknadskoordinator i Fordelingsutvalget"
   periods:
@@ -225,6 +226,9 @@ koordinator:
       end: 2021V
       real: "Eirik Solheim Ølberg"
     - start: 2022V
+      end: 2023V
+      real: "Philip Høeg Eriksen"
+    - start: 2023V
       end: current
 
 okonomians:
