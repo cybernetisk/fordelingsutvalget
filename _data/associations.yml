@@ -76,10 +76,13 @@ fui:
 
 studentavis:
   type: active
-  name: "output"
+  name: "Output"
   real: "ifi-avis"
   url: "http://ifiavis.no/"
   tagline: "Output er studentavisen ved Institutt for Informatikk ved UiO. Vi lager informative og underholdende artikler og gir ut avisen to ganger i året."
+  former_tag:
+    - output
+    - avis
 
 homebrew:
   type: inactive
@@ -91,6 +94,7 @@ homebrew:
 fadderstyret:
   type: active
   name: "Fadderstyret"
+  real: "Fadderstyret"
 
 toast:
   type: active
@@ -123,6 +127,7 @@ if1:
 foreningsfesten:
   type: active
   name: "Foreningsfesten"
+  real: "Foreningsfesten"
   url: ""
   tagline: "Samarbeid mellom foreningsaktive på instituttet for å lage en fest for de foreningsaktive på instituttet"
 
@@ -286,3 +291,23 @@ teknat:
 verdande:
   type: inactive
   name: "Verdande"
+  real: "Verdande"
+  url: "https://www.facebook.com/verdande.ifi/"
+
+dukk:
+  type: inactive
+  name: "DUKK"
+  real: "UiO Frisbeegolf - DUKK"
+  url: "https://foreninger.uio.no/dukk/"
+
+uniplay:
+  type: inactive
+  name: "UniPlay"
+  real: "UniPlay"
+  url: "https://uniplay.no/"
+
+rotor:
+  type: inactive
+  name: "IFI Rotor"
+  real: "IFI Rotor - Multikopterforening for studenter"
+  url: "https://www.facebook.com/ifirotor"

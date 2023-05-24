@@ -1,3 +1,3 @@
 ---
-layout: person_page
+layout: koordinator_page
 ---
