@@ -122,8 +122,9 @@ if1:
 
 foreningsfesten:
   type: active
-  name: "foreningsfesten"
-  tagline: "Samarbeid mellom foreningsaktive på institutte for å lage en fest for de foreningsaktive på instituttet"
+  name: "Foreningsfesten"
+  url: ""
+  tagline: "Samarbeid mellom foreningsaktive på instituttet for å lage en fest for de foreningsaktive på instituttet"
 
 ifipodcast:
   type: inactive
