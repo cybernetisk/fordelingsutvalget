@@ -3,7 +3,7 @@ layout: page
 title: "Retningslinjer for søknader om støtte fra fordelingsutvaget"
 subheadline: ""
 teaser: ""
-permalink: /retningslinjer/
+permalink: /retningslinjer/2022-02/
 ---
 
 Sist endret: 22/2-2022
