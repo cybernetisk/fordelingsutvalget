@@ -136,7 +136,7 @@ $base-font-size: 100% !default;
       }
       @else {
         top: 50%;
-        margin-top: (-$width/2);
+        margin-top: (-calc($width / 2));
       }
       @if $left {
         left: $left;
@@ -147,7 +147,7 @@ $base-font-size: 100% !default;
     }
     @else {
       top: 50%;
-      margin-top: -($width/2);
+      margin-top: -(calc($width / 2));
       #{$opposite-direction}: $topbar-link-padding;
     }
 

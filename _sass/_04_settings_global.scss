@@ -580,25 +580,25 @@ $crumb-slash: "/";
 // $dropdown-button-padding-tny: $button-pip-tny * 7;
 // $dropdown-button-pip-size-tny: $button-pip-tny;
 // $dropdown-button-pip-opposite-tny: $button-pip-tny * 3;
-// $dropdown-button-pip-top-tny: -$button-pip-tny / 2 + rem-calc(1);
+// $dropdown-button-pip-top-tny: calc(-1 * $button-pip-tny / 2) + rem-calc(1);
 
 // We use these to style small dropdown buttons
 // $dropdown-button-padding-sml: $button-pip-sml * 7;
 // $dropdown-button-pip-size-sml: $button-pip-sml;
 // $dropdown-button-pip-opposite-sml: $button-pip-sml * 3;
-// $dropdown-button-pip-top-sml: -$button-pip-sml / 2 + rem-calc(1);
+// $dropdown-button-pip-top-sml: calc(-1 * $button-pip-sml / 2) + rem-calc(1);
 
 // We use these to style medium dropdown buttons
 // $dropdown-button-padding-med: $button-pip-med * 6 + rem-calc(3);
 // $dropdown-button-pip-size-med: $button-pip-med - rem-calc(3);
 // $dropdown-button-pip-opposite-med: $button-pip-med * 2.5;
-// $dropdown-button-pip-top-med: -$button-pip-med / 2 + rem-calc(2);
+// $dropdown-button-pip-top-med: calc(-1 * $button-pip-med / 2) + rem-calc(2);
 
 // We use these to style large dropdown buttons
 // $dropdown-button-padding-lrg: $button-pip-lrg * 5 + rem-calc(3);
 // $dropdown-button-pip-size-lrg: $button-pip-lrg - rem-calc(6);
 // $dropdown-button-pip-opposite-lrg: $button-pip-lrg * 2.5;
-// $dropdown-button-pip-top-lrg: -$button-pip-lrg / 2 + rem-calc(3);
+// $dropdown-button-pip-top-lrg: calc(-1 * $button-pip-lrg / 2) + rem-calc(3);
 
 // 10. Flex Video
 // - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -1407,7 +1407,7 @@ $topbar-link-font-size: rem-calc(15);
 // $topbar-link-bg-active-hover: scale-color($primary-color, $lightness: -14%);
 // $topbar-link-font-family: $body-font-family;
 $topbar-link-text-transform: uppercase;
-// $topbar-link-padding: $topbar-height / 3;
+// $topbar-link-padding: calc($topbar-height / 3);
 // $topbar-back-link-size: $h5-font-size;
 // $topbar-link-dropdown-padding: 20px;
 
