@@ -1,0 +1,112 @@
+---
+layout: default
+format: post
+breadcrumb: yes
+---
+
+<div class="row t30">
+  <div class="medium-8 columns{% if page.sidebar == NULL %} medium-offset-2 end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}">
+
+    {% assign short_code = page.title | downcase %}
+    {% assign assoc_data = site.data.associations[short_code] %}
+
+    <h1>{{ assoc_data.real }}</h1>
+    {% if assoc_data.real != assoc_data.name %}
+      <em>Også kjent som {{ assoc_data.name }}.</em>
+    {% endif %}
+
+    <blockquote>
+      {{ assoc_data.tagline | markdownify }}
+    </blockquote>
+
+    {% if assoc_data.former_name %}
+      <em>Denne rollen er tidligere kjent som: {{ assoc_data.former_name }}</em>
+    {% endif %}
+
+
+    {% if assoc_data.periods %}
+      <h2>Innehavere av rolle</h2>
+      <ul>
+        {% assign sorted_periods = assoc_data.periods | sort: "start" %}
+        {% for period in sorted_periods %}
+          {%- if period.end != "current" -%}
+          <li>{{ period.start }}–{{ period.end }}<br />{{ period.real }}</li>
+          {%- else -%}
+          <li>{{ period.start }}-nåværende<br />{{ assoc_data.real }}</li>
+          {%- endif -%}
+        {% endfor %}
+      </ul>
+    {% endif %}
+
+    {% if assoc_data %}
+      <div>
+        {{post.content}}
+
+        <h2>Filer og søknader fra Koordinator</h2>
+
+        {% assign meeting_files = site.static_files | where_exp: "file","file.path contains 'meetings'" %}
+        {% assign meeting_files = meeting_files | where_exp: "file","file.path contains short_code" | reverse%}
+
+        {% assign first_file = meeting_files | first%}
+        {% assign tmp_year = first_file.path | split:"/"%}
+        {% assign tmp_year = tmp_year[2]%}
+        {% assign cur_year = tmp_year[2]%}
+
+        {% for file in meeting_files %}
+          {% assign tmp_year = file.path | split:"/"%}
+          {% assign tmp_year = tmp_year[2]%}
+          {% if cur_year != tmp_year %}
+            {% if forloop.first == false %}
+              </tbody>
+              </table>
+            {% endif %}
+            <h3>År {{tmp_year}} </h3>
+            <table>
+              <thead>
+                <tr>
+                  <th>Dato</th>
+                  <th>Lenke til møte</th>
+                  <th>Lenke til fil/søknad</th>
+                </tr>
+              </thead>
+              <tbody>
+
+                {% assign cur_year = tmp_year%}
+              {% endif%}
+
+              {% if cur_year == tmp_year %}
+                {% assign file_url = file.path | absolute_path | split: "/"%}
+                {% assign date_str = file_url[3] %}
+                {% assign meeting_path = site.posts | where_exp: "posts","posts.url contains date_str" %}
+                {% assign meeting = meeting_path[0]%}
+                {% assign file_url = file.path | absolute_path %}
+
+                <tr>
+                  <td>
+                    {{ date_str }}
+                  </td>
+                  <td>
+                    {% if meeting.url %}
+                      <a href="{{ meeting.url | absolute_path }}"> {{meeting.title}} </a>
+                    {% else %}
+                      <strong>Ingen møte funnet, legg det til!</strong>
+                    {% endif %}
+                  </td>
+                  <td>
+                    <a href="{{file_url}}" title="Read {{ file_url }}"> {{file.name}} </a>
+                  </td>
+                </tr>
+              {% endif%}
+            {% endfor %}
+              </tbody>
+            </table>
+      </div>
+    {% else %}
+      <div>
+        UNABLE TO FIND ANY DATA ON THIS ASSOCIATION
+      </div>
+    {% endif %}
+
+  </div>
+</div>
+
