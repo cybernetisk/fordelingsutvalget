@@ -35,7 +35,7 @@ other_attending:
 ### 5.5 -  IFI-Logen - Semesterstøtte {#soknad-5}
 ### 5.6 -  Institutt Formel 1 - Prosjektstøtte {#soknad-6}
 ### 5.7 -  BrewFI - Semsterstøtte {#soknad-7}
-### 5.6 -  Cybernetisk Selskab - Prosjektstøtte {#soknad-7}
-### 5.6 -  Digitus - Semesterstøtte {#soknad-8}
-### 5.6 -  Navet - Prosjektstøtte {#soknad-9}
+### 5.8 -  Cybernetisk Selskab - Prosjektstøtte {#soknad-7}
+### 5.9 -  Digitus - Semesterstøtte {#soknad-8}
+### 5.10 -  Navet - Prosjektstøtte {#soknad-9}
 
