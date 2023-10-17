@@ -8,7 +8,16 @@ published: true
 referent: "Karoline Opsahl Nilsen"
 
 attending:
-    - 
+    - Cybernetisk Selskab
+    - ProgSys
+    - FUI
+    - dagen@ifi
+    - Defi
+    - Mikro
+    - Navet
+    - LI:ST
+    - Digitus
+    - MAPS
 
 not_attending:
     -
@@ -24,8 +33,11 @@ other_attending:
 
 
 ## Sak 1 Godkjenning av innkalling {#innkalling}
+Godkjent
 ## Sak 2 Godkjenning av agenda {#agenda}
+Godkjent
 ## Sak 3 Godkjenning av referat {#referat}
+Godkjent
 ## Sak 4 Retningslinjer
 Ny organisatorisk sekretær og økonomisk sekretær.
 Endre vedtekter? Stemme neste gang.
@@ -67,30 +79,30 @@ Ikke møtt
 ### 5.3 -  SIFI - Semesterstøtte {#soknad-3}
 Støtte til mat ved genfors; om vi skal støtte. 10 for, 0 mot 👍🏻 GODKJENT
 ### 5.4 -  Mikro - Semesterstøtte {#soknad-4}
-Arrangement: oversikt over hva de forskjellige arrangementene koster (per).
-Semesterrapport og regnskap: skal lastes opp i mappa, ikke i
-søknadsomerådet 8 for, 1 mot, 1 avholdene 👍🏻 GODKJENT
+8 for, 1 mot, 1 avholdene 👍🏻 GODKJENT
 ### 5.5 -  IFI-Logen - Semesterstøtte {#soknad-5}
-For mye til mat, 200kr per pers, skal være 150. Mat etter museum, gir ikke
-mening, igjen for mye (160 kr). ØL - for vagt. Volleyball, 1000kr til hva? 2000 kr
-til promomatriell, hva vil dette si? (TOTALSØKNAD blir istdenfor 30 250kr) 10
-for, 0 mot 👍🏻 GODKJENT
+For mye til mat, 200kr per pers, skal være 150. 
+Mat etter museum, gir ikke mening, igjen for mye (160 kr).
+ØL - for vagt. 
+2000 kr til promomatriell, hva vil dette si? 
+(TOTALSØKNAD blir istdenfor 30 250kr) 
+10 for, 0 mot 👍🏻 GODKJENT
 ### 5.6 -  Institutt Formel 1 - Prosjektstøtte {#soknad-6}
-Rudskogen: pizza går over per pers 160 vs 150kr. Alna: 175kr per pers, taket
-er på 150 kr. Resten er innafor. 10 for, 0 mot 👍🏻 GODKJENT
+Rudskogen: pizza går over per pers 160 vs 150kr. 
+Alna: 175kr per pers, taket er på 150 kr. 
+10 for, 0 mot 👍🏻 GODKJENT
 ### 5.7 -  BrewFI - Semsterstøtte {#soknad-7}
-Vinsmaking; ref. regler ang alkoholstøtte 50%. 10 for, mot 👍🏻 GODKJENT
+Vinsmaking; ref. regler ang alkoholstøtte 50%. 
+10 for, mot 👍🏻 GODKJENT
 ### 5.8 -  Cybernetisk Selskab - Prosjektstøtte {#soknad-7}
 IFI-Galla: Billetpris - vurder om egenandel burde være lavere, heller mer støtte
-fra FU. 129 704kr (billetpris) Differanse student / ikke-student egenandel
-billetpris. Samarbeid med andre foreninger: philip vil kommentere dette 10 for,
-0 mot 👍🏻 GODKJENT
+fra FU. 129 704kr (billetpris)
+Samarbeid med andre foreninger
+10 for, 0 mot 👍🏻 GODKJENT
 ### 5.9 -  Digitus - Semesterstøtte {#soknad-8}
-Sommeravslutning: Forventer dere at regningen kommer til å være høyre enn
-det dere fikk utbetalt i projektstøtte? Linjefesten: Hva forfenter dere at den
-kommer til å koste; burde dette være egen søknad. 32k for digg pizza
-overskudd 10k trekker fra søker om totalt 44 000 kr 10 for, mot
-👍🏻 GODKJENT
+32k for digg pizza overskudd 10k trekker fra søker om totalt 44 000 kr 
+10 for, 0 mot👍🏻 GODKJENT
 ### 5.10 -  Navet - Prosjektstøtte {#soknad-9}
-Ikke noe å kommentere. 10 for, 0 mot 👍🏻 GODKJENT
+Ikke noe å kommentere. 
+10 for, 0 mot 👍🏻 GODKJENT
 
