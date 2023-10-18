@@ -31,6 +31,7 @@ other_attending:
 ## Sak 5 Defi - Forbedring av kommunikasjon mellom FU og foreninger {#sak-3}
 ## Sak 6 Behandling av søknader {#soknader}
 ### 6.1 -  Lavterskel - Semesterstøtte {#soknad-1}
+### 6.2 - IFI Fokus - Semesterstøtte {#soknad-1}
 ### 6.2 -  Cybernetisk Selskab - Prosjektstøtte {#soknad-2}
 ### 6.3 -  Cybernetisk Selskab - Prosjektstøtte {#soknad-3}
 ### 6.4 -  Defi - Semesterstøtte {#soknad-4}
