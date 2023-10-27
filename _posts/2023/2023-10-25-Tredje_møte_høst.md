@@ -185,3 +185,6 @@ Overskudd skal tilbakeføres i slutten av semesteret
 10 for, 0 imot, Godkjent.
 
 ## Sak 6 - Stemme inn sekretærer {#sak-3}
+Kari og Karoline stemmes inn som sekretærer
+
+10 for, 0 imot. Godkjent
