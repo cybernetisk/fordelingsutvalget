@@ -4,7 +4,7 @@ title: Første møte vår 2024
 subheadline: "Møte i Fordelingsutvalget"
 
 time: 16:15:00
-published: false
+published: true
 referent: ""
 
 attending:
