@@ -37,5 +37,11 @@ other_attending:
 ### 4.8 -  Semesterstøtte og prosjektstøtte - ProgSys {#soknad-8}
 ### 4.8 -  Semesterstøtte - Cybernetisk Selskab {#soknad-9}
 ### 4.10 -  Prosjektstøtte - Cybernetisk Selskab {#soknad-10}
+### Sak 5 Forslag om reaksjon mot Digitus
+Digitus måtte avlyse hytteturen de fikk støtte til i høst, og har derfor mistet 23000kr ettersom de ikke fikk refundert hele beløpet fra hyttebestillingen.
+Det foreslås en reaksjon for å tydeligjøre at foreningene har et ansvar for håndteringen av midlene de får utdelt.
+Forslaget er:
+    - Ingen semesterstøtte semesteret v24.
+    - En måned (januar) uten mulighet til å søke støtte.
 
 
