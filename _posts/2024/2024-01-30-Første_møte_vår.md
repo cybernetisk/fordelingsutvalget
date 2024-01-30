@@ -5,7 +5,7 @@ subheadline: "Møte i Fordelingsutvalget"
 
 time: 16:15:00
 published: true
-referent: "na"
+referent: "Than Thao Le"
 
 attending:
 - Navet
@@ -20,7 +20,7 @@ attending:
 - Maps
 
 not_attending:
-    -
+    - Ingen
 
 other_attending:
     - IFI-Logen
