@@ -27,7 +27,7 @@ other_attending:
 ## Sak 2 Godkjenning av agenda {#agenda}
 ## Sak 3 Godkjenning av referat {#referat}
 ## Sak 4 Behandling av søknader {#soknader}
-### 4.1 -  Prosjektstøtte - SIFI {#soknad-1}
+### 4.1 -  Semesterstøtte - SIFI {#soknad-1}
 ### 4.2 -  Semesterstøtte - IFI-Logen {#soknad-2}
 ### 4.3 -  Semesterstøtte - Digitus {#soknad-3}
 ### 4.4 -  Semesterstøtte - Defi {#soknad-4}
@@ -42,6 +42,6 @@ Digitus måtte avlyse hytteturen de fikk støtte til i høst, og har derfor mist
 Det foreslås en reaksjon for å tydeligjøre at foreningene har et ansvar for håndteringen av midlene de får utdelt.
 Forslaget er:\
     - Ingen semesterstøtte semesteret v24.\
-    - En måned (januar) uten mulighet til å søke støtte.\
+    - En måned (januar) uten mulighet til å søke støtte.
 
 
