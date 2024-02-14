@@ -33,7 +33,7 @@ other_attending:
 ### 5.3 -  Prosjektstøtte - Digitus {#soknad-3}
 ### 5.3b -  Prosjektstøtte - Digitus {#soknad-3b}
 ### 5.3c -  Prosjektstøtte - Digitus {#soknad-3c}
-### 5.4 -  Semesterstøtte - Mikro{#soknad-4}
+### 5.4 -  Semesterstøtte - Mikro {#soknad-4}
 ### 5.5 -  Prosjektstøtte - IFI-Logen {#soknad-5}
 ### 5.6 -  Driftstøtte - Defi {#soknad-6}
 ### 5.7 -  Semesterstøtte - IF1 {#soknad-7}
