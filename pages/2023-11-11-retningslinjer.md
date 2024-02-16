@@ -6,7 +6,7 @@ teaser: ""
 permalink: /retningslinjer/
 ---
 
-Sist endret: 11/11-2023
+Sist endret: 10/25-2023
 
 ## 1 Formål
 
@@ -29,6 +29,8 @@ Formålet til disse retningslinjer er å sikre at midlene til Fordelingsutvalget
 
 1. Søknader om semesterstøtte er søknader til arrangement og drift gjennom et semester. Søknaden skal ikke inkludere midler som går utenom foreningens vanlige drift. Ved større arrangement eller innkjøp (over 15 000 kr eller spesiell høy pris planlagt per hode) foretrekkes det at dette skilles ut i en egen søknad om prosjektstøtte, spesielt dersom dette er noe som ikke avholdes/kjøpes inn hvert semester.
 2. Søknader om semesterstøtte krever vedlagt budsjett og regnskap fra foregående periode/semester.
+3. Det skal følge med en enkel oversikt over hva støtten skal brukes til.
+4. Det kan søkes om opp til 40 000 kr i semesteret.
 
 ## 4 Prosjektstøtte
 
@@ -56,18 +58,23 @@ Formålet til disse retningslinjer er å sikre at midlene til Fordelingsutvalget
 
 ## 9 Mislighold
 
-Fordelingsutvalget kan kreve hele eller deler av tildelt beløp dersom:
+Fordelingsutvalget kan kreve hele eller deler av tildelt beløp, og utestenge for et semester dersom:
 
 1. Det er uoverensstemmelse mellom opplysningene gitt I søknaden og reelle forhold
 2. Midler er brukt i strid med villkårene for tildelingen
 3. Søker nekter Fordelingsutvalget å gjennomføre regnskapskontroll
 4. Foreningen ikke oversender dokumentasjon som fordelingsutvalget har krav på (ref pkt 6 Rapportering)
+5. Saker om mislighold skal varsles om til aktuell forening, og behandles av FU på neste møte.
 
 ## 10 Regnskapskurs
 
 1. Utvalget kan til en hver tid kreve at minst ett styremedlem skal ha gjennomført et relevant regnskapskurs i regi av SiO Foreninger.
 
-## 11 Vanlige søknadspunkter
+## 11 Overlappende arrangementer
+1. Arrangementer med et budsjett på over 500 kr skal ikke gå samme dag.
+2. Arrangementer skal ikke holdes på tirsdager eller torsdager på samme tidspunkt som Navet sine bedriftspresentasjoner.
+
+## 12 Vanlige søknadspunkter
 
 ### Fastsatte satser
 
@@ -79,9 +86,11 @@ Fordelingsutvalget kan kreve hele eller deler av tildelt beløp dersom:
    og lignende. For etablerte foreninger kan det gjøres unntak for turer av stort
    omfang og som dekker store deler av studentmassen. Støtten må da ikke
    overstige 50 % av kostnadene til arrangementet.
-3. FU støtter maksimalt 50% av søknadsposter som angår alkoholholdig drikke.
+3. Arrangementer som bruker FU-støtte på alkohol skal alltid søkes om som prosjektstøtte slik at søknaden kan behandles av utvalget. Punktet gjelder ikke for interne arrangementer eller styremiddager.
 4. Styremiddag og andre styreaktiviteter støttes med 450 kr per person per semester. For foreninger med lav aktivitet støttes ikke styremiddager eller sosiale goder til styret.
 5. Arrangementer for interne i foreningen støttes med opp til 150 kr per person per semester. For foreninger med mange interne bør hvert arrangement behandles spesielt.
+6. Merch, som f.eks. gensere, skal holdes i foreningen og gå i arv om det ikke er en egenandel. Innkjøp av merch skal tas opppå møte i FU og godkjennes der.
+7. Møtemat til internmøter kan støttes med opp til 150 kr i måneden.
 
 ### Eiendeler
 
