@@ -5,7 +5,7 @@ subheadline: "Møte i Fordelingsutvalget"
 
 time: 16:15:00
 published: true
-referent: "Than Thao Le"
+referent: "Thanh Thao Le"
 
 attending:
 - Navet
