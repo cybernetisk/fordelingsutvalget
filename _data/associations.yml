@@ -7,7 +7,7 @@
 #     real:   "The full name of the associations"
 #     url:    "associations.hacky.software"
 #     tagline:"The bestest association og the associations"
-#     former:
+#     former_tag:
 #       - assoc_last_tag
 
 # Linjeforeningene
@@ -74,6 +74,28 @@ fui:
   url: "https://ififui.no/"
   tagline: ""
 
+fokus:
+  type: active
+  name: "IFI-fokus"
+  real: "IFI-fokus"
+  url: "https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=930732273"
+  tagline: ""
+
+realitifi:
+  type: active
+  name: "RealitIFI"
+  real: "RealitIFI"
+  url: "https://www.facebook.com/realitifi"
+  tagline: ""
+
+
+lavterskel:
+  type: active
+  name: "Lavterskel"
+  real: "Lavterskel"
+  url: "https://ififui.no/"
+  tagline: ""
+
 studentavis:
   type: active
   name: "Output"
@@ -102,6 +124,14 @@ toast:
   real: "Toastens Organisasjon for Alle Studenter Til Jernets Ære og Riket Norge"
   url: "https://www.facebook.com/toastjaern/"
   tagline: "Vi har arrangementer der vi lager toast og deler det ut til medlemmene våre."
+
+brewfi:
+  type: active
+  name: "BrewFI"
+  real: "BrewFI"
+  url: "https://brewfi.no/"
+  tagline: ""
+
 
 ordenen:
   type: active
@@ -233,15 +263,16 @@ koordinator:
       real: "Eirik Solheim Ølberg"
     - start: 2022V
       end: 2023V
-      real: "Philip Høeg Eriksen"
+      real: "Peter Kristiansen"
     - start: 2023V
       end: current
+      real: "Philip Høeg Eriksen"
 
 okonomians:
   type: role
   name: "Sekretær"
   former_name: "Økonomiansvarlig"
-  real: Mohammed Danial Anwar"
+  real: Peter Hjelle Petersen-Øverleir"
   url: ""
   tagline: "Referent-, søknads- og rapporteringsansvarlig i Fordelingsutvalget."
   periods:
@@ -252,12 +283,25 @@ okonomians:
       end: 2019V
       real: "Andreas Nyborg Hansen"
     - start: 2019V
-      end: current
+      end: 2020V
       real: "Karl Hole Totland"
     - start: 2020V
       end: 2022V
       real: "Jeanette Kirkerud"
     - start: 2022V
+      end: 2023V
+      real: ""
+    - start: 2022V
+      end: 2023V
+      real: "Mohammed Danial Anwar"
+    - start: 2023V
+      end: 2023H
+      real: "Elias Ramsvik"
+    - start: 2023H
+      end: 2024V
+      real: "Karoline Opsahl Nilsen og Kari Sande Øfstbø"
+    - start: 2024V
+      real: "Peter Hjelle Petersen-Øverleir"
       end: current
 
 # Utgåtte foreninger. RIP <3

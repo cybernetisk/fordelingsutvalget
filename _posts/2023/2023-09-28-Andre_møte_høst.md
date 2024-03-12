@@ -8,22 +8,20 @@ published: true
 referent: "Karoline Opsahl Nilsen"
 
 attending:
-    - Cybernetisk Selskab
+    - cyb
     - ProgSys
     - FUI
-    - dagen@ifi
+    - dagen
     - Defi
     - Mikro
     - Navet
-    - LI:ST
+    - LIST
     - Digitus
     - MAPS
 
 not_attending:
-    -
 
 other_attending:
-    -
 
 
 ---
@@ -94,15 +92,15 @@ Alna: 175kr per pers, taket er på 150 kr.
 ### 5.7 -  BrewFI - Semsterstøtte {#soknad-7}
 Vinsmaking; ref. regler ang alkoholstøtte 50%. 
 10 for, mot 👍🏻 GODKJENT
-### 5.8 -  Cybernetisk Selskab - Prosjektstøtte {#soknad-7}
+### 5.8 -  Cybernetisk Selskab - Prosjektstøtte {#soknad-8}
 IFI-Galla: Billetpris - vurder om egenandel burde være lavere, heller mer støtte
 fra FU. 129 704kr (billetpris)
 Samarbeid med andre foreninger
 10 for, 0 mot 👍🏻 GODKJENT
-### 5.9 -  Digitus - Semesterstøtte {#soknad-8}
+### 5.9 -  Digitus - Semesterstøtte {#soknad-9}
 32k for digg pizza overskudd 10k trekker fra søker om totalt 44 000 kr 
 10 for, 0 mot👍🏻 GODKJENT
-### 5.10 -  Navet - Prosjektstøtte {#soknad-9}
+### 5.10 -  Navet - Prosjektstøtte {#soknad-10}
 Ikke noe å kommentere. 
 10 for, 0 mot 👍🏻 GODKJENT
 

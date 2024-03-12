@@ -20,10 +20,9 @@ attending:
 - Maps
 
 not_attending:
-    - Ingen
 
 other_attending:
-    - IFI-Logen
+    - logen
     - SIFI
 
 
@@ -122,7 +121,7 @@ SIDENOTE: Alt av pengebruk skal rapporteres og blir gått over før allmøte om 
 9 for 
 1 imot
 
-### 4.8 -  Semesterstøtte - Cybernetisk Selskab {#soknad-9}
+### 4.9 -  Semesterstøtte - Cybernetisk Selskab {#soknad-9}
 - 2 søknader - Styremiddag
 - Søknad 1
 - Enstemming for
