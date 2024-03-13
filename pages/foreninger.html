@@ -20,9 +20,11 @@ permalink: /foreninger/
 | lower 
 | replace: 'active','Aktive foreninger'
 | replace: 'inactive','Inaktive og oppløste'
-| replace: 'role','Utvalgsroller'" %}
-{% for group in grouped_associations %}
-	<h2>{{ group['name'] }}</h2>	
+| replace: 'role','Utvalgsroller'"
+| sort_natural: "name" %}
+
+{% for group in grouped_associations %}<br><br>
+	<h2>{{ group['name'] }}</h2>
 	<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
 		{% for association in group['items'] %}
 			<li class="card">
@@ -44,6 +46,7 @@ permalink: /foreninger/
 			</li>
 		{% endfor %}
 	</ul>
+
 {% endfor %}
 
 {% include _improve_content.html %}
