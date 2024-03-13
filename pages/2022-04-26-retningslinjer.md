@@ -29,6 +29,7 @@ Formålet til disse retningslinjer er å sikre at midlene til Fordelingsutvalget
 
 1. Søknader om semesterstøtte er søknader til arrangement og drift gjennom et semester. Søknaden skal ikke inkludere midler som går utenom foreningens vanlige drift. Ved større arrangement eller innkjøp foretrekkes det at dette skilles ut i en egen søknad om prosjektstøtte, spesielt dersom dette er noe som ikke avholdes/kjøpes inn hvert semester.
 2. Søknader om semesterstøtte krever vedlagt budsjett og regnskap fra foregående periode/semester.
+3. Søknader skal inneholde en enkel oversikt over hva støtten skal brukes til.
 
 ## 4 Prosjektstøtte
 
@@ -54,7 +55,7 @@ Formålet til disse retningslinjer er å sikre at midlene til Fordelingsutvalget
 
 ## 9 Mislighold
 
-Fordelingsutvalget kan kreve hele eller deler av tildelt beløp dersom:
+Fordelingsutvalget kan kreve hele eller deler av resterende beløp og utestenge fra søknadsprossesen i opp til et semester dersom:
 
 1. Det er uoverensstemmelse mellom opplysningene gitt I søknaden og reelle forhold
 2. Midler er brukt i strid med villkårene for tildelingen
@@ -65,25 +66,34 @@ Fordelingsutvalget kan kreve hele eller deler av tildelt beløp dersom:
 
 1. Utvalget kan til en hver tid kreve at minst ett styremedlem skal ha gjennomført et relevant regnskapskurs i regi av SiO Foreninger.
 
-## 11 Vanlige søknadspunkter
+## 11 Overlappende Arrangementer
+
+1. Arrangementer med budsjett på over 500 kr og med overlappende målgruppe skal ikke arrangeres til samme tid.
+2. Arrangementer med matservering *bør* ikke holdes samtidig som Navet sine bedriftpresentasjoner.
+
+## 12 Vanlige søknadspunkter
 
 ### Fastsatte satser
 
-1. Maksimalt 150 kroner per person for mat til et arrangement. Støtte til mat
+1. Semesterstøtten skal ikke overstige 40 000 kr.
+2. Maksimalt 150 kroner per person for mat til et arrangement. Støtte til mat
    skal hovedsakelig gå til arrangementer med en slik størrelse og varighet at
    det er naturlig å spise. Det forventes at man ikke maksimerer beløpet hver
    gang man skal ha mat på et arrangement.
-2. Maksimalt 250 kroner per person per natt til arrangementer med overnatting,
+3. Maksimalt 250 kroner per person per natt til arrangementer med overnatting,
    og lignende. For etablerte foreninger kan det gjøres unntak for turer av stort
    omfang og som dekker store deler av studentmassen. Støtten må da ikke
    overstige 50 % av kostnadene til arrangementet.
-3. FU støtter maksimalt 50% av søknadsposter som angår alkoholholdig drikke.
-4. Styremiddag og andre styreaktiviteter støttes med 450 kr per person per semester. For foreninger med lav aktivitet støttes ikke styremiddager eller sosiale goder til styret.
-5. Arrangementer for interne i foreningen støttes med opp til 150 kr per person per semester. For foreninger med mange interne bør hvert arrangement behandles spesielt.
+4. Arrangementer som inneholder alkoholholdig drikke skal godkjennes av FU som en prosjektsøknad. Unntak er styremiddag og internarrangementer.
+5. Styremiddag og andre styreaktiviteter støttes med 450 kr per person per semester. For
+   foreninger med lav aktivitet støttes ikke styremiddager eller sosiale goder til styret.
+6. Styremøter støttes med 150 kr per uke.
+7. Arrangementer for interne i foreningen støttes med opp til 150 kr per person per semester. For foreninger med mange interne bør hvert arrangement behandles spesielt.
 
 ### Eiendeler
 
-6. Ved søknad om eiendeler stilles særskilt krav om begrunnelse, slik at utvalget kan stole på at gjenstandene vil komme studentmassen til gode. Det bør foreligge en plan for oppbevaring og vedlikehold, og foreningen bør kunne vise til stabil drift over tid. Ved oppstart av nye foreninger kan spesielt hensyn vises for eiendeler som er veldig naturlig for foreningens drift.
+1. Ved søknad om eiendeler stilles særskilt krav om begrunnelse, slik at utvalget kan stole på at gjenstandene vil komme studentmassen til gode. Det bør foreligge en plan for oppbevaring og vedlikehold, og foreningen bør kunne vise til stabil drift over tid. Ved oppstart av nye foreninger kan spesielt hensyn vises for eiendeler som er veldig naturlig for foreningens drift.
+2. Merch skal holdes i foreningen og gå i arv om det ikke er egenandel.
 
 ### Frie midler
 
