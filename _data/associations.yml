@@ -58,14 +58,7 @@ sifi:
   tagline: "Linjeforeningen for masterprogrammet Informatikk: informasjonssikkerhet"
 
 # Annet
-appsolutt:
-  type: inactive
-  name: "Appsolutt"
-  real: "Appsolutt"
-  url: "http://www.appsoluttuio.no/"
-  tagline: "Appsolutt er en studentforening for alle som er interesserte i apputvikling"
-  former_tag:
-    - applitude
+
 
 fui:
   type: active
@@ -106,12 +99,6 @@ studentavis:
     - output
     - avis
 
-homebrew:
-  type: inactive
-  name: "Homebrew"
-  real: "Homebrew"
-  url: "http://diw02.uio.no/blogg"
-  tagline: "Homebrew skal fremme kunnskap og interesse om brygging av øl og vin blant studenter ved Institutt for Informatikk"
 
 fadderstyret:
   type: active
@@ -161,11 +148,7 @@ foreningsfesten:
   url: ""
   tagline: "Samarbeid mellom foreningsaktive på instituttet for å lage en fest for de foreningsaktive på instituttet"
 
-ifipodcast:
-  type: inactive
-  name: "IFI-Podcast"
-  real: "IFI-Podcast"
-  url: "https://www.facebook.com/IFIPodcast/"
+
 
 # Sport og idrett
 sjakk:
@@ -182,12 +165,6 @@ fifi:
   url: "http://diw07.uio.no/"
   tagline: "En sosial og sportslig forening ved instituttet"
 
-ifriluft:
-  type: inactive
-  name: "iFriluft"
-  real: "iFriluft"
-  url: "https://www.facebook.com/ifriluft/"
-  tagline: "iFriluft er en forening som fremmer fysisk aktivitet og friluftsliv blant IFI-studenter"
 
 vifi:
   type: active
@@ -198,12 +175,6 @@ vifi:
 
 # Programmering
 
-spillutvikling:
-  type: inactive
-  name: "IFI-spillutvikling"
-  real: "IFI-spillutvikling"
-  url: "http://www.mn.uio.no/ifi/livet-rundt-studiene/organisasjoner/ifi-spillutvikling.html"
-  tagline: ""
 
 maps:
   type: active
@@ -212,12 +183,7 @@ maps:
   url: "http://foreninger.uio.no/maps/"
   tagline: ""
 
-makers:
-  type: inactive
-  name: "Ifi-Makers"
-  real: "Ifi-Makers"
-  url: "http://sonen.ifi.uio.no/"
-  tagline: ""
+
 
 # Trifektaen
 cyb:
@@ -259,7 +225,7 @@ koordinator:
       end: 2020V
       real: "Andreas Nyborg Hansen"
     - start: 2020V
-      end: 2021V
+      end: 2022V
       real: "Eirik Solheim Ølberg"
     - start: 2022V
       end: 2023V
@@ -268,11 +234,11 @@ koordinator:
       end: current
       real: "Philip Høeg Eriksen"
 
-okonomians:
+sekretær:
   type: role
   name: "Sekretær"
   former_name: "Økonomiansvarlig"
-  real: Peter Hjelle Petersen-Øverleir"
+  real: "Peter Hjelle Petersen-Øverleir"
   url: ""
   tagline: "Referent-, søknads- og rapporteringsansvarlig i Fordelingsutvalget."
   periods:
@@ -290,14 +256,14 @@ okonomians:
       real: "Jeanette Kirkerud"
     - start: 2022V
       end: 2023V
-      real: ""
-    - start: 2022V
-      end: 2023V
       real: "Mohammed Danial Anwar"
-    - start: 2023V
+    - start: 2023
+      # start_semester_value is a fix for the sorting that works if there is an overlapping year 
+      start_semester_value: 1
       end: 2023H
       real: "Elias Ramsvik"
-    - start: 2023H
+    - start: 2023
+      start_semester_value: 2
       end: 2024V
       real: "Karoline Opsahl Nilsen og Kari Sande Øfstbø"
     - start: 2024V
@@ -355,3 +321,46 @@ rotor:
   name: "IFI Rotor"
   real: "IFI Rotor - Multikopterforening for studenter"
   url: "https://www.facebook.com/ifirotor"
+
+appsolutt:
+  type: inactive
+  name: "Appsolutt"
+  real: "Appsolutt"
+  url: "http://www.appsoluttuio.no/"
+  tagline: "Appsolutt er en studentforening for alle som er interesserte i apputvikling"
+  former_tag:
+    - applitude
+
+homebrew:
+  type: inactive
+  name: "Homebrew"
+  real: "Homebrew"
+  url: "http://diw02.uio.no/blogg"
+  tagline: "Homebrew skal fremme kunnskap og interesse om brygging av øl og vin blant studenter ved Institutt for Informatikk"
+
+ifipodcast:
+  type: inactive
+  name: "IFI-Podcast"
+  real: "IFI-Podcast"
+  url: "https://www.facebook.com/IFIPodcast/"
+
+ifriluft:
+  type: inactive
+  name: "iFriluft"
+  real: "iFriluft"
+  url: "https://www.facebook.com/ifriluft/"
+  tagline: "iFriluft er en forening som fremmer fysisk aktivitet og friluftsliv blant IFI-studenter"
+
+spillutvikling:
+  type: inactive
+  name: "IFI-spillutvikling"
+  real: "IFI-spillutvikling"
+  url: "http://www.mn.uio.no/ifi/livet-rundt-studiene/organisasjoner/ifi-spillutvikling.html"
+  tagline: ""
+
+makers:
+  type: inactive
+  name: "Ifi-Makers"
+  real: "Ifi-Makers"
+  url: "http://sonen.ifi.uio.no/"
+  tagline: ""
