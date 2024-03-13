@@ -30,6 +30,17 @@ breadcrumb: yes
         {% assign meeting_files = site.static_files | where_exp: "file","file.path contains 'meetings'" %}
         {% assign meeting_files = meeting_files | where_exp: "file","file.path contains short_code" | reverse%}
 
+
+        {% assign assoc_previous_names = assoc_data.former_tag %}
+        {% if assoc_previous_names.size > 0 %}
+          <h4>Også tidligere kjent som: {{ assoc_previous_names | join: ', ' }}</h4>
+          {% for previous_name in assoc_previous_names %}
+            {% assign assoc_previous_code = previous_name | downcase %}
+            {% assign meeting_files_previous = site.static_files | where_exp: "file","file.path contains assoc_previous_code" | reverse%}
+            {% assign meeting_files = meeting_files | concat: meeting_files_previous %}
+          {% endfor %}
+        {% endif %}
+
         {% assign first_file = meeting_files | first%}
         {% assign tmp_year = first_file.path | split:"/"%}
         {% assign tmp_year = tmp_year[2]%}
@@ -91,4 +102,3 @@ breadcrumb: yes
     {% endif %}
   </div>
 </div>
-

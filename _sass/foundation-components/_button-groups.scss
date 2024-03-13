@@ -138,7 +138,7 @@ $button-group-border-width: 1px !default;
 
   // We use this to make the buttons even width across their container
   @if $even {
-    width: percentage((100/$even) / 100);
+    width: percentage(calc((calc(100 / $even)) / 100));
     button, .button { width: 100%; }
   }
 }

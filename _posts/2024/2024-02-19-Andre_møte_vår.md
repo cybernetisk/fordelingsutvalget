@@ -24,7 +24,7 @@ not_attending:
 other_attending:
     - Sifi
     - IF1
-    - Toastjærn
+    - Toast
     - Foreningsfesten
 
 

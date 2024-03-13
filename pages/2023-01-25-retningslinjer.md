@@ -3,10 +3,10 @@ layout: page
 title: "Retningslinjer for søknader om støtte fra fordelingsutvaget"
 subheadline: ""
 teaser: ""
-permalink: /retningslinjer/
+permalink: /retningslinjer/2023-01/ #TODO:Change permalink so that it isn't overlapping with never file
 ---
 
-Sist endret: 26/4-2022
+Sist endret: 25/1-2022
 
 ## 1 Formål
 

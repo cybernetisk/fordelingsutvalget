@@ -3,7 +3,7 @@ layout: page
 title: "Vedtekter for Fordelingsutvalget ved Institutt for informatikk, UiO"
 subheadline: ""
 teaser: ""
-permalink: /vedtekter/
+permalink: /vedtekter-2022-02/
 ---
 
 Sist endret: 22/2-2022
@@ -116,5 +116,5 @@ e) Før utbetaling av midler skal foreningen som søker signere på at pengene b
 a) Utvalget kan oppløses ved at minst 2/3 av de representerte foreningene stemmer for oppløsning på to etterfølgende møter med minimum 14 dagers mellomrom.
 
 b) Utvalget skal oppløses dersom alle de representerte foreningene trekker seg fra utvalget.
-     
+
 c) Ved oppløsning av utvalget vil dets midler og eiendeler overføres tilbake til foreningene som donerte midlene. Midler og eiendeler vil bli fordelt etter hvor mye den enkelte forening har gitt i innskudd.

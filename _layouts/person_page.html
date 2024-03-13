@@ -10,10 +10,8 @@ breadcrumb: yes
     {% assign short_code = page.title | downcase %}
     {% assign assoc_data = site.data.associations[short_code] %}
 
-    <h1>{{ assoc_data.real }}</h1>
-    {% if assoc_data.real != assoc_data.name %}
-      <em>Også kjent som {{ assoc_data.name }}.</em>
-    {% endif %}
+    <h1>{{ assoc_data.name }}</h1>
+    <em>Nåværende {{ assoc_data.name | downcase }} - {{ assoc_data.real }}.</em>
     
     <blockquote>
       {{ assoc_data.tagline | markdownify }}
@@ -27,12 +25,18 @@ breadcrumb: yes
     {% if assoc_data.periods %}
       <h2>Innehavere av rolle</h2>
       <ul>
-        {% assign sorted_periods = assoc_data.periods | sort: "start" %}
+        {% assign sorted_periods = assoc_data.periods | sort: "start" | reverse %}
         {% for period in sorted_periods %}
           {%- if period.end != "current" -%}
-          <li>{{ period.start }}–{{ period.end }}<br />{{ period.real }}</li>
+            {% if period.start_semester_value == 1 %}
+              <li>{{ period.start }}V–{{ period.end }}<br />{{ period.real }}</li>
+            {% elsif period.start_semester_value == 2 %}
+              <li>{{ period.start }}H–{{ period.end }}<br />{{ period.real }}</li>
+            {% else %}
+              <li>{{ period.start }}–{{ period.end }}<br />{{ period.real }}</li>
+            {% endif %}
           {%- else -%}
-          <li>{{ period.start }}-nåværende<br />{{ assoc_data.real }}</li>
+            <li>{{ period.start }}-nåværende<br />{{ assoc_data.real }}</li>
           {%- endif -%}
         {% endfor %}
       </ul>
