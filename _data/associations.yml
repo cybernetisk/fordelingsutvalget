@@ -89,7 +89,7 @@ lavterskel:
   url: "https://ififui.no/"
   tagline: ""
 
-studentavis:
+output:
   type: active
   name: "Output"
   real: "ifi-avis"
