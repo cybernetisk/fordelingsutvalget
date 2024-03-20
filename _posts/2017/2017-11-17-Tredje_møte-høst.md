@@ -119,7 +119,7 @@ Forslag om å godkjenne søknad i sin helhet.
 
 **Enstemmig vedtatt, FU Støtter DEFI det det fulle med 4750kr**
 
-4.5 ### DUKK {#soknad-5}
+### 4.5 DUKK {#soknad-5}
 - Forklarer søknad muntlig
 - Forklarer lett om sporten DiscGolf
 - Koordinator påpeker at FU ikke normalt ikke støtter eiendeler.
