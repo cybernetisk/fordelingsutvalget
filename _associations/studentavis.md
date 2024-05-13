@@ -1,3 +1,0 @@
----
-layout: assoc_page
----
