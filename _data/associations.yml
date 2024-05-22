@@ -89,6 +89,14 @@ lavterskel:
   url: "https://ififui.no/"
   tagline: ""
 
+padel:
+  type: active
+  name: "IFIPDL"
+  real: "IFIPDL"
+  url: "https://www.mn.uio.no/ifi/livet-rundt-studiene/organisasjoner/ifipdl.html"
+  tagline: ""
+
+
 output:
   type: active
   name: "Output"
