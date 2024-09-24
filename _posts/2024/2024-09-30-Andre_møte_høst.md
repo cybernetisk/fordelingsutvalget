@@ -4,7 +4,7 @@ title: Andre møte høst 2024
 subheadline: "Møte i Fordelingsutvalget"
 
 time: 16:15:00
-published: false
+published: true
 referent: "Peter Petersen-Øverleir"
 
 attending:
