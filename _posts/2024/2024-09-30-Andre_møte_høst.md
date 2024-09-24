@@ -27,6 +27,7 @@ other_attending:
 ## Sak 2 Godkjenning av agenda {#agenda}
 ## Sak 3 Godkjenning av referat {#referat}
 ## Sak 4 FUI
+## Sak 4.5 FU innstemming av styremedlemmer
 ## Sak 5 Behandling av søknader {#soknader}
 ### 5.1 - FIFI {#soknad-1}
 ### 5.2 - Ifipadl {#soknad-2}
