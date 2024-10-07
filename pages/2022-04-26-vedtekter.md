@@ -70,6 +70,8 @@ a) Utvalget skal drives av minimum 2 medlemmer som velges for ett år på allmø
 
 b) Verv i utvalget er som følger: koordinator og sekretær og andre verv Fordelingsutvalget selv setter ned ved behov.
 
+c) Verv i fordelingsutvalget kan etterfylles dersom 2/3 av representantene i FU stemmer for.
+
 ## §7. Styret og dets oppgaver
 
 a) Koordinator tar seg av all innkommende og utgående korrespondanse og sørger for at foreningene overholder pliktene sine. Koordinator er ansvarlig for å kalle inn til møter.
