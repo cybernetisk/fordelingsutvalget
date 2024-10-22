@@ -3,7 +3,7 @@ layout: page
 title: "Retningslinjer for søknader om støtte fra fordelingsutvaget"
 subheadline: ""
 teaser: ""
-permalink: /retningslinjer/2023-10/
+permalink: /retningslinjer/
 ---
 
 Sist endret: 10/25-2023
@@ -78,7 +78,7 @@ Fordelingsutvalget kan kreve hele eller deler av tildelt beløp, og utestenge fo
 
 ### Fastsatte satser
 
-1. Maksimalt 150 kroner per person for mat til et arrangement. Støtte til mat
+1. Maksimalt 200 kroner per person for mat til et arrangement. Støtte til mat
    skal hovedsakelig gå til arrangementer med en slik størrelse og varighet at
    det er naturlig å spise. Det forventes at man ikke maksimerer beløpet hver
    gang man skal ha mat på et arrangement.
