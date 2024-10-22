@@ -142,63 +142,105 @@ Hvordan gjøre FU mer attraktivt:
 
 **Referent måtte dra så ny referent tar over**
 
-
+Ny referent er: Astrid Sofie Festøy
 
 ### 6.1 - Semesterstøtte - IFI Padel  {#soknad-1}
 
+To arrangementer, styremiddag og snacks. Det kommenteres at det er litt forskjellig tall oppgitt. Det ene avsnittet er glemt fjernet. Når skal arrangementene holdes? Etter starten av mai, se ann eksamener til de i styret. Slutten og starten av mai. Navet kommenterer at det er mye å bruke 150kr på snacks.
 
+Ifi Padel svarer at det skulle være 600 kr per arrangement for snacks per arrangement. Vi endrer søknaden til 30kr per pers per arrangement. Kr 1200.
+Hvor mange baner er det snakk om? 6 baner, de får for kr 300 i timen for racketer og baller. Kommenteres at det er bra at de promoterer mer på ifi studenter.
+Vi stemmer over kr 12 300 til ifi Padel, i stedet for 17100.
+
+* Enstemmig for.
 
 ### 6.2 - Prosjektstøtte - IFI-Logen {#soknad-2}
 
+Hvor mye har dere gjort dette semesteret?
 
+* Vi har vært med på beer pong turnering, ølympiske leker, badstue.
+
+Ingen flere kommentarer. Enstemmig for kr 3150.
 
 ### 6.3 - Semesterstøtte - BrewFi {#soknad-3}
 
-
+Semesterstøtte. Arrangement vinsmaking for kr 16 875.
+Det kommenteres at arrangementet har vært. Det er på grunn av en feil fra FU.
+Var det vellykket? Ja, det var mellom 60 og 70 stk.
+Fordi det er alkohol skal det tas opp som en egen post, men det er søkt om som semesterstøtte.
+Enstemmig for.  
 
 ### 6.4a - Prosjektstøtte - Toastjærn {#soknad-4a}
 
-
+De vil ha nytt toastjern. De steker toast og trenger jern. Det blir meldt bekymring for prisen, om det er nok til å dekke et holdbart produkt. Det kommenteres at det må oppføres i en eiendelsoversikt vi har.
+Enstemmig for.
 
 ### 6.4b - Prosjektstøtte - Toastjærn {#soknad-4b}
 
-
+Støtte til toast dag. Det søkes om 1150kr totalt, ikke for hver toast.
+Enstemmig for.
 
 ### 6.5a - Prosjektstøtte - Digitus {#soknad-5a}
 
-
+Vi ser bort ifra digitus søknad 5a.
 
 ### 6.5b - Prosjektstøtte - Digitus {#soknad-5b}
 
+1010 workshop
 
+* Mangler dato. Blir oppfordret til å ikke ha det samme dag som pomodoro fokus med progsys som også deler ut gratis mat.
 
 ### 6.5c - Prosjektstøtte - Digitus {#soknad-5c}
 
+Eksamensgrilling
 
+* Mangler dato. Blir oppfordret til å ikke ha det samme dag som andre arrangementer med mat.
+* Til info, grillene ligger på dagen-lageret. Men er muligens i eierskap av fadderstyret.
 
 ### 6.5d - Prosjektstøtte - Digitus {#soknad-5d}
 
+Styret og internarrangementer
 
+* Kommentar fra digitus; vi burde kanskje hatt to søknader.
+* Mikro har arrangement samme kveld, 150kr x antall interne som ikke er styremedlemmer og 450kr x antall styremedlemmer. Hvis man arrangerer styrekveld og internkveld samme kveld så får ikke forening 600kr per styremedlem den kvelden.
 
 ### 6.5e - Prosjektstøtte - Digitus {#soknad-5e}
 
+Holmenkollstafetten
 
+* Kommentar fra digitus, reell sum for bankett er 2250.
+* Kommentar fra FU koordinator. Vanligvis skal alle arrangementer være for alle, men HKS er sundt og fint og vi gjør et unntak på det. Dere har planlagt en bankett.
+* Kommentar fra digitus: gjøre det best for alle å slå sammen internkvelden og banketten til en.
+* Hva er tanker om bankett? Det er allerede et internarrangement, skal man få dekket 150kr per person. FU koordinator kommenterer at det er et billig alternativ for noe sosialt hyggelig. Hva er satsene? FU kommenterer at 150kr er en fin sats. Det burde skrives ned at vi oppfordrer til holmenkollstafetten og sats på 150kr per person for bankett.
+* Enstemmig for.
 
 ### 6.5f - Prosjektstøtte - Digitus {#soknad-5f}
 
+Genfors
 
+* Pizza for 25 pers, 10 pizzaer. Total beløpet er 2950
+* Enstemmig for
 
 ### 6.6 - Prosjektstøtte - ProgSys {#soknad-6}
 
+OS-kveld
 
+* Mangler kommentar på hva summen går til. Det skal gå til pizza.
+* Til neste gang oppfordrer vi til å unngå tirsdager og torsdager. FU tenkte det var nisje, men så at det var populært.
 
 ### 6.7 - Semesterstøtte - ProgSys {#soknad-7}
 
+Fokus
 
+* Fokus over 9 dager. Ingen kommentarer.
+* Enstemmig for.
 
 ### 6.8 - Prosjektstøtte - MAPS {#soknad-8}
 
-
+* Bonger 2 500kr. Dette er en ettersøknad fra tidligere for å kunne fylle på 10kr per bong så det er 70kr per bong totalt. 60kr dekker ikke til så mye.
+* Enstemmig for.
 
 ### 6.9 - Prosjektstøtte - Defi {#soknad-9}
 
+* Ettersøknad fra linjefesten som var nå. 3500 kr. Ingen kommentarer.
+* Enstemmig for.
