@@ -6,7 +6,7 @@ teaser: ""
 permalink: /retningslinjer/2023-10/
 ---
 
-Sist endret: 10/25-2023
+Sist endret: 25/10-2023
 
 ## 1 Formål
 

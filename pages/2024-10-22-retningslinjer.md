@@ -6,7 +6,7 @@ teaser: ""
 permalink: /retningslinjer/
 ---
 
-Sist endret: 10/25-2023
+Sist endret: 22/10-2024
 
 ## 1 Formål
 
@@ -71,6 +71,7 @@ Fordelingsutvalget kan kreve hele eller deler av tildelt beløp, og utestenge fo
 1. Utvalget kan til en hver tid kreve at minst ett styremedlem skal ha gjennomført et relevant regnskapskurs i regi av SiO Foreninger.
 
 ## 11 Overlappende arrangementer
+
 1. Arrangementer med et budsjett på over 500 kr skal ikke gå samme dag.
 2. Arrangementer skal ikke holdes på tirsdager eller torsdager på samme tidspunkt som Navet sine bedriftspresentasjoner.
 
@@ -94,7 +95,7 @@ Fordelingsutvalget kan kreve hele eller deler av tildelt beløp, og utestenge fo
 
 ### Eiendeler
 
-6. Ved søknad om eiendeler stilles særskilt krav om begrunnelse, slik at utvalget kan stole på at gjenstandene vil komme studentmassen til gode. Det bør foreligge en plan for oppbevaring og vedlikehold, og foreningen bør kunne vise til stabil drift over tid. Ved oppstart av nye foreninger kan spesielt hensyn vises for eiendeler som er veldig naturlig for foreningens drift.
+1. Ved søknad om eiendeler stilles særskilt krav om begrunnelse, slik at utvalget kan stole på at gjenstandene vil komme studentmassen til gode. Det bør foreligge en plan for oppbevaring og vedlikehold, og foreningen bør kunne vise til stabil drift over tid. Ved oppstart av nye foreninger kan spesielt hensyn vises for eiendeler som er veldig naturlig for foreningens drift.
 
 ### Frie midler
 
