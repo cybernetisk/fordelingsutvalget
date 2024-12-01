@@ -4,7 +4,7 @@ title: Fjerde møte høst 2024
 subheadline: "Møte i Fordelingsutvalget"
 
 time: 16:15:00
-published: false
+published: true
 referent: "Peter Petersen-Øverleir"
 
 attending:
@@ -31,6 +31,9 @@ other_attending:
 ### 4.2 -  Quizifi {#soknad-2}
 ### 4.3 -  FIFI {#soknad-3}
 ### 4.4 -  IFI Rastløs {#soknad-4}
+#### 4.4a
+#### 4.4b
+
 ### 4.5 -  FUI {#soknad-5}
 ### 4.6 -  Digitus {#soknad-6}
 #### 4.6a
