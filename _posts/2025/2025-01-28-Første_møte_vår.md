@@ -37,3 +37,4 @@ other_attending:
 ### 4.7b - Maps {#soknad-7}
 ### 4.8a -  {#soknad-8}
 ### 4.8b -  {#soknad-8}
+## Sak 5 Kommende forslag om vedtektsendring
