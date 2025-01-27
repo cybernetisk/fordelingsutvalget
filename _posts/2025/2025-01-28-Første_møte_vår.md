@@ -38,3 +38,4 @@ other_attending:
 ### 4.8a - Digitus {#soknad-8}
 ### 4.8b - Digitus {#soknad-8}
 ## Sak 5 Kommende forslag om vedtektsendring
+## Sak 6 Demo av FU-plattform
