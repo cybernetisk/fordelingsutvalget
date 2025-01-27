@@ -35,6 +35,6 @@ other_attending:
 ### 4.6 - Mikro {#soknad-6}
 ### 4.7a - Maps {#soknad-7}
 ### 4.7b - Maps {#soknad-7}
-### 4.8a -  {#soknad-8}
-### 4.8b -  {#soknad-8}
+### 4.8a - Digitus {#soknad-8}
+### 4.8b - Digitus {#soknad-8}
 ## Sak 5 Kommende forslag om vedtektsendring
