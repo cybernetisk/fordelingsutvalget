@@ -195,6 +195,12 @@ quizifi:
   url: "https://peoply.app/orgs/quizifi"
   tagline: ""
 
+pitch:
+  type: active
+  name: "PiTCH"
+  real: "PiTCH"
+  url: ""
+  tagline: ""
 
 # Programmering
 
