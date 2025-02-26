@@ -202,6 +202,13 @@ pitch:
   url: ""
   tagline: ""
 
+pgaifi:
+  type: active
+  name: "PGAIFI"
+  real: "PROGRAMMERS GOLF ASSOCIATION AT INSTITUTT FOR INFORMATIKK"
+  url: ""
+  tagline: ""
+
 # Programmering
 
 
