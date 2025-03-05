@@ -247,7 +247,7 @@ navet:
 koordinator:
   type: role
   name: "Koordinator"
-  real: "Philip Høeg Eriksen"
+  real: "Sandra Marie Kubosch"
   url: ""
   tagline: "Møte- og søknadskoordinator i Fordelingsutvalget"
   periods:
@@ -267,14 +267,17 @@ koordinator:
       end: 2023V
       real: "Peter Kristiansen"
     - start: 2023V
-      end: current
+      end: 2025V
       real: "Philip Høeg Eriksen"
+    - start: 2025V
+      end: current
+      real: "Sandra Marie Kubosch"
 
 sekretær:
   type: role
   name: "Sekretær"
   former_name: "Økonomiansvarlig"
-  real: "Peter Hjelle Petersen-Øverleir"
+  real: "Christian Hasvik"
   url: ""
   tagline: "Referent-, søknads- og rapporteringsansvarlig i Fordelingsutvalget."
   periods:
@@ -303,8 +306,11 @@ sekretær:
       end: 2024V
       real: "Karoline Opsahl Nilsen og Kari Sande Øfstbø"
     - start: 2024V
+      end: 2025V
       real: "Peter Hjelle Petersen-Øverleir"
+    - start: 2025V
       end: current
+      real: "Christian Hasvik"
 
 # Utgåtte foreninger. RIP <3
 svett:
