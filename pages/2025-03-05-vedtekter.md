@@ -6,7 +6,7 @@ teaser: ""
 permalink: /vedtekter/
 ---
 
-Sist endret: 25/10-2023
+Sist endret: 05/03-2025
 
 ## §1. Utvalgets navn
 
@@ -96,7 +96,7 @@ e) Alle foreninger tilknyttet Institutt for informatikk har krav på å motta in
 
 ## §10. Utvalgets midler
 
-a) Utvalgets midler skal brukes i henhold til utvalgets formål.
+a) Utvalgets midler skal brukes i henhold til utvalgets formål. Fordelingsutvalget kan i løpet av et kalenderår dele ut inntil 80% av overskuddet i Navet og Dagen fra det foregående kalenderåret. Beløpet som kan deles ut fastsettes på fordelingsutvalgets årsmøte.
 
 b) All bruk må godkjennes av foreningenes representanter i utvalget.
 
