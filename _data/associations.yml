@@ -15,7 +15,7 @@ progsys:
   type: active
   name: "ProgSys"
   real: "IFI-ProgSys"
-  url: "http://foreninger.uio.no/prognett/"
+  url: "https://progsys.no/"
   tagline: "Linjeforeningen ved studiet Informatikk: programmering og systemarkitektur"
   former_tag:
     - prognett
