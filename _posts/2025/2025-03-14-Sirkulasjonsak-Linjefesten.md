@@ -16,7 +16,7 @@ Med vennlig hilsen
 Sandra Marie Kubosch
 FU-Koordinator
 
-## Sirkulasjonsak - DEFI jobbsøkekurs {#soknad-1}
+## Sirkulasjonsak - Linjefesten V25 {#soknad-1}
 
 ### For
 
@@ -28,10 +28,9 @@ FU-Koordinator
 * FUI
 * CYB
 * Maps
+* LI:ST
+* Navet
 
 ### Mot
 
 ### Avholdende
-
-* LI:ST
-* Navet
