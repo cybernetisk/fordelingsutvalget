@@ -35,6 +35,6 @@ other_attending:
 ### 5.5 - Toastjærn {#soknad-5}
 ### 5.6 - Navet {#soknad-6}
 ### 5.7 - Dagen@IFI {#soknad-7}
-### 5.8 - FUI {#soknad-8}
-### 5.9 - FUI {#soknad-9}
-### 5.10 - Cybernetisk Selskab {#soknad-10}
+### 5.8a - FUI {#soknad-8}
+### 5.8b - FUI {#soknad-9}
+### 5.9 - Cybernetisk Selskab {#soknad-10}
