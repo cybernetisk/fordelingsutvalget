@@ -1,6 +1,6 @@
 ---
 layout: meeting
-title: Tredje møte vår
+title: Tredje møte Vår 2025
 subheadline: "Møte i Fordelingsutvalget"
 
 time: 16:15:00
