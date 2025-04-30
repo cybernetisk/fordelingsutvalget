@@ -3,7 +3,7 @@ layout: page
 title: "Retningslinjer for søknader om støtte fra fordelingsutvaget"
 subheadline: ""
 teaser: ""
-permalink: /retningslinjer/2024-10
+permalink: /retningslinjer/
 ---
 
 Sist endret: 22/10-2024
@@ -87,11 +87,12 @@ Fordelingsutvalget kan kreve hele eller deler av tildelt beløp, og utestenge fo
    og lignende. For etablerte foreninger kan det gjøres unntak for turer av stort
    omfang og som dekker store deler av studentmassen. Støtten må da ikke
    overstige 50 % av kostnadene til arrangementet.
-3. Arrangementer som bruker FU-støtte på alkohol skal alltid søkes om som prosjektstøtte slik at søknaden kan behandles av utvalget. Punktet gjelder ikke for interne arrangementer eller styremiddager.
+3. Arrangementer som bruker FU-støtte på alkohol skal alltid søkes om som prosjektstøtte slik at søknaden kan behandles av utvalget. Punktet gjelder ikke for interne arrangementer eller styremiddager. Punktet gjelder for bonger på Escape dersom de kan brukes for å kjøpe alkohol.  
 4. Styremiddag og andre styreaktiviteter støttes med 450 kr per person per semester. For foreninger med lav aktivitet støttes ikke styremiddager eller sosiale goder til styret.
-5. Arrangementer for interne i foreningen støttes med opp til 150 kr per person per semester. For foreninger med mange interne bør hvert arrangement behandles spesielt.
-6. Merch, som f.eks. gensere, skal holdes i foreningen og gå i arv om det ikke er en egenandel. Innkjøp av merch skal tas opppå møte i FU og godkjennes der.
-7. Møtemat til internmøter kan støttes med opp til 150 kr i måneden.
+5. Arrangementer for interne i foreningen støttes med opp til 200 kr per person per semester. For foreninger med mange interne bør hvert arrangement behandles spesielt.
+6. Merch, som f.eks. gensere, skal holdes i foreningen og gå i arv om det ikke er en egenandel. Innkjøp av merch skal tas opppå møte i FU og godkjennes der. 
+  Ved merch som ikke skal gå i arv: Hettegensere, gensere, o.l. kan støttes med opptil 250 kr per person per semester. Tskjorter kan støttes med opptil 150 kroner per person per semester. Minimum egenandel må tilsvare minst 20% av prisen per del av merch, men foreningen står fritt til å velge egenandelen utover disse satsene. Pins, medaljer, klistremerker og lignende behandles særegent.
+7. Møtemat til internmøter kan støttes med opp til 250 kr i måneden.
 
 ### Eiendeler
 
