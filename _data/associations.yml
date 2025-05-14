@@ -81,7 +81,6 @@ realitifi:
   url: "https://www.facebook.com/realitifi"
   tagline: ""
 
-
 lavterskel:
   type: active
   name: "Lavterskel"
@@ -96,7 +95,6 @@ padel:
   url: "https://www.mn.uio.no/ifi/livet-rundt-studiene/organisasjoner/ifipdl.html"
   tagline: ""
 
-
 output:
   type: active
   name: "Output"
@@ -107,11 +105,11 @@ output:
     - output
     - avis
 
-
 fadderstyret:
   type: active
   name: "Fadderstyret"
   real: "Fadderstyret"
+  url: "https://www.mn.uio.no/ifi/livet-rundt-studiene/organisasjoner/fadderstyret.html"
 
 toast:
   type: active
@@ -126,7 +124,6 @@ brewfi:
   real: "BrewFI"
   url: "https://brewfi.no/"
   tagline: ""
-
 
 ordenen:
   type: active
@@ -156,6 +153,12 @@ foreningsfesten:
   url: ""
   tagline: "Samarbeid mellom foreningsaktive på instituttet for å lage en fest for de foreningsaktive på instituttet"
 
+quizifi:
+  type: active
+  name: "QuizIFI"
+  real: "QuizIFI"
+  url: "https://peoply.app/orgs/quizifi"
+  tagline: "Arrangerer grove og kule quizzer på ifi"
 
 
 # Sport og idrett
@@ -173,7 +176,6 @@ fifi:
   url: "http://diw07.uio.no/"
   tagline: "En sosial og sportslig forening ved instituttet"
 
-
 vifi:
   type: active
   name: "VIFI"
@@ -187,13 +189,6 @@ rastløs:
   real: "IFI Rastløs"
   url: "https://www.instagram.com/ifirastlos/"
   tagline: "Skal være et sosialt initiativ for å fremme aktivitet blant studenter  som tilhører Instituttet for Informatikk ved UiO. Ettersom foreningens  ønske er å utvide deltakernes aktivitetsrepertoar, vil foreningen  arrangere forskjellige fysiske og sosiale aktiviteter. Dette kan være  alt fra turer i marka, joggeturer, bading, tennis, hyttetur eller  andre sosiale sammenkomster."
-
-quizifi:
-  type: active
-  name: "Quiz IFI"
-  real: "Quiz IFI"
-  url: "https://peoply.app/orgs/quizifi"
-  tagline: ""
 
 pitch:
   type: active
