@@ -41,9 +41,9 @@ other_attending:
 ### 5.9a - LI:ST {#soknad-9a}
 ### 5.9b - LI:ST {#soknad-9b}
 ### 5.10 - MAPS {#soknad-10}
-### 5.11a -  {#soknad-11a}
-### 5.11b -  {#soknad-11b}
-### 5.11c -  {#soknad-11c}
-### 5.12a -  {#soknad-12a}
-### 5.12b -  {#soknad-12b}
-### 5.12c -  {#soknad-12c}
+### 5.11a - Prog.Sys() {#soknad-11a}
+### 5.11b - Prog.Sys() {#soknad-11b}
+### 5.11c - Prog.Sys() {#soknad-11c}
+### 5.12a - Cybernetisk Selskab {#soknad-12a}
+### 5.12b - Cybernetisk Selskab {#soknad-12b}
+### 5.12c - Cybernetisk Selskab {#soknad-12c}
