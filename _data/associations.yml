@@ -20,14 +20,15 @@ progsys:
   former_tag:
     - prognett
 
-list:
+maki:
   type: active
-  name: "LI:ST"
-  real: "Linjeforeningen for Informatikk: språkteknologi"
+  name: "MA:KI"
+  real: "Linjeforeningen for Informatikk: maskinlæring og kunstig intelligens"
   url: "https://www.facebook.com/LISTIFI"
-  tagline: "Linjeforeningen ved studiet Informatikk: språkteknologi"
+  tagline: "Vi predikerer god stemning"
   former_tag:
     - pisk
+    - list
 
 defi:
   type: active
