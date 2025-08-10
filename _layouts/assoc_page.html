@@ -25,56 +25,128 @@ breadcrumb: yes
       <div>
         {{post.content}}
 
-        <h2>Søknader fra {{ assoc_data.real }}</h2>
-
-        {% assign meeting_files = site.static_files | where_exp: "file","file.path contains 'meetings'" %}
-        {% assign meeting_files = meeting_files | where_exp: "file","file.path contains short_code" | reverse%}
-
+        <h2>Søknader fra {{ official_name }}</h2>
 
         {% assign assoc_previous_names = assoc_data.former_tag %}
         {% if assoc_previous_names.size > 0 %}
           <h4>Også tidligere kjent som: {{ assoc_previous_names | join: ', ' }}</h4>
-          {% for previous_name in assoc_previous_names %}
-            {% assign assoc_previous_code = previous_name | downcase %}
-            {% assign meeting_files_previous = site.static_files | where_exp: "file","file.path contains assoc_previous_code" | reverse%}
-            {% assign meeting_files = meeting_files | concat: meeting_files_previous %}
-          {% endfor %}
         {% endif %}
 
-        {% assign first_file = meeting_files | first%}
-        {% assign tmp_year = first_file.path | split:"/"%}
-        {% assign tmp_year = tmp_year[2]%}
-        {% assign cur_year = tmp_year[2]%}
+        
+        {% assign meeting_files = site.static_files | where_exp: "file", "file.path contains 'meetings'" %}
+        {% assign meeting_files = meeting_files | where_exp: "file", "file.path contains short_code" | reverse %}
+        
+        {% assign first_file = meeting_files | first %}
+        {% if first_file %}
+          {% assign tmp_year = first_file.path | split: "/" %}
+          {% assign cur_year = tmp_year[2] %}
 
-        {% for file in meeting_files %}
-          {% assign tmp_year = file.path | split:"/"%}
-          {% assign tmp_year = tmp_year[2]%}
-          {% if cur_year != tmp_year %}
-            {% if forloop.first == false %}
+          <h3>Søknader fra {{ assoc_data.name }}</h3>
+
+          
+          <h3>År {{ tmp_year[2] }} </h3>
+          <table>
+            <thead>
+              <tr>
+                <th>Dato</th>
+                <th>Lenke til møte</th>
+                <th>Lenke til søknad</th>
+              </tr>
+            </thead>
+            <tbody>
+          
+          {% for file in meeting_files %}
+            {% assign tmp_year = file.path | split: "/" %}
+            {% assign tmp_year = tmp_year[2] %}
+            {% if cur_year != tmp_year %}
               </tbody>
               </table>
+              <h3>År {{ tmp_year }} </h3>
+              <table>
+                <thead>
+                  <tr>
+                    <th>Dato</th>
+                    <th>Lenke til møte</th>
+                    <th>Lenke til søknad</th>
+                  </tr>
+                </thead>
+                <tbody>
+              {% assign cur_year = tmp_year %}
             {% endif %}
-            <h3>År {{tmp_year}} </h3>
-            <table>
-              <thead>
-                <tr>
-                  <th>Dato</th>
-                  <th>Lenke til møte</th>
-                  <th>Lenke til søknad</th>
-                </tr>
-              </thead>
-              <tbody>
-
-                {% assign cur_year = tmp_year%}
-              {% endif%}
-
-              {% if cur_year == tmp_year %}
-                {% assign file_url = file.path | absolute_path | split: "/"%}
+    
+            {% assign file_url = file.path | absolute_path | split: "/" %}
+            {% assign date_str = file_url[3] %}
+            {% assign meeting_path = site.posts | where_exp: "posts", "posts.url contains date_str" %}
+            {% assign meeting = meeting_path[0] %}
+            {% assign file_url = file.path | absolute_path %}
+    
+            <tr>
+              <td>
+                {{ date_str }}
+              </td>
+              <td>
+                {% if meeting.url %}
+                  <a href="{{ meeting.url | absolute_path }}"> {{meeting.title}} </a>
+                {% else %}
+                  <strong>Ingen møte funnet, legg det til!</strong>
+                {% endif %}
+              </td>
+              <td>
+                <a href="{{file_url}}" title="Read {{ file_url }}"> {{file.name}} </a>
+              </td>
+            </tr>
+          {% endfor %}
+          </tbody>
+          </table>
+        {% endif %}
+        
+        {% if assoc_previous_names.size > 0 %}          
+          {% for previous_name in assoc_previous_names %}
+            <h3>Søknader fra {{ previous_name }}</h3>
+            {% assign assoc_previous_code = previous_name | downcase %}
+            {% assign meeting_files_previous = site.static_files | where_exp: "file", "file.path contains assoc_previous_code" | reverse %}
+            
+            {% assign first_file = meeting_files_previous | first %}
+            {% if first_file %}
+              {% assign tmp_year = first_file.path | split: "/" %}
+              {% assign cur_year = tmp_year[2] %}
+              
+              <h3>År {{ tmp_year[2] }} </h3>
+              <table>
+                <thead>
+                  <tr>
+                    <th>Dato</th>
+                    <th>Lenke til møte</th>
+                    <th>Lenke til søknad</th>
+                  </tr>
+                </thead>
+                <tbody>
+              
+              {% for file in meeting_files_previous %}
+                {% assign tmp_year = file.path | split: "/" %}
+                {% assign tmp_year = tmp_year[2] %}
+                {% if cur_year != tmp_year %}
+                  </tbody>
+                  </table>
+                  <h3>År {{ tmp_year }} </h3>
+                  <table>
+                    <thead>
+                      <tr>
+                        <th>Dato</th>
+                        <th>Lenke til møte</th>
+                        <th>Lenke til søknad</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                  {% assign cur_year = tmp_year %}
+                {% endif %}
+        
+                {% assign file_url = file.path | absolute_path | split: "/" %}
                 {% assign date_str = file_url[3] %}
-                {% assign meeting_path = site.posts | where_exp: "posts","posts.url contains date_str" %}
-                {% assign meeting = meeting_path[0]%}
+                {% assign meeting_path = site.posts | where_exp: "posts", "posts.url contains date_str" %}
+                {% assign meeting = meeting_path[0] %}
                 {% assign file_url = file.path | absolute_path %}
-
+        
                 <tr>
                   <td>
                     {{ date_str }}
@@ -90,10 +162,12 @@ breadcrumb: yes
                     <a href="{{file_url}}" title="Read {{ file_url }}"> {{file.name}} </a>
                   </td>
                 </tr>
-              {% endif%}
-            {% endfor %}
+              {% endfor %}
               </tbody>
-            </table>
+              </table>
+            {% endif %}
+          {% endfor %}
+        {% endif %}
       </div>
     {% else %}
       <div>
