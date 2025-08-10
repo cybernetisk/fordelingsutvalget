@@ -27,8 +27,8 @@ maki:
   url: "https://www.facebook.com/LISTIFI"
   tagline: "Vi predikerer god stemning"
   former_tag:
-    - pisk
     - list
+    - pisk
 
 defi:
   type: active
