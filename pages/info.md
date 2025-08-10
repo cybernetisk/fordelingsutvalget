@@ -37,7 +37,7 @@ Det sitter i 10 foreninger med stemmerett i utvalget. Disse er:
 - [FUI](https://ififui.no/)
 - [Mikro](https://www.facebook.com/pages/Studentforeningen-Mikro/151779014851965)
 - [navet](http://ifinavet.no/)
-- [LI:ST](http://pisk.ifi.uio.no/)
+- [MA:KI](http://pisk.ifi.uio.no/)
 - [ProgSys](http://foreninger.uio.no/prognett/)
 - [MAPS](https://foreninger.uio.no/maps/)
   
