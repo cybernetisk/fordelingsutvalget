@@ -26,4 +26,5 @@ other_attending:
 ## Sak 1 Godkjenning av innkalling {#innkalling}
 ## Sak 2 Godkjenning av agenda {#agenda}
 ## Sak 3 Godkjenning av referat {#referat}
-## Sak 4 Behandling av søknader {#soknader}
+## Sak 4 Konkretisering av intensjonssøknader
+## Sak 5 Behandling av søknader {#soknader}
