@@ -1,6 +1,6 @@
 ---
 layout: meeting
-title: Første møte Høst
+title: Første møte Høst 2025
 subheadline: "Møte i Fordelingsutvalget"
 
 time: 16:15:00
