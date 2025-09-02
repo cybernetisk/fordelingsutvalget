@@ -36,8 +36,7 @@ other_attending:
 ### 6.3b - OUTPUT {#soknad-03b}
 ### 6.4 - SIFI {#soknad-04}
 ### 6.5 - RealitIFI {#soknad-05}
-### 6.6a - Cybernetisk Selskab IFI-Skitur {#soknad-06a}
-### 6.6b - Cybernetisk Selskab {#soknad-06b}
+### 6.6 - Cybernetisk Selskab IFI-Skitur {#soknad-06}
 ### 6.7a - Defi {#soknad-07a}
 ### 6.7b - Defi {#soknad-07b}
 ### 6.8 - Digitus {#soknad-08}
