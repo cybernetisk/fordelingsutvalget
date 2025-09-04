@@ -45,3 +45,4 @@ other_attending:
 ### 6.11 - Mikro {#soknad-11}
 ### 6.12a - ProgSys {#soknad-12a}
 ### 6.12b - ProgSys {#soknad-12b}
+## Sak 7 Eventuelt
