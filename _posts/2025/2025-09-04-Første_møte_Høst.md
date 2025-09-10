@@ -1,4 +1,4 @@
-    ---
+---
 layout: meeting
 title: Første møte Høst 2025
 subheadline: "Møte i Fordelingsutvalget"
@@ -20,7 +20,6 @@ attending:
     - progsys
 
 not_attending:
-    -
 
 other_attending:
     - rastløs
@@ -28,7 +27,6 @@ other_attending:
     - output
     - sifi
     - realitifi
-
 
 ---
 
@@ -205,12 +203,12 @@ Ettersøking av penger brukt under fadderuka av DEFI-styret.
 
 ### 6.8 - Digitus {#soknad-08}
 
-##### Julegrøt
+#### Julegrøt
 Tanken er å invitere alle i tredje-etasje, åpent for absolutt alle. Digitus har har revidert antall personer og sats.
 - vennligst invester i riskoker (Dagen)
 - God søknad, god semesterrapport. (Koordinator)
 
-##### Boilerroom
+#### Boilerroom
 Hva er boilerroom?
 - DJ, boiler + euler (Euler er linjerommet til Digitus)
 
