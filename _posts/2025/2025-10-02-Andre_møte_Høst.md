@@ -30,11 +30,13 @@ other_attending:
 ### 5.3 - PGA_IFI {#soknad-03}
 ### 5.4 - FIFI {#soknad-04}
 ### 5.5 - IFI-Rastløs {#soknad-05}
-### 5.5 - Defi {#soknad-06}
-### 5.6 - Digitus {#soknad-07}
-### 5.7a - MAPS {#soknad-08a}
-### 5.7b - MAPS {#soknad-08b}
-### 5.8 - Mikro {#soknad-09}
-### 5.9 - Navet {#soknad-10}
-### 5.10 - ProgSys {#soknad-11}
+### 5.6 - Defi {#soknad-06}
+### 5.7 - Digitus {#soknad-07}
+### 5.8a - MAPS {#soknad-08a}
+### 5.8b - MAPS {#soknad-08b}
+### 5.9 - Mikro {#soknad-09}
+### 5.10 - Navet {#soknad-10}
+### 5.11 - ProgSys {#soknad-11}
+### 5.12 - Cybernetisk Selskab Galla {#soknad-12}
+
 ## Sak 6 Eventuelt
