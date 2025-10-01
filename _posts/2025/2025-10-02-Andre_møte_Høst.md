@@ -39,5 +39,4 @@ other_attending:
 ### 5.11 - Navet {#soknad-11}
 ### 5.12 - ProgSys {#soknad-12}
 
-## Sak 6 FU-Nettsiden
-## Sak 7 Eventuelt
+## Sak 6 Eventuelt
