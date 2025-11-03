@@ -305,7 +305,7 @@ Fikk dere penger fra admin til rollup?
 
 ### Sak 5.12 Mikro {#soknad-12}
 
-*Semesterstøttesøknad på 4000 kr for juleavslutning*
+*Prosjektstøttesøknad på 4000 kr for juleavslutning*
 
 **Enstemmig vedtatt**
 
