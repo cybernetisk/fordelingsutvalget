@@ -1,0 +1,36 @@
+---
+layout: meeting
+title: Møte template
+subheadline: "Møte i Fordelingsutvalget"
+
+time: 16:15:00
+published: false
+referent: "Christian Hasvik"
+
+attending:
+    - 
+
+not_attending:
+    -
+
+other_attending:
+    -
+
+
+---
+
+* TOC
+{:toc}
+
+
+## Sak 1 Godkjenning av innkalling {#innkalling}
+## Sak 2 Godkjenning av agenda {#agenda}
+## Sak 3 Godkjenning av referat {#referat}
+## Sak 4 Behandling av søknader {#soknader}
+### 4.1 -  {#soknad-1}
+### 4.2 -  {#soknad-2}
+### 4.3 -  {#soknad-3}
+### 4.4 -  {#soknad-4}
+### 4.5 -  {#soknad-5}
+### 4.6 -  {#soknad-6}
+## Sak 5 Eventuelt
