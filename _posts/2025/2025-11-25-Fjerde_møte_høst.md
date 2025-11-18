@@ -43,3 +43,4 @@ other_attending:
 ## Sak 5 Eventuelt
 ### Sak 5.1 Utdeling av penger i Januar
 ### Sak 5.2 Semesterrapport
+### Sak ??? Annet eventuelt
