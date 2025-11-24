@@ -58,21 +58,20 @@ sifi:
   real: "Sikkerhet på IFI"
   tagline: "Linjeforeningen for masterprogrammet Informatikk: informasjonssikkerhet"
 
-# Annet
+pitch:
+  type: active
+  name: "PiTCH"
+  real: "PiTCH"
+  url: ""
+  tagline: ""
 
+# Annet
 
 fui:
   type: active
   name: "FUI"
   real: "Fagutvalget ved Institutt for informatikk"
   url: "https://ififui.no/"
-  tagline: ""
-
-fokus:
-  type: active
-  name: "IFI-fokus"
-  real: "IFI-fokus"
-  url: "https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=930732273"
   tagline: ""
 
 realitifi:
@@ -100,7 +99,7 @@ output:
   type: active
   name: "Output"
   real: "ifi-avis"
-  url: "http://ifiavis.no/"
+  url: "https://ifiavis.no/"
   tagline: "Output er studentavisen ved Institutt for Informatikk ved UiO. Vi lager informative og underholdende artikler og gir ut avisen to ganger i året."
   former_tag:
     - output
@@ -130,15 +129,8 @@ ordenen:
   type: active
   name: "Ifi-ordenen"
   real: "Ifi-ordenen"
-  url: "http://ordenen.ifi.uio.no/"
+  url: "https://ordenen.ifi.uio.no/"
   tagline: "Ordenen tildeles som belønning for utmerkede fortjenester for studentmiljøet ved Ifi."
-
-logen:
-  type: active
-  name: "Ifi-logen"
-  real: "Ifi-logen"
-  url: "https://www.facebook.com/ifilogen"
-  tagline: "Jobber blant annet for å få jacuzzi på IFI."
 
 if1:
   type: active
@@ -161,20 +153,13 @@ quizifi:
   url: "https://peoply.app/orgs/quizifi"
   tagline: "Arrangerer grove og kule quizzer på ifi"
 
-
 # Sport og idrett
-sjakk:
-  type: active
-  name: "IFI Sjakk"
-  real: "IFI Sjakk"
-  url: "https://www.facebook.com/ifisjakk/"
-  tagline: "Sjakkforening ved Institutt for Informatikk på UiO."
 
 fifi:
   type: active
   name: "FIFI"
   real: "Fotball ved Institutt for Informatikk"
-  url: "http://diw07.uio.no/"
+  url: ""
   tagline: "En sosial og sportslig forening ved instituttet"
 
 vifi:
@@ -191,13 +176,6 @@ rastløs:
   url: "https://www.instagram.com/ifirastlos/"
   tagline: "Skal være et sosialt initiativ for å fremme aktivitet blant studenter  som tilhører Instituttet for Informatikk ved UiO. Ettersom foreningens  ønske er å utvide deltakernes aktivitetsrepertoar, vil foreningen  arrangere forskjellige fysiske og sosiale aktiviteter. Dette kan være  alt fra turer i marka, joggeturer, bading, tennis, hyttetur eller  andre sosiale sammenkomster."
 
-pitch:
-  type: active
-  name: "PiTCH"
-  real: "PiTCH"
-  url: ""
-  tagline: ""
-
 pgaifi:
   type: active
   name: "PGAIFI"
@@ -205,24 +183,28 @@ pgaifi:
   url: ""
   tagline: ""
 
-# Programmering
+runtime: 
+  type: active
+  name: "RUNTIME"
+  real: "RUNTIME IFI"
+  url: "https://runtime-ifi.vercel.app/"
+  tagline: "IFI Runtime er løpeklubben på IFI for alle som liker å løpe. Vi møtes til felles økter, tester ulike ruter rundt Blindern og Oslo, og deltar sammen på løp. Fokus er på mestring, fellesskap og gøy trening."
 
+# Programmering
 
 maps:
   type: active
   name: "MAPS"
   real: "Matematikk, algoritmer og programmering for studenter"
-  url: "http://foreninger.uio.no/maps/"
+  url: "https://foreninger.uio.no/maps/"
   tagline: ""
-
-
 
 # Trifektaen
 cyb:
   type: active
   name: "Cybernetisk Selskab"
   real: "Cybernetisk Selskab"
-  url: "http://cyb.no"
+  url: "https://cyb.no"
   tagline: "Instituttforeningen for sosiale aktiveter og drifter av studentkjelleren Escape ved Institutt for informatikk"
 
 dagen:
@@ -236,7 +218,7 @@ navet:
   type: active
   name: "Navet"
   real: "ifi-navet"
-  url: "http://ifinavet.no"
+  url: "https://ifinavet.no"
   tagline: "Bedriftskontakten ved Institutt for informatikk"
 
 # Meta forening for FU
@@ -309,6 +291,27 @@ sekretær:
       real: "Christian Hasvik"
 
 # Utgåtte foreninger. RIP <3
+sjakk:
+  type: inactive
+  name: "IFI Sjakk"
+  real: "IFI Sjakk"
+  url: "https://www.facebook.com/ifisjakk/"
+  tagline: "Sjakkforening ved Institutt for Informatikk på UiO."
+
+logen:
+  type: inactive
+  name: "Ifi-logen"
+  real: "Ifi-logen"
+  url: "https://www.facebook.com/ifilogen"
+  tagline: "Jobber blant annet for å få jacuzzi på IFI."
+
+fokus:
+  type: inactive
+  name: "IFI-fokus"
+  real: "IFI-fokus"
+  url: "https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=930732273"
+  tagline: ""
+
 svett:
   type: inactive
   name: "Svett"
