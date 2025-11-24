@@ -15,7 +15,7 @@ progsys:
   type: active
   name: "ProgSys"
   real: "IFI-ProgSys"
-  url: "https://progsys.no/"
+  url: "http://progsys.no/"
   tagline: "Linjeforeningen ved studiet Informatikk: programmering og systemarkitektur"
   former_tag:
     - prognett
@@ -24,7 +24,7 @@ maki:
   type: active
   name: "MA:KI"
   real: "Linjeforeningen for Informatikk: maskinlæring og kunstig intelligens"
-  url: "https://www.facebook.com/LISTIFI"
+  url: "http://www.facebook.com/LISTIFI"
   tagline: "Vi predikerer god stemning"
   former_tag:
     - list
@@ -47,7 +47,7 @@ digitus:
 mikro:
   type: active
   name: "Mikro"
-  url: "https://www.facebook.com/pages/Studentforeningen-Mikro/151779014851965"
+  url: "http://www.facebook.com/pages/Studentforeningen-Mikro/151779014851965"
   real: "Mikro: Linjeforeningen for robotikk og intelligente systemer"
   tagline: "Linjeforeningen for studiet Informatikk: robotikk og intelligente systemer"
 
@@ -71,35 +71,35 @@ fui:
   type: active
   name: "FUI"
   real: "Fagutvalget ved Institutt for informatikk"
-  url: "https://ififui.no/"
+  url: "http://ififui.no/"
   tagline: ""
 
 realitifi:
   type: active
   name: "RealitIFI"
   real: "RealitIFI"
-  url: "https://www.facebook.com/realitifi"
+  url: "http://www.facebook.com/realitifi"
   tagline: ""
 
 lavterskel:
   type: active
   name: "Lavterskel"
   real: "Lavterskel"
-  url: "https://ififui.no/"
+  url: "http://ififui.no/"
   tagline: ""
 
 padel:
   type: active
   name: "IFIPDL"
   real: "IFIPDL"
-  url: "https://www.mn.uio.no/ifi/livet-rundt-studiene/organisasjoner/ifipdl.html"
+  url: "http://www.mn.uio.no/ifi/livet-rundt-studiene/organisasjoner/ifipdl.html"
   tagline: ""
 
 output:
   type: active
   name: "Output"
   real: "ifi-avis"
-  url: "https://ifiavis.no/"
+  url: "http://ifiavis.no/"
   tagline: "Output er studentavisen ved Institutt for Informatikk ved UiO. Vi lager informative og underholdende artikler og gir ut avisen to ganger i året."
   former_tag:
     - output
@@ -109,34 +109,34 @@ fadderstyret:
   type: active
   name: "Fadderstyret"
   real: "Fadderstyret"
-  url: "https://www.mn.uio.no/ifi/livet-rundt-studiene/organisasjoner/fadderstyret.html"
+  url: "http://www.mn.uio.no/ifi/livet-rundt-studiene/organisasjoner/fadderstyret.html"
 
 toast:
   type: active
   name: "TOASTJÆRN"
   real: "Toastens Organisasjon for Alle Studenter Til Jernets Ære og Riket Norge"
-  url: "https://www.facebook.com/toastjaern/"
+  url: "http://www.facebook.com/toastjaern/"
   tagline: "Vi har arrangementer der vi lager toast og deler det ut til medlemmene våre."
 
 brewfi:
   type: active
   name: "BrewFI"
   real: "BrewFI"
-  url: "https://brewfi.no/"
+  url: "http://brewfi.no/"
   tagline: ""
 
 ordenen:
   type: active
   name: "Ifi-ordenen"
   real: "Ifi-ordenen"
-  url: "https://ordenen.ifi.uio.no/"
+  url: "http://ordenen.ifi.uio.no/"
   tagline: "Ordenen tildeles som belønning for utmerkede fortjenester for studentmiljøet ved Ifi."
 
 if1:
   type: active
   name: "If1"
   real: "Institutt formel 1"
-  url: "https://www.facebook.com/instituttf1"
+  url: "http://www.facebook.com/instituttf1"
   tagline: "Arrangerer formel 1 kvelder og go-kart!"
 
 foreningsfesten:
@@ -150,7 +150,7 @@ quizifi:
   type: active
   name: "QuizIFI"
   real: "QuizIFI"
-  url: "https://peoply.app/orgs/quizifi"
+  url: "http://peoply.app/orgs/quizifi"
   tagline: "Arrangerer grove og kule quizzer på ifi"
 
 # Sport og idrett
@@ -166,14 +166,14 @@ vifi:
   type: active
   name: "VIFI"
   real: "VIFI"
-  url: "https://www.facebook.com/VIFI-112592593608578"
+  url: "http://www.facebook.com/VIFI-112592593608578"
   tagline: "Medlemmene i VIFI spiller volleyball sammen halvannen time i uken på Athletica"
 
 rastløs:
   type: active
   name: "IFI Rastløs"
   real: "IFI Rastløs"
-  url: "https://www.instagram.com/ifirastlos/"
+  url: "http://www.instagram.com/ifirastlos/"
   tagline: "Skal være et sosialt initiativ for å fremme aktivitet blant studenter  som tilhører Instituttet for Informatikk ved UiO. Ettersom foreningens  ønske er å utvide deltakernes aktivitetsrepertoar, vil foreningen  arrangere forskjellige fysiske og sosiale aktiviteter. Dette kan være  alt fra turer i marka, joggeturer, bading, tennis, hyttetur eller  andre sosiale sammenkomster."
 
 pgaifi:
@@ -187,7 +187,7 @@ runtime:
   type: active
   name: "RUNTIME"
   real: "RUNTIME IFI"
-  url: "https://runtime-ifi.vercel.app/"
+  url: "http://runtime-ifi.vercel.app/"
   tagline: "IFI Runtime er løpeklubben på IFI for alle som liker å løpe. Vi møtes til felles økter, tester ulike ruter rundt Blindern og Oslo, og deltar sammen på løp. Fokus er på mestring, fellesskap og gøy trening."
 
 # Programmering
@@ -196,7 +196,7 @@ maps:
   type: active
   name: "MAPS"
   real: "Matematikk, algoritmer og programmering for studenter"
-  url: "https://foreninger.uio.no/maps/"
+  url: "http://foreninger.uio.no/maps/"
   tagline: ""
 
 # Trifektaen
@@ -204,21 +204,21 @@ cyb:
   type: active
   name: "Cybernetisk Selskab"
   real: "Cybernetisk Selskab"
-  url: "https://cyb.no"
+  url: "http://cyb.no"
   tagline: "Instituttforeningen for sosiale aktiveter og drifter av studentkjelleren Escape ved Institutt for informatikk"
 
 dagen:
   type: active
   name: "dagen@ifi"
   real: "ifi-dagen"
-  url: "https://dagenatifi.no"
+  url: "http://dagenatifi.no"
   tagline: "Karrieredagene på Institutt for informatikk"
 
 navet:
   type: active
   name: "Navet"
   real: "ifi-navet"
-  url: "https://ifinavet.no"
+  url: "http://ifinavet.no"
   tagline: "Bedriftskontakten ved Institutt for informatikk"
 
 # Meta forening for FU
@@ -295,28 +295,28 @@ sjakk:
   type: inactive
   name: "IFI Sjakk"
   real: "IFI Sjakk"
-  url: "https://www.facebook.com/ifisjakk/"
+  url: "http://www.facebook.com/ifisjakk/"
   tagline: "Sjakkforening ved Institutt for Informatikk på UiO."
 
 logen:
   type: inactive
   name: "Ifi-logen"
   real: "Ifi-logen"
-  url: "https://www.facebook.com/ifilogen"
+  url: "http://www.facebook.com/ifilogen"
   tagline: "Jobber blant annet for å få jacuzzi på IFI."
 
 fokus:
   type: inactive
   name: "IFI-fokus"
   real: "IFI-fokus"
-  url: "https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=930732273"
+  url: "http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=930732273"
   tagline: ""
 
 svett:
   type: inactive
   name: "Svett"
   real: "Svett"
-  url: "https://www.facebook.com/svettifi/"
+  url: "http://www.facebook.com/svettifi/"
   tagline: ""
 
 ping:
@@ -343,25 +343,25 @@ verdande:
   type: inactive
   name: "Verdande"
   real: "Verdande"
-  url: "https://www.facebook.com/verdande.ifi/"
+  url: "http://www.facebook.com/verdande.ifi/"
 
 dukk:
   type: inactive
   name: "DUKK"
   real: "UiO Frisbeegolf - DUKK"
-  url: "https://foreninger.uio.no/dukk/"
+  url: "http://foreninger.uio.no/dukk/"
 
 uniplay:
   type: inactive
   name: "UniPlay"
   real: "UniPlay"
-  url: "https://uniplay.no/"
+  url: "http://uniplay.no/"
 
 rotor:
   type: inactive
   name: "IFI Rotor"
   real: "IFI Rotor - Multikopterforening for studenter"
-  url: "https://www.facebook.com/ifirotor"
+  url: "http://www.facebook.com/ifirotor"
 
 appsolutt:
   type: inactive
@@ -383,13 +383,13 @@ ifipodcast:
   type: inactive
   name: "IFI-Podcast"
   real: "IFI-Podcast"
-  url: "https://www.facebook.com/IFIPodcast/"
+  url: "http://www.facebook.com/IFIPodcast/"
 
 ifriluft:
   type: inactive
   name: "iFriluft"
   real: "iFriluft"
-  url: "https://www.facebook.com/ifriluft/"
+  url: "http://www.facebook.com/ifriluft/"
   tagline: "iFriluft er en forening som fremmer fysisk aktivitet og friluftsliv blant IFI-studenter"
 
 spillutvikling:
