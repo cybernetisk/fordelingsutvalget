@@ -9,7 +9,7 @@ Utvalgets navn er Fordelingsutvalget ved Institutt for informatikk, heretter nev
 
 Fordelingsutvalgets formål er å fordele midler til aktiviteter og virksomhet av og for informatikkstudenter ved Universitetet i Oslo.
 
-## §3. Representanter i utvalget
+## §3. Medlemmer i utvalget
 
 a) Utvalgets øverste myndighet består av representanter fra foreninger tilknyttet Institutt for informatikk ved Universitetet i Oslo. Følgende foreninger er medlemmer:
 
@@ -33,7 +33,7 @@ d) Foreninger tilknyttet Institutt for informatikk kan søke om å bli et medlem
 e) Medlemsforeninger kan trekke seg fra fordelingsutvalget.
 
 
-## §4. Mistillit til representerte foreninger
+## §4. Mistillit til medlemsforeninger
 
 Forslag om å frata medlemsforeninger sitt medlemskap i Fordelingsutvalget kan fremmes av alle foreninger eller av fordelingsutvalgets styre.
 
