@@ -176,9 +176,7 @@ f) Sanksjoner kan kun vedtas ved minst 2/3 flertall av medlemsforeningene.
 
 g) Dersom mistillit stilles til en søkerforening som også er en medlemsforening, er ikke medlemsforeningen stemmeberettiget når vedtaket skal fattes. 
 
-## §13. Komiteer
-
-“§12. Komitéer
+## §14. Komiteer
 
 a) Fordelingsutvalget kan opprette komitéer tilknyttet spesifikke arrangementer eller prosjekter. 
 
@@ -198,7 +196,7 @@ g) Sanksjoner mot komitéer kan være, men er ikke begrenset til å være, som f
 - Utvisning av enkelte komitémedlemmer fra nåværende eller fremtidige komitéer i opptil 1 kalenderår. 
 - Oppløsning av komité og annullering av prosjekt
 
-## 14. Vedtekter 
+## 15. Vedtekter 
 
 a) Vedtektene er Fordelingsutvalgets styrende enhet.
 
@@ -211,7 +209,7 @@ d) Mindre språklige rettelser som ikke endrer betydning kan vedtas av Fordeling
 e) Fordelingsutvalgets retningslinjer skal utdype vedtektene og holdes oppdatert til endringer i praksiser og normer. 
 
 
-## §14. Oppløsning av utvalget
+## §16. Oppløsning av utvalget
 
 a) Utvalget kan oppløses ved at minst 2/3 av medlemsforeningene stemmer for oppløsning på to etterfølgende møter med minimum 14 dagers mellomrom.
 
