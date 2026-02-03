@@ -55,31 +55,21 @@ c) Plassen kan kun fratas ved enstemmig vedtak blant de gjenværende medlemsfore
 
 ## §5. Allmøtet og dets myndighet
 
-a) Allmøtet er utvalgets samling for alle studenter tilknyttet Institutt for informatikk og holdes hvert år, i løpet av februar.
-
-b) Allmøtet innkalles med minst 14 dagers varsel.
-
-c) På allmøtet behandles utvalgets beretning, regnskap for forrige periode, valg av styre, samt eventuelle andre saker som er satt opp på dagsorden.
-
-d) Alle studenter som tar et eller flere IN/INF emner ved Institutt for informatikk har stemmerett og kan stille til valg. Allmøtet fatter vedtak ved simpelt flertall.
-
-e) Allmøtet er beslutningsdyktig hvis minst 15 av studentene ved Institutt for informatikk er til stede.
-
 a) Allmøtet er utvalgets samling for alle studenter tilknyttet Institutt for informatikk og holdes hvert år, i løpet av februar. Allmøtet er Fordelingsutvalgets øverste organ. 
 
 b) Allmøtet innkalles med minst 14 dagers varsel. Agenda må offentliggjøres minst 2 virkedager før allmøtet.
 
 c) På allmøtet behandles utvalgets beretning, regnskap for forrige periode, eventuelle forslag til vedtektsendringer, valg av styre, samt eventuelle andre saker som er satt opp på dagsorden.
 
-d) Allmøtet er beslutningsdyktig hvis minst 15 av IFI-studentene er til stedet, slikt de er definert i §6a
+d) Allmøtet er beslutningsdyktig hvis minst 15 av IFI-studentene er til stedet, slikt de er definert i §6a.
 
-e) Ekstraordinær allmøte avholdes når minst 30 IFI-studenter, eller minst ½ av medlemsforeningene, eller styret, krever det.
+e) Ekstraordinær allmøte avholdes når minst 30 IFI-studenter som definert i §6a, eller minst ½ av medlemsforeningene, eller styret, krever det.
 
 ## §6. Allmøtet og valg
 a) IFI-studenter er stemmeberettigede og kan stille til valg.
 Med IFI-studenter menes alle studenter ved Universitetet i Oslo som i det inneværende semesteret oppfyller minst ett av følgende kriterier:
 1. er registrert på et studieprogram som tilbys av Institutt for informatikk (IFI)
-2. er registrert på to eller flere emner med emnekode IN ved UiO
+2. er registrert på to eller flere IN-emner ved UiO
 
 b) Allmøtet fatter vedtak ved simpelt flertall.
 
