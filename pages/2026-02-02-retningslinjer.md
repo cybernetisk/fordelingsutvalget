@@ -60,8 +60,9 @@ Formålet til disse retningslinjer er å sikre at midlene til Fordelingsutvalget
 ## 6 Rapportering
 
 1. I etterkant av hvert semester plikter foreningene som mottar støtte fra utvalget å sende inn regnskap og rapport for perioden.
-2. Foreninger som mottar semsterstøtte skal rapportere hva de har brukt semesterstøtten
-   på fortløpende i delt dokument.
+2. Foreninger som mottar semesterstøtte skal rapportere hva de har brukt semesterstøtten på i et detaljert regnskap.
+3. Styret kan kreve å se kvitteringer eller annet tilstrekkelig bevis for hvordan midler har blitt brukt for prosjekter eller perioder. Ønsket må sendes skriftlig innen 6 måneder etter at regnskap eller rapport ble innsendt, hva enn som kom sist. 
+4. Foreninger tilknyttet Institutt for Informatikk har rett til å forespørre rapporter til andre foreninger som er innsendt til Fordelingsutvalgets styre. Forespørselen skal komme skriftlig innen 6 måneder av innlevert rapport, og foreningen som innsendte rapporten skal få skriftlig varsel om at rapporten har blitt overlevert. Sensitive personopplysninger skal ikke deles.
 
 ## 7 Representasjon
 
