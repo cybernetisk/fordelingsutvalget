@@ -40,7 +40,7 @@ Formålet til disse retningslinjer er å sikre at midlene til Fordelingsutvalget
 2. Søknader krever beskrivelse av arrangement eller prosjekt. Budsjettet bør baseres på tidligere arrangementer eller prosjekter av lignende natur. 
 3. Søker en forening om midler etter at prosjektet er ferdig, skal søknaden inneholde regnskap i tillegg til budsjett.
 
-## 4a Intensjonssøknader
+### 4a Intensjonssøknader
 1. Dersom en forening planlegger å søke en betydelig sum til et enkelt arrangement, kan det sendes en intensjonssøknad som behandles minst ett møte før prosjektsøknaden. Intensjonssøknaden brukes til erfarings- og meningsutveksling og inneholder en skisse av tiltenkt budsjett. Skissen og intensjonssøknaden er ikke bindende.
 2. Fordelingsutvalget kan, etter behandling av intensjonssøknaden, fatte et rammevedtak om avsetning (forhåndsreservasjon) av et beløp til det aktuelle formålet. En slik avsetning:
 - 2.1. belaster årets tildelingsramme (80%-rammen) fra vedtakstidspunktet

@@ -81,20 +81,6 @@ realitifi:
   url: "http://www.facebook.com/realitifi"
   tagline: ""
 
-lavterskel:
-  type: active
-  name: "Lavterskel"
-  real: "Lavterskel"
-  url: "http://ififui.no/"
-  tagline: ""
-
-padel:
-  type: active
-  name: "IFIPDL"
-  real: "IFIPDL"
-  url: "http://www.mn.uio.no/ifi/livet-rundt-studiene/organisasjoner/ifipdl.html"
-  tagline: ""
-
 output:
   type: active
   name: "Output"
@@ -131,13 +117,6 @@ ordenen:
   real: "Ifi-ordenen"
   url: "http://ordenen.ifi.uio.no/"
   tagline: "Ordenen tildeles som belønning for utmerkede fortjenester for studentmiljøet ved Ifi."
-
-if1:
-  type: active
-  name: "If1"
-  real: "Institutt formel 1"
-  url: "http://www.facebook.com/instituttf1"
-  tagline: "Arrangerer formel 1 kvelder og go-kart!"
 
 foreningsfesten:
   type: active
@@ -255,7 +234,7 @@ sekretær:
   type: role
   name: "Sekretær"
   former_name: "Økonomiansvarlig"
-  real: "Christian Hasvik"
+  real: "Viljar Drevland Hardersen"
   url: ""
   tagline: "Referent-, søknads- og rapporteringsansvarlig i Fordelingsutvalget."
   periods:
@@ -287,10 +266,34 @@ sekretær:
       end: 2025V
       real: "Peter Hjelle Petersen-Øverleir"
     - start: 2025V
-      end: current
+      end: 2026V
       real: "Christian Hasvik"
+    - start: 2026V
+      end: current
+      real: "Viljar Drevland Hardersen"
 
 # Utgåtte foreninger. RIP <3
+if1:
+  type: inactive
+  name: "If1"
+  real: "Institutt formel 1"
+  url: "http://www.facebook.com/instituttf1"
+  tagline: "Arrangerer formel 1 kvelder og go-kart!"
+
+padel:
+  type: inactive
+  name: "IFIPDL"
+  real: "IFIPDL"
+  url: "http://www.mn.uio.no/ifi/livet-rundt-studiene/organisasjoner/ifipdl.html"
+  tagline: ""
+
+lavterskel:
+  type: inactive
+  name: "Lavterskel"
+  real: "Lavterskel"
+  url: "http://ififui.no/"
+  tagline: ""
+
 sjakk:
   type: inactive
   name: "IFI Sjakk"
