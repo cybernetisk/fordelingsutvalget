@@ -103,7 +103,7 @@ Fordelingsutvalget kan kreve hele eller deler av tildelt beløp, og utestenge fo
    det er naturlig å spise. Det forventes at man ikke maksimerer beløpet hver
    gang man skal ha mat på et arrangement.
 2. Arrangementer som bruker FU-støtte på alkohol skal alltid søkes om som prosjektstøtte slik at søknaden kan behandles av utvalget. Punktet gjelder ikke for interne arrangementer eller styremiddager. Punktet gjelder for bonger på Escape dersom de kan brukes for å kjøpe alkohol.  
-3. Styremiddag og andre styreaktiviteter støttes med 450 kr per person per semester. For foreninger med lav aktivitet støttes ikke styremiddager eller sosiale goder til styret.
+3. Styremiddag og andre styreaktiviteter støttes med 450 kr per person per semester for medlemsforeninger. For andre aktive foreninger støttes styreaktiviteter med 350 kr per person per semester, med en begrensning på maks 8 styremedlemmer. For foreninger med lav aktivitet støttes ikke styremiddager eller sosiale goder til styret.
 4. Arrangementer for interne i foreningen støttes med opp til 200 kr per person per semester. For foreninger med mange interne bør hvert arrangement behandles spesielt.
 5. Merch, som f.eks. gensere, skal holdes i foreningen og gå i arv om det ikke er en egenandel. Innkjøp av merch skal tas opppå møte i FU og godkjennes der. 
 - 5.1 Vi innvilger ikke støtte til innkjøp av merch i formen av gensere og tskjorter fra eksterne produsenter. 
