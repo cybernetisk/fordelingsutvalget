@@ -114,7 +114,8 @@ Fordelingsutvalget kan kreve hele eller deler av tildelt beløp, og utestenge fo
 
 ### 13 Eiendeler
 
-1. Ved søknad om eiendeler stilles særskilt krav om begrunnelse, slik at utvalget kan stole på at gjenstandene vil komme studentmassen til gode. Det bør foreligge en plan for oppbevaring og vedlikehold, og foreningen bør kunne vise til stabil drift over tid. Ved oppstart av nye foreninger kan spesielt hensyn vises for eiendeler som er veldig naturlig for foreningens drift.
+1. Ved søknad om eiendeler stilles særskilt krav om begrunnelse, slik at utvalget kan stole på at gjenstandene vil komme studentmassen til gode. 
+2. Det bør foreligge en plan for oppbevaring og vedlikehold, og foreningen bør kunne vise til stabil drift over tid. Ved oppstart av nye foreninger kan spesielt hensyn vises for eiendeler som er veldig naturlig for foreningens drift.
 
 ### Frie midler
 
