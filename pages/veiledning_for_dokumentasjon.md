@@ -7,7 +7,7 @@ permalink: "/veiledning_for_dokumentasjon/"
 
 Dokumentasjon er viktig av minst to grunner.
 
-1. Foreningene for oversikt over sin pengebruk, sine aktiviteter, tryggere økonomi og visshet om hvor pengene har kommet fra og har gått til.
+1. Foreningene får oversikt over sin pengebruk, sine aktiviteter, tryggere økonomi og visshet om hvor pengene har kommet fra og har gått til.
 2. FU kan kontrollere at pengene blir brukt til formålet og at foreningene driver sunn økonomisk drift.
 
 Med denne veiledningen håper vi at vi kan gjøre rapporteringen enklere for foreningene å gjennomføre og enklere for FU å kontrollere.
@@ -41,11 +41,17 @@ Eksempel fra Digitus:
 
 Ta bilder av kvitteringer og lagre de i skyen/drive. Anbefaler også å skrive ned hvilket bilag (fra regnskapet) kvitteringen hører til og hvem som stod for utbetalingen.
 
-Dersom man har mistet kvitteringen kan dere erstatte dette med et screenshoot av transaksjonen i nettbanken og supplere med informasjon om hva pengene gikk til, hvem som sto for utbetalingen og hvilket bilag dette hører til.
+Dersom man har mistet kvitteringen kan dere erstatte dette med et screenshot av transaksjonen i nettbanken og supplere med informasjon om hva pengene gikk til, hvem som sto for utbetalingen og hvilket bilag dette hører til.
 
-4. **Semesterrapport**
+4. **Rapporter**
 
-På slutten av semesteret må dere levere en semesterrapport. Denne skal supplere regnskapet og svare på flere spørsmål (se under). Rapporten bør kommentere aktiviteten i semesteret, hva foreningen har lært fra semesteret og eventuelle kommentarer til regnskapet eller FUs søknader.
+Rapporter er den beste måten fu-styret (eller andre foreninger) kan få innsikt inn i foreningers pengebruk. Når man får penger, må man også vise til hvordan pengene har blitt brukt. 
+
+For prosjekter skal rapporten leveres til FU-styret snart etter at prosjektet er ferdig. Rapporten burde gjenspeile prosjektstøttesøknaden, og vise på lik linje hvor mye som ble søkt og hvor mye som ble brukt. 
+
+4.1 **Semesterrapporter**
+
+På slutten av semesteret må dere levere en rapport. Denne skal supplere regnskapet og svare på flere spørsmål (se under). Rapporten bør kommentere aktiviteten i semesteret, hva foreningen har lært fra semesteret og eventuelle kommentarer til regnskapet eller FUs søknader.
 
 - Nevn noe som gikk bra dette semesteret, og noe som ikke gikk fullt så bra.
 - Hva har styret lært som neste styret kan få nytte av?
