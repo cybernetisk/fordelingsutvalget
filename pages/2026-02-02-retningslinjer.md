@@ -75,26 +75,16 @@ Formålet til disse retningslinjer er å sikre at midlene til Fordelingsutvalget
 3. Det forventes at enhver forening som mottar semesterstøtte fra Fordelingsutvalget har null resterende midler etter avsluttet semester. Dersom foreningen mottar andre midler eller har grunn til å ha resterende midler utenom frie midler, skal foreningen avklare dette med Fordelingsutvalget.
 4. Dersom en forening mottar støtte fra andre kilder enn Fordelingsutvalget, skal dette avklares med Fordelingsutvalget før et vedtak er fattet om søknaden deres.
 
-## 9 Mislighold
-
-Fordelingsutvalget kan kreve hele eller deler av tildelt beløp, og utestenge for et semester dersom:
-
-1. Det er uoverensstemmelse mellom opplysningene gitt I søknaden og reelle forhold
-2. Midler er brukt i strid med villkårene for tildelingen
-3. Søker nekter Fordelingsutvalget å gjennomføre regnskapskontroll
-4. Foreningen ikke oversender dokumentasjon som fordelingsutvalget har krav på (ref pkt 6 Rapportering)
-5. Saker om mislighold skal varsles om til aktuell forening, og behandles av FU på neste møte.
-
-## 10 Regnskapskurs
+## 9 Regnskapskurs
 
 1. Utvalget kan til en hver tid kreve at minst ett styremedlem skal ha gjennomført et relevant regnskapskurs i regi av SiO Foreninger.
 
-## 11 Overlappende arrangementer
+## 10 Overlappende arrangementer
 
 1. Arrangementer med et budsjett på over 500 kr skal ikke gå samme dag.
 2. Arrangementer skal ikke holdes på tirsdager eller torsdager på samme tidspunkt som Navet sine bedriftspresentasjoner.
 
-## 12 Vanlige søknadspunkter
+## 11 Vanlige søknadspunkter
 
 ### Fastsatte satser
 
@@ -112,7 +102,7 @@ Fordelingsutvalget kan kreve hele eller deler av tildelt beløp, og utestenge fo
 - 5.3 Pins, medaljer, klistremerker og lignende behandles særegent.
 6. Møtesnacks til internmøter kan støttes med opp til 250 kr i måneden.
 
-### 13 Eiendeler
+### 12 Eiendeler
 
 1. Ved søknad om eiendeler stilles særskilt krav om begrunnelse, slik at utvalget kan stole på at gjenstandene vil komme studentmassen til gode. 
 2. Det bør foreligge en plan for oppbevaring og vedlikehold, og foreningen bør kunne vise til stabil drift over tid. Ved oppstart av nye foreninger kan spesielt hensyn vises for eiendeler som er veldig naturlig for foreningens drift.
@@ -121,19 +111,19 @@ Fordelingsutvalget kan kreve hele eller deler av tildelt beløp, og utestenge fo
 
 Programlinjeforeningene og aktive foreninger ved IFI skal få fylt opp til 1500 kr per semester til fri bruk, med noen begrensninger bestemt i dokumentet “Vedtak om frie midler” [Link](https://fordelingsutvalget.org/midler/).
 
-## 14 Peoply
+## 13 Peoply
 
 1. Alle åpne arrangementer med støtte fra FU skal publiseres på Peoply. Dette gjelder ikke Navets bedpresser. 
 2. Alle foreninger tilknyttet IFI kan legge ut arrangementer. Hvis arrangementet trenger påmelding må den være tilgjengelig fra peoply. Hvis foreninger ikke følger dette kan pengene kreves tilbake. 
 
-## 15 Komiteer
+## 14 Komiteer
 1. Fordelingsutvalget kan kreve å opprette en komité for arrangementer som kan omsette over 100.000 kr.
 2. Når komitéen opprettes skal det bestemmes hvor mange komitémedlemmer som er nødvendig.
 3. Minst 2 medlemmer av komitéen må bestemmes ansvarlig overfor FU for økonomien til prosjektet. Disse medlemmene er også ansvarlig for eventuelle billettsalg. 
 4. Når en komité søker prosjektstøtte skal Fordelingsutvalget bestemme om IFI-Dagen eller IFI-Navet skal utdele sine midler for prosjektet. Når prosjektet begynner og komiteen opprettes skal det også utnevnes en regnskapsfører fra IFI-Dagen eller IFI-Navet, som står ansvarlig for regnskapsføring på vegne av komiteen. Den valgte foreningen står offisielt økonomisk ansvarlig, men må ikke svare til FU. 
 5. Studenter som har stemmerett på Allmøtet til Fordelingsutvalget kan også stille til valg for en komite.
 
-## 16 Møter
+## 15 Møter
 
 1. Styret kaller inn til FU-møter etter behov, omtrent månedlig. Behov bestemmes av hvor mange saker og søknader som meldes inn.
 2. Styret tilgjengeliggjør agenda og relevante dokumenter i god tid før møter, slik at enhver medlemsforening har tilstrekkelig med tid til å diskutere sakene før møtet der saken skal behandles.
