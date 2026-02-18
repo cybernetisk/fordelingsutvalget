@@ -104,13 +104,6 @@ toast:
   url: "http://www.facebook.com/toastjaern/"
   tagline: "Vi har arrangementer der vi lager toast og deler det ut til medlemmene våre."
 
-brewfi:
-  type: active
-  name: "BrewFI"
-  real: "BrewFI"
-  url: "http://brewfi.no/"
-  tagline: ""
-
 ordenen:
   type: active
   name: "Ifi-ordenen"
@@ -273,6 +266,13 @@ sekretær:
       real: "Viljar Drevland Hardersen"
 
 # Utgåtte foreninger. RIP <3
+brewfi:
+  type: inactive
+  name: "BrewFI"
+  real: "BrewFI"
+  url: "http://brewfi.no/"
+  tagline: ""
+
 if1:
   type: inactive
   name: "If1"
