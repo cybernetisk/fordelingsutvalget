@@ -29,7 +29,7 @@ En ordinær søknad bør:
 
 En god prosjektsøknad kan se sånn ut:
 
-![](https://fordelingsutvalget.org/assets/img/soknad-eksempel.pdf)
+![](https://fordelingsutvalget.org/assets/img/soknad-eksempel.png)
 
 TODO: Lage eksempel på rapport, basert på eksempel-søknaden ovenfor
 
