@@ -125,6 +125,13 @@ quizifi:
   url: "http://peoply.app/orgs/quizifi"
   tagline: "Arrangerer grove og kule quizzer på ifi"
 
+pitbulls:
+  type: active
+  name: "IFI-Pitbulls"
+  real: "IFI-Pitbulls"
+  url: 
+  tagline: "Dalé!"
+
 # Sport og idrett
 
 fifi:
