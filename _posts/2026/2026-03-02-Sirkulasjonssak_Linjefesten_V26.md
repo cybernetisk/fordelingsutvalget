@@ -8,6 +8,8 @@ published: true
 * TOC
 {:toc}
 
+## Sirkulasjonsak - Linjefesten V25 {#sirkulasjonssak}
+
 Kjære medlemsforeninger i Fordelingsutvalget,
 
 Her kommer en sirkulasjonssak, som mange av dere allerede kjenner til! 
@@ -19,11 +21,19 @@ Med vennlig hilsen,
 Sandra Marie Kubosch
 FU-Koordinator
 
-## Sirkulasjonsak - Linjefesten V25 {#sirkulasjonssak}
+
 
 ### For
+* Mikro
+* Defi
+* Cyb
+* Digitus
+* Sifi
+* Maps
+* FUI
+* Maki
 
 ### Mot
-
-### Avholdende
-
+* Dagen@ifi
+* ProgSys
+* Navet

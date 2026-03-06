@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Dokumenter"
-subheadline: "Dokumenter og sakspapirer tilknyttet Fordeingsutvalget"
+subheadline: "Dokumenter og sakspapirer tilknyttet Fordelingsutvalget"
 permalink: /dokumenter/
 ---
 
@@ -31,7 +31,7 @@ En god prosjektsøknad kan se sånn ut:
 
 ![](https://fordelingsutvalget.org/assets/img/eksempel-soknad.png)
 
-TODO: Lage eksempel på rapport, basert på eksempel-søknaden ovenfor
+*TODO: Lage eksempel på rapport, basert på eksempel-søknaden ovenfor*
 
 ### SiO maler
 Dette er maler laget for foreninger med mva fritak. De er laget av SiO og dette er de samme malene som de har opplæring i under "regnskapskurs for små foreninger". Dette kurset anbefales på det sterkeste. Se [her](https://www.sio.no/foreninger/kurs) for SiOs kurskalender.
