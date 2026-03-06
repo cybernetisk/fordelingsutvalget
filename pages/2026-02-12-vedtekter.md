@@ -3,10 +3,10 @@ layout: page
 title: "Vedtekter for Fordelingsutvalget ved Institutt for informatikk, UiO"
 subheadline: ""
 teaser: ""
-permalink: /vedtekter/2026-02
+permalink: /vedtekter/
 ---
 
-Sist endret: 02/02-2026
+Sist endret: 12/02-2026
 
 ## §1. Utvalgets navn
 
@@ -30,6 +30,7 @@ a) Utvalgets øverste myndighet består av representanter fra foreninger tilknyt
 - MAPS (Matematikk, Algoritmer og Programmering for Studenter)
 - Mikro (Linjeforeningen for Robotikk og Intelligente Systemer)
 - ProgSys (Linjeforeningen for Programmering og Systemarkitektur)
+- SIFI (Linjeforeningen for Informasjonssikkerhet)
 
 
 b) Hver medlemsforening plikter å stille med minst én representant på hvert møte.

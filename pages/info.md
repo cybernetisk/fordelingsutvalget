@@ -38,8 +38,9 @@ Det sitter i 10 foreninger med stemmerett i utvalget. Disse er:
 - [Mikro](https://www.facebook.com/pages/Studentforeningen-Mikro/151779014851965)
 - [navet](http://ifinavet.no/)
 - [MA:KI](http://pisk.ifi.uio.no/)
-- [ProgSys](http://foreninger.uio.no/prognett/)
 - [MAPS](https://foreninger.uio.no/maps/)
+- [ProgSys](http://foreninger.uio.no/prognett/)
+- [Sifi](https://www.sifi.no/)
   
 I tillegg har utvalget et styre, bestående av en koordinator og en sekretær.
 Styret utfører de administrative oppgavene til utvalget, samt at de veileder
