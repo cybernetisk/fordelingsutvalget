@@ -39,3 +39,7 @@
 - name: "ProgSys"
   url: "https://progsys.no/"
   title: "Linjeforeningen ved Informatikk: programmering og systemarkitektur"
+
+- name: "SIFI"
+  url: "https://www.sifi.no/"
+  title: "Linjeforeningen ved Informatikk: informasjonssikkerhet"
