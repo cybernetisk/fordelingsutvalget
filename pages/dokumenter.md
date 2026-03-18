@@ -13,6 +13,12 @@ På denne siden legges det ut alle dokumenter som ikke er tilknyttet et møte el
 [Vedtekter for Fordelingsutvalget.](/vedtekter/)  
 [Retningslinjer for tildeling av støtte.](/retningslinjer/)
 
+## Regnskap for inneværende FU-År
+
+FU-Koordinator skal føre et regnskap for det inneværende FU-året, for å passe på pengene inn og ut av Fordelingsutvalget, og å holde oss innenfor grensene FU har. 
+
+[Økonomi 2026](https://docs.google.com/spreadsheets/d/1s7XwPNsEySI5gjQGC4ZS8TyB-I9LspVPfB_Xl4cSKus/edit?usp=sharing)
+
 ## Maler og eksempler
 *I fremtiden vil det komme maler og eksempler til søknader, rapporter osv. her*
 
