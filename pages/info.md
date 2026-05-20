@@ -17,7 +17,7 @@ Noen eksempler på dette er:
 - Årlig tur til Hemsedal med over 100 deltagere
 - Ifi-gallaen
 - Kveldsaktiviteter under fadderuken
-- Hyttetur med helstekt gris
+- Lærerike kurs for Git, Arduino, Emacs, og mye annet for å mestre studiene
 - Og mye, mye mer
 
 ## Hvor kommer pengene fra?
@@ -29,14 +29,14 @@ UiO, SiO eller andre lignende organisasjoner, og er derfor 100% finansiert av
 foreninger tilknyttet institutt for informatikk.    
 
 ## Hvem sitter i utvalget?
-Det sitter i 10 foreninger med stemmerett i utvalget. Disse er:
-- [Cybernetisk Selskab](http://cyb.no/)
+Det sitter i 11 foreninger med stemmerett i utvalget. Disse er:
 - [dagen@ifi](https://dagenatifi.no/)
+- [Navet](http://ifinavet.no/)
+- [Cybernetisk Selskab](http://cyb.no/)
 - [Defi](http://defi.no/)
 - [Digitus](https://www.sio.no/foreninger/finn-din-forening?i=1&s=8630)
-- [FUI](https://ififui.no/)
+- [Fagutvalget ved Institutt for Informatikk (FUI)](https://ififui.no/)
 - [Mikro](https://www.facebook.com/pages/Studentforeningen-Mikro/151779014851965)
-- [navet](http://ifinavet.no/)
 - [MA:KI](http://pisk.ifi.uio.no/)
 - [MAPS](https://foreninger.uio.no/maps/)
 - [ProgSys](http://foreninger.uio.no/prognett/)
