@@ -1,0 +1,34 @@
+name: Sjekk innhold
+
+on:
+  pull_request:
+  push:
+    branches: ["master"]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: checks-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  sjekk:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@95ef2b042f9d7a56d8268cba8559e2842e2ad01b # v1
+        with:
+          ruby-version: '3.0'
+          bundler-cache: true
+
+      - name: Sjekk referanser
+        run: ruby script/check_references.rb
+
+      - name: Bygg med Jekyll
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
