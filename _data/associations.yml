@@ -10,6 +10,15 @@
 #     former_tag:
 #       - assoc_last_tag
 
+# samleobjekt for alle FU-komiteene
+
+komite: 
+  type: active
+  name: "FU-Komitéer"
+  real: "FU-Komitéer"
+  url: ""
+  tagline: "Komitéer utstedet av Fordelingsutvalget for midlertidige prosjekter"
+
 # Linjeforeningene
 progsys:
   type: active
