@@ -1,0 +1,145 @@
+# Kjente referansebrudd, akseptert av script/check_references.rb.
+# Regenerer med: ruby script/check_references.rb --update-baseline
+mangler-stubb	_data/associations.yml	fokus: ingen _associations/fokus.md
+mangler-stubb	_data/associations.yml	padel: ingen _associations/padel.md
+tom-oppforing	_posts/2018-06-11-Template.md	attending: tomt listeelement
+tom-oppforing	_posts/2018-06-11-Template.md	not_attending: tomt listeelement
+tom-oppforing	_posts/2018-06-11-Template.md	other_attending: tomt listeelement
+tom-oppforing	_posts/2021/2021-10-14-Tredje_møte_høst.md	not_attending: tomt listeelement
+tom-oppforing	_posts/2021/2021-11-16-Fjerde_møte_høst.md	not_attending: tomt listeelement
+tom-oppforing	_posts/2023/2023-04-12-Fjerde-møte-vår-2023.md	attending: tomt listeelement
+tom-oppforing	_posts/2023/2023-04-12-Fjerde-møte-vår-2023.md	not_attending: tomt listeelement
+tom-oppforing	_posts/2023/2023-04-12-Fjerde-møte-vår-2023.md	other_attending: tomt listeelement
+tom-oppforing	_posts/2024/2024-05-28-Stiftelsesmøte.md	not_attending: tomt listeelement
+tom-oppforing	_posts/2025/2025-10-30-Tredje_møte_høst.md	not_attending: tomt listeelement
+tom-oppforing	_posts/2025/2025-11-25-Fjerde_møte_høst.md	not_attending: tomt listeelement
+tom-oppforing	_posts/2026/2026-02-02-Allmote-2026.md	other_attending: tomt listeelement
+tom-oppforing	_posts/2026/2026-02-12-Første-møte-vår-2026.md	not_attending: tomt listeelement
+tom-oppforing	_posts/2026/2026-03-11-Andre-møte-vår-2026.md	not_attending: tomt listeelement
+tom-oppforing	_posts/2026/2026-04-14-Tredje-møte-vår.md	not_attending: tomt listeelement
+tom-oppforing	_posts/2026/2026-05-14-Fjerde-møte-vår-2026.md	not_attending: tomt listeelement
+ukjent-kode	_posts/2013/2013-02-26-Første_møte_vår_2013.md	other_attending: fu
+ukjent-kode	_posts/2013/2013-03-05-Andre_møte_vår_2016.md	other_attending: fu
+ukjent-kode	_posts/2014/2014-05-15-Tredje_møte_vår.md	other_attending: arbeidsgruppen for veldedighetsprosjekt
+ukjent-kode	_posts/2014/2014-05-30-Fjerde_møte_vår.md	other_attending: arbeidsgruppen for veldedighetsprosjekt
+ukjent-kode	_posts/2014/2014-09-23-Første_møte_høst.md	other_attending: studentenes multikopterforening
+ukjent-kode	_posts/2014/2014-10-24-Andre_møte_høst.md	other_attending: uvist
+ukjent-kode	_posts/2015/2015-01-30-Første_møte_vår.md	attending: okonomians
+ukjent-kode	_posts/2015/2015-03-20-Andre_møte_vår.md	attending: joakim lindquister
+ukjent-kode	_posts/2015/2015-03-20-Andre_møte_vår.md	attending: joshi
+ukjent-kode	_posts/2015/2015-03-20-Andre_møte_vår.md	attending: studentavis
+ukjent-kode	_posts/2015/2015-05-08-Tredje_møte_vår.md	attending: fadderstyret. kristina vottestad
+ukjent-kode	_posts/2015/2015-05-08-Tredje_møte_vår.md	attending: okonomians
+ukjent-kode	_posts/2015/2015-05-08-Tredje_møte_vår.md	attending: uavhengig
+ukjent-kode	_posts/2015/2015-06-12-Fjerde-møte-vår.md	attending: kristina vottestad
+ukjent-kode	_posts/2015/2015-06-12-Fjerde-møte-vår.md	attending: okonomians
+ukjent-kode	_posts/2015/2015-06-12-Fjerde-møte-vår.md	attending: ole kristian rosvold
+ukjent-kode	_posts/2015/2015-06-12-Fjerde-møte-vår.md	attending: suhas joshi
+ukjent-kode	_posts/2015/2015-08-15-Første_møte_høst.md	attending: okonomians
+ukjent-kode	_posts/2015/2015-10-09-Andre_møte_høst.md	attending: okonomians
+ukjent-kode	_posts/2015/2015-11-27-Tredje_møte_vår.md	other_attending: okonomians
+ukjent-kode	_posts/2015/2015-11-27-Tredje_møte_vår.md	other_attending: ole kristian rosvold
+ukjent-kode	_posts/2016/2016-02-04-Første_møte_vår.md	other_attending: studentavis
+ukjent-kode	_posts/2016/2016-04-01-Andre_møte_vår.md	not_attending: studentavis
+ukjent-kode	_posts/2016/2016-04-01-Andre_møte_vår.md	other_attending: andre
+ukjent-kode	_posts/2016/2016-05-10-Tredje_møte_vår.md	other_attending: mikros konstruksjonslaug
+ukjent-kode	_posts/2016/2016-05-10-Tredje_møte_vår.md	other_attending: studentavis
+ukjent-kode	_posts/2016/2016-06-10-Fjerde_møte_vår.md	not_attending: studentavis
+ukjent-kode	_posts/2016/2016-09-02-Første_møte_høst.md	other_attending: kristin brænden
+ukjent-kode	_posts/2016/2016-09-02-Første_møte_høst.md	other_attending: studentavis
+ukjent-kode	_posts/2016/2016-10-07-Andre_møte_høst.md	attending: studentavis
+ukjent-kode	_posts/2016/2016-10-07-Andre_møte_høst.md	other_attending: okonomians
+ukjent-kode	_posts/2016/2016-11-11-Fjerde_møte_høst.md	attending: studentavis
+ukjent-kode	_posts/2016/2016-11-11-Fjerde_møte_høst.md	other_attending: okonomians
+ukjent-kode	_posts/2017/2017-02-22-Første_møte-vår.md	attending: studentavis
+ukjent-kode	_posts/2017/2017-02-22-Første_møte-vår.md	other_attending: nikolas papaioannou
+ukjent-kode	_posts/2017/2017-02-22-Første_møte-vår.md	other_attending: okonomians
+ukjent-kode	_posts/2017/2017-04-05-Andre_møte-vår.md	attending: studentavis
+ukjent-kode	_posts/2017/2017-04-05-Andre_møte-vår.md	other_attending: kristin brænden
+ukjent-kode	_posts/2017/2017-04-05-Andre_møte-vår.md	other_attending: okonomians
+ukjent-kode	_posts/2017/2017-05-19-Tredje_møte-vår.md	attending: studentavis
+ukjent-kode	_posts/2017/2017-06-07-Fjerde_møte-vår.md	attending: studentavis
+ukjent-kode	_posts/2017/2017-06-07-Fjerde_møte-vår.md	other_attending: okonomians
+ukjent-kode	_posts/2017/2017-09-20-Første_møte-høst.md	attending: studentavis
+ukjent-kode	_posts/2017/2017-09-20-Første_møte-høst.md	other_attending: okonomians
+ukjent-kode	_posts/2017/2017-10-12-Andre_møte-høst.md	attending: studentavis
+ukjent-kode	_posts/2017/2017-10-12-Andre_møte-høst.md	other_attending: annet
+ukjent-kode	_posts/2017/2017-10-12-Andre_møte-høst.md	other_attending: okonomians
+ukjent-kode	_posts/2017/2017-11-17-Tredje_møte-høst.md	attending: studentavis
+ukjent-kode	_posts/2017/2017-11-17-Tredje_møte-høst.md	other_attending: okonomians
+ukjent-kode	_posts/2018/2018-02-08-Første_Møte.md	attending: studentavis
+ukjent-kode	_posts/2018/2018-02-08-Første_Møte.md	other_attending: okonomians
+ukjent-kode	_posts/2018/2018-03-15-Andre_Møte.md	attending: studentavis
+ukjent-kode	_posts/2018/2018-03-15-Andre_Møte.md	other_attending: okonomians
+ukjent-kode	_posts/2018/2018-04-12-Tredje_Møte.md	attending: studentavis
+ukjent-kode	_posts/2018/2018-04-12-Tredje_Møte.md	other_attending: okonomians
+ukjent-kode	_posts/2018/2018-05-16-Fjerde_Møte.md	attending: studentavis
+ukjent-kode	_posts/2018/2018-05-16-Fjerde_Møte.md	other_attending: annet
+ukjent-kode	_posts/2018/2018-05-16-Fjerde_Møte.md	other_attending: okonomians
+ukjent-kode	_posts/2018/2018-09-25-Første_Møte.md	attending: studentavis
+ukjent-kode	_posts/2018/2018-09-25-Første_Møte.md	other_attending: diverse
+ukjent-kode	_posts/2018/2018-09-25-Første_Møte.md	other_attending: ifispill
+ukjent-kode	_posts/2018/2018-09-25-Første_Møte.md	other_attending: okonomians
+ukjent-kode	_posts/2018/2018-10-30-Andre_Møte.md	attending: studentavis
+ukjent-kode	_posts/2018/2018-10-30-Andre_Møte.md	other_attending: okonomians
+ukjent-kode	_posts/2018/2018-11-16-Tredje_Møte.md	attending: studentavis
+ukjent-kode	_posts/2018/2018-11-16-Tredje_Møte.md	other_attending: ifimakers
+ukjent-kode	_posts/2018/2018-11-16-Tredje_Møte.md	other_attending: ifispillutvikling
+ukjent-kode	_posts/2018/2018-11-16-Tredje_Møte.md	other_attending: okonomians
+ukjent-kode	_posts/2018/2018-12-05-Fjerde_møte.md	attending: studentavis
+ukjent-kode	_posts/2018/2018-12-05-Fjerde_møte.md	other_attending: cyb50
+ukjent-kode	_posts/2018/2018-12-05-Fjerde_møte.md	other_attending: okonomians
+ukjent-kode	_posts/2019/2019-03-06-Første_møte.md	attending: studentavis
+ukjent-kode	_posts/2019/2019-03-06-Første_møte.md	other_attending: okonomians
+ukjent-kode	_posts/2019/2019-03-13-Andre_møte.md	attending: studentavis
+ukjent-kode	_posts/2019/2019-04-11-Tredje_møte.md	not_attending: studentavis
+ukjent-kode	_posts/2019/2019-05-15-Fjerde_møte.md	attending: ifi-dagen
+ukjent-kode	_posts/2019/2019-05-15-Fjerde_møte.md	other_attending: ifi-ordenen
+ukjent-kode	_posts/2019/2019-09-11-Første_møte_høst.md	attending: studentavis
+ukjent-kode	_posts/2019/2019-09-11-Første_møte_høst.md	other_attending: ifi-skitur
+ukjent-kode	_posts/2019/2019-10-16-Andre_møte_høst.md	not_attending: studentavis
+ukjent-kode	_posts/2019/2019-10-16-Andre_møte_høst.md	other_attending: ifi-ordenen
+ukjent-kode	_posts/2019/2019-11-19-Tredje_møte_høst.md	not_attending: studentavis
+ukjent-kode	_posts/2020/2020-01-24-Første_møte_vår.md	attending: studentavis
+ukjent-kode	_posts/2020/2020-02-25-Andre_møte_vår.md	attending: studentavis
+ukjent-kode	_posts/2020/2020-03-30-Tredje_møte_vår.md	attending: studentavis
+ukjent-kode	_posts/2020/2020-05-04-Fjerde_møte_vår.md	attending: studentavis
+ukjent-kode	_posts/2020/2020-06-15-Femte_møte_vår.md	not_attending: studentavis
+ukjent-kode	_posts/2020/2020-09-14-Første_møte_høst.md	attending: studentavis
+ukjent-kode	_posts/2020/2020-10-26-Andre_møte_høst.md	not_attending: studentavis
+ukjent-kode	_posts/2020/2020-11-16-Tredje_møte_høst.md	not_attending: studentavis
+ukjent-kode	_posts/2021/2021-02-22-Første_møte_vår.md	not_attending: studentavis
+ukjent-kode	_posts/2021/2021-02-22-Første_møte_vår.md	other_attending: bjørn henrik harr
+ukjent-kode	_posts/2021/2021-02-22-Første_møte_vår.md	other_attending: cecilie isdahl
+ukjent-kode	_posts/2021/2021-02-22-Første_møte_vår.md	other_attending: eirik berg
+ukjent-kode	_posts/2021/2021-02-22-Første_møte_vår.md	other_attending: hanne celine foss
+ukjent-kode	_posts/2021/2021-02-22-Første_møte_vår.md	other_attending: magnus helle kalland
+ukjent-kode	_posts/2021/2021-02-22-Første_møte_vår.md	other_attending: stian dolmseth
+ukjent-kode	_posts/2021/2021-03-22-Andre_møte_vår.md	attending: studentavis
+ukjent-kode	_posts/2021/2021-03-22-Andre_møte_vår.md	other_attending: eirik berg
+ukjent-kode	_posts/2021/2021-03-22-Andre_møte_vår.md	other_attending: magnus helle kalland
+ukjent-kode	_posts/2021/2021-03-22-Andre_møte_vår.md	other_attending: peter kristiansen
+ukjent-kode	_posts/2021/2021-05-13-Tredje_møte_vår.md	attending: studentavis
+ukjent-kode	_posts/2021/2021-05-13-Tredje_møte_vår.md	other_attending: eirik berg
+ukjent-kode	_posts/2021/2021-05-13-Tredje_møte_vår.md	other_attending: gina sofie fasseland
+ukjent-kode	_posts/2021/2021-05-13-Tredje_møte_vår.md	other_attending: hilmar
+ukjent-kode	_posts/2021/2021-06-11-Fjerde_møte_vår.md	not_attending: studentavis
+ukjent-kode	_posts/2021/2021-08-12-Første_møte_høst.md	not_attending: studentavis
+ukjent-kode	_posts/2021/2021-08-12-Første_møte_høst.md	other_attending: gina sofie fasseland
+ukjent-kode	_posts/2021/2021-08-12-Første_møte_høst.md	other_attending: thanh thao thi tran
+ukjent-kode	_posts/2021/2021-09-16-Andre_møte_høst.md	not_attending: ifi-avis
+ukjent-kode	_posts/2021/2021-09-16-Andre_møte_høst.md	other_attending: thyra liag aakvåg
+ukjent-kode	_posts/2021/2021-10-14-Tredje_møte_høst.md	other_attending: andreas limi
+ukjent-kode	_posts/2021/2021-10-14-Tredje_møte_høst.md	other_attending: martin heggem
+ukjent-kode	_posts/2021/2021-10-14-Tredje_møte_høst.md	other_attending: sarek skotåm
+ukjent-kode	_posts/2021/2021-11-16-Fjerde_møte_høst.md	other_attending: bjørn henrik harr
+ukjent-kode	_posts/2021/2021-11-16-Fjerde_møte_høst.md	other_attending: dan rachou
+ukjent-kode	_posts/2021/2021-11-16-Fjerde_møte_høst.md	other_attending: hilmar elverhøy
+ukjent-kode	_posts/2021/2021-11-16-Fjerde_møte_høst.md	other_attending: lise wåsjø
+ukjent-kode	_posts/2021/2021-11-16-Fjerde_møte_høst.md	other_attending: sarek skotåm
+ukjent-kode	_posts/2022/2022-04-21-Fjerde-møte-vår.md	other_attending: toastjærn
+ukjent-kode	_posts/2022/2022-10-13-Andre-møte.md	attending: li:st
+ukjent-kode	_posts/2023/2023-02-15-Andre_møte_vår.md	other_attending: ifipdl
+ukjent-kode	_posts/2023/2023-02-15-Andre_møte_vår.md	other_attending: toastjærn
+ukjent-kode	_posts/2023/2023-08-29-Første-møte-h23.md	other_attending: toastjærn
+ukjent-kode	_posts/2025/2025-10-30-Tredje_møte_høst.md	other_attending: frekvens
