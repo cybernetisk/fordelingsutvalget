@@ -1,0 +1,35 @@
+{%- comment -%}
+  {% include forening.html code=assoc_code %}
+
+  Setter: forening_funnet, forening_navn, forening_url, forening_gammel_kode
+{%- endcomment -%}
+
+{%- assign forening_kode = include.code | split: "," | first | strip | downcase -%}
+{%- assign forening_gammel_kode = "" -%}
+{%- assign forening_data = site.data.associations[forening_kode] -%}
+
+{%- unless forening_data.name -%}
+  {%- for association in site.data.associations -%}
+    {%- for tag in association[1].former_tag -%}
+      {%- assign tidligere_kode = tag | downcase -%}
+      {%- if tidligere_kode == forening_kode -%}
+        {%- assign forening_gammel_kode = forening_kode -%}
+        {%- assign forening_kode = association[0] -%}
+        {%- assign forening_data = association[1] -%}
+        {%- break -%}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- if forening_data.name -%}{%- break -%}{%- endif -%}
+  {%- endfor -%}
+{%- endunless -%}
+
+{%- if forening_data.name -%}
+  {%- assign forening_funnet = true -%}
+  {%- assign forening_navn = forening_data.name -%}
+  {%- assign forening_side = site.associations | where_exp: "e", "e.url contains forening_kode" -%}
+  {%- assign forening_url = forening_side[0].url -%}
+{%- else -%}
+  {%- assign forening_funnet = false -%}
+  {%- assign forening_navn = "" -%}
+  {%- assign forening_url = "" -%}
+{%- endif -%}
