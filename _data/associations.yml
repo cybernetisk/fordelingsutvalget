@@ -141,6 +141,13 @@ pitbulls:
   url: 
   tagline: "Dalé!"
 
+guild:
+  type: active
+  name: "IFI-Creators Guild"
+  real: "IFI-Creators Guild"
+  url: "https://www.ifiplattform.no/nb/"
+  tagline: "Drifter IFI-Plattformen, en plattform for å dele og vise frem prosjekter laget av studentene!"
+
 # Sport og idrett
 
 fifi:
